@@ -1,0 +1,204 @@
+:root {
+  --bg: #17140f;
+  --panel: #211d17;
+  --panel-border: #322c22;
+  --amber: #e8a33d;
+  --amber-dim: #8a641f;
+  --steel: #6f93b3;
+  --text: #ece7dc;
+  --muted: #a89f8f;
+  --font-display: 'Oswald', sans-serif;
+  --font-body: 'IBM Plex Sans', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  line-height: 1.5;
+}
+
+a { color: var(--amber); }
+a:hover { color: var(--steel); }
+
+/* --- Signature header: "Schichtplan"-style shift board --- */
+.shift-board {
+  background: repeating-linear-gradient(
+    135deg,
+    var(--amber-dim) 0px, var(--amber-dim) 10px,
+    #1a1712 10px, #1a1712 20px
+  );
+  padding: 6px 0;
+}
+
+.shift-board-inner {
+  max-width: 860px;
+  margin: 0 auto;
+  background: var(--bg);
+  padding: 14px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.shift-label {
+  font-family: var(--font-display);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  font-size: 1.1rem;
+  color: var(--amber);
+}
+
+.shift-status {
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  color: var(--muted);
+  letter-spacing: 0.03em;
+}
+
+/* --- Intro --- */
+main {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 40px 24px 80px;
+}
+
+.intro h1 {
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: clamp(2rem, 5vw, 2.8rem);
+  margin: 0 0 12px;
+  letter-spacing: 0.01em;
+}
+
+.intro p {
+  color: var(--muted);
+  max-width: 56ch;
+  margin: 0 0 40px;
+}
+
+/* --- Day grouping with "headframe" (Foerdergeruest) divider --- */
+.day-group { margin-bottom: 44px; }
+
+.day-divider {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  margin-bottom: 18px;
+}
+
+.day-label {
+  font-family: var(--font-display);
+  font-size: 0.95rem;
+  letter-spacing: 0.06em;
+  color: var(--amber);
+  white-space: nowrap;
+}
+
+.headframe {
+  width: 28px;
+  height: 20px;
+  flex-shrink: 0;
+  stroke: var(--amber-dim);
+  stroke-width: 3;
+  fill: none;
+  opacity: 0.8;
+}
+
+.day-divider::after {
+  content: "";
+  flex: 1;
+  height: 1px;
+  background: var(--panel-border);
+}
+
+/* --- Cards --- */
+.card-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.card {
+  background: var(--panel);
+  border: 1px solid var(--panel-border);
+  border-left: 3px solid var(--amber-dim);
+  padding: 16px 18px;
+  transition: border-left-color 0.15s ease;
+}
+
+.card:hover {
+  border-left-color: var(--amber);
+}
+
+.card-meta {
+  display: flex;
+  gap: 12px;
+  align-items: baseline;
+  margin-bottom: 6px;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+}
+
+.card-time { color: var(--steel); }
+.card-source {
+  color: var(--muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+.card-title {
+  margin: 0 0 6px;
+  font-family: var(--font-display);
+  font-weight: 500;
+  font-size: 1.1rem;
+  line-height: 1.3;
+}
+
+.card-title a { text-decoration: none; color: var(--text); }
+.card-title a:hover { color: var(--amber); }
+
+.card-summary {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+/* --- Empty state --- */
+.empty-state {
+  border: 1px dashed var(--panel-border);
+  padding: 40px 20px;
+  text-align: center;
+  color: var(--muted);
+  font-family: var(--font-mono);
+  font-size: 0.85rem;
+}
+
+/* --- Footer --- */
+footer {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 24px 24px 60px;
+  color: var(--muted);
+  font-size: 0.78rem;
+  border-top: 1px solid var(--panel-border);
+}
+
+/* --- Accessibility & motion --- */
+:focus-visible {
+  outline: 2px solid var(--amber);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  * { transition: none !important; }
+}
+
+@media (max-width: 480px) {
+  .shift-board-inner { flex-direction: column; align-items: flex-start; }
+}

@@ -1,5 +1,355 @@
 [
   {
+    "id": "595d506546a03235",
+    "title": "VfL Bochum ohne Pannewig: Schlägt in Hannover die Stunde von Charlie Patino? - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNeFlyNnBiZl9SX0x3VnZYSTdSU1V2UDRsRHhBWHFjS00zTW01MmZBbHNON2NXTnVvYnRwN3p3eWZQS19tZmY4MU8wOUdSb1laSWxsOENITFJDZ0dYOWItbjBFMHFCTWVWMUwtWlVvTUhQcU80UlJWblNxWXhoYVBLVGdNaG00b3NmWDgzcmpuXy1iZEdoUDVUbEJmZGtUWXRIVWxnZEc5T2h3X1NPcm5feVplYjJFNlZnYlJTMXk5YkYzQQ?oc=5",
+    "summary": "VfL Bochum ohne Pannewig: Schlägt in Hannover die Stunde von Charlie Patino?&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T09:48:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "9bcab53b51be62be",
+    "title": "Nach erster Pleite: Diese beiden Spielerinnen sollen den VfL zurück in die Spur bringen - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNWllRZGoxb2U2OG5FUUktczhuR2M4d2tOUmplMlNNa2sxcnhDdEtzTVp6Ym9NSEtmZWZCYkQ2V1RtZGZJek41aHdnSU1LdFp6V2lGdEs3MmF1MVFkSU4xZ1h6ZWVSRG8wYlJGRVJfS3ZuRHFwUWpNWEEwTm1TTk9UOGY0ZWdxX2hST1FKbllMZXJxeXk3UE1pZ0tpRDJZYkU0em1PYl9sSFFsWXNIbDJhb19seEpOWGVlbnhYd3R0dFFUMXgyTzJEdDd1bGJ6Sk1QU2wzOHJYLXdiOEtkOHQ2Qk9ObDRvREU?oc=5",
+    "summary": "Nach erster Pleite: Diese beiden Spielerinnen sollen den VfL zurück in die Spur bringen&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T09:47:26+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "b17936cf8f057303",
+    "title": "Nächster Rechtsverteidiger fällt aus: Bochum wochenlang ohne Olsen - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUF9pTUp5MkRPdDhiNnJiOHdEbHRUVHg4cTQ0cTBJemVLNnZuQ1JuaWpLZzh4ZWI3UWdmb0JyVE1ZbmJmeU5DZ2RmekRCamFkdHZoNTJQVmhOeEUtRURHbDBLd245dk9jRTZJZW5YVmllM3NrNnFnM0VGQ0sxRUFMeUlSd1laVGtFc2hSbGkwbTUza3JyTV9WRkg3YlBaQWxTMVM4cWd1ajU?oc=5",
+    "summary": "Nächster Rechtsverteidiger fällt aus: Bochum wochenlang ohne Olsen&nbsp;&nbsp;Kicker",
+    "published": "2026-09-14T09:34:13+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "1fcaa5a88c41eed1",
+    "title": "Zeugen gesucht: Falsche Energiedienstleister bestehlen Bochumer (63) - Radio Bochum",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZTBjeW1vdTNWTWt4NU1jRzNYWnYyQ3pyclNfNjFxcDFLZ2RYbE5IOERXZ0FiYlZoa0k1bloyTDhyeGNDQ2w2RTlldXBsMFpkMl93eDhrb3lBOHFKSWkzdEphQ3paYXl5VENtYmdGQ0dhVUFfNXFPaVFiS3VQT0dWMEtYSVlXQ2cydEdIQkVhbk92djVVY1ZYWDltT3E?oc=5",
+    "summary": "Zeugen gesucht: Falsche Energiedienstleister bestehlen Bochumer (63)&nbsp;&nbsp;Radio Bochum",
+    "published": "2026-09-14T09:02:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "cb085d772e97428a",
+    "title": "Der Nächste, bitte: Auch Olsen fehlt dem VfL Bochum mehrere Wochen - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUV9ycHBIVlZfMlhYRXNZSmF2Y1I1SlNDTndzdnBVZFZWdDhzRVNnZlIyaWhnb21MVGdUbUtiQTZFTlAzMTBfbF9IbkF6Rkw5bEtBU2dwQnpwNmFFdnQ5S1NqbkdSclJ4TlZKelJwS0R6ejZySy1oU3RIbEpMOWE4QXIzRExLamJSUGRVYW5CaFBBdGdQNXZUczRTWDM5VXFGdjAyNE9XTTFhbVNCSGhXWnBYdUZaWGp2VGNQc1JyZ1Q?oc=5",
+    "summary": "Der Nächste, bitte: Auch Olsen fehlt dem VfL Bochum mehrere Wochen&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T08:31:01+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "c228997b66312839",
+    "title": "Kita in Bochum profitiert von Bürgerprojekt - Radio Bochum",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWlZBRWU3ZmZCQlFKd3lXOTNWdmkxVmZtT3ZwQ2xwbUoweGdsZTdSVkJDRndNeE9Oc3ZwZG5QY1JFXy04VFpuaWpVRTl4VmJ1SDBjcGR2YXg3N1c4T2dNWGtvVUtBd052bW4tSnU3b0JZM1pIVl91cXZxQUxyZVVEMTRKOWNLSXhlcTVDQTVSUU8?oc=5",
+    "summary": "Kita in Bochum profitiert von Bürgerprojekt&nbsp;&nbsp;Radio Bochum",
+    "published": "2026-09-14T07:40:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "fd35dc600510fa7a",
+    "title": "Hunde erobern Bochumer Freibad: 25 Fotos von der Poolparty für Vierbeiner - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdWwzVk5XcjZGclp1T21EbUlDRTJpOHR3Y0d0d2tIWnc5a2ZGUDFqN3BsN1FfYWRXaUt4REhYQkpGZ2NmY2lHRy1lSXJ4NDBjSVlRdjVEZ0NVZHQxUTI5NUNFNGlVZXJiNElkaG9lOVBJUjd0Um4wQk9DWFhCWDd1eVZUR2pDdlNFbDREY2RjQjJUTGw3UzBFUnhCWjM3dmQ0YnFsdGZURWpLbVAyQVBIUEZaVHV0MlJra1pzZ2hvRFVydDNoTXE3WA?oc=5",
+    "summary": "Hunde erobern Bochumer Freibad: 25 Fotos von der Poolparty für Vierbeiner&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T07:24:41+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "34c42da751532860",
+    "title": "Straßensperrung in Bochum-Langendreer - Radio Bochum",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUXNfSXIyUFk1M0lvREU2eFBINVU1amVlOE81bUN6UnYxZlJvSHFzRkU0enNPTUNydmduU3Q3Q3FuTVJUV01wSWZjazJCOFpTdVFaazRYbGJlNnFGNl9ycjl4MmdDRGRXX2dEMFBzaUM0V1JYVkFxSFhmbFJtTm13OXVfdlJrNUJX?oc=5",
+    "summary": "Straßensperrung in Bochum-Langendreer&nbsp;&nbsp;Radio Bochum",
+    "published": "2026-09-14T06:55:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "459932620b42e650",
+    "title": "Traditionsladen in Bochum schließt: „Lachendes und weinendes Auge“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMURhNUIwTVA2T0ZWS2FZUzhxWHVTeVlsSUUzb0lpVk9aZjVRZWhiVEFYWXNUdzFmQjJIQnFoZ0NWbGFiVko4NVRKX21NWV9kTW9RU0p4MUpBekhTTXdNUjJ6RTNmT19VUmVoN3NyRkE1NTNCRHBicjNOY3dSNDI3VjRhWEs3Yk5md1lDUmRRcUhnVkQzWlRQS05XeUxDWlZHOHRoZHZWRll4cXdPWm1RUmhXMVBwRF9xSUt6Qg?oc=5",
+    "summary": "Traditionsladen in Bochum schließt: „Lachendes und weinendes Auge“&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T06:01:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "41e7bd12ff58cda9",
+    "title": "Wenn die Enttäuschung überwiegt: Wie die Fürther das 1:1 in Bochum im Prozess einordnen - NN.de",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNSXFDOF9yZDduQS1BQkQyMGd5dlRWSVRKSW5KMjNkZ0dFWlVFblhKMkIwYzd2VnpsemVmb2ZHOURzQ2V2RE1fNmUxTHBvX184SVJDRWFGVnVwcndFckhHVVYxMFRIVGV3ME9kWDNsYW1Jd196MGNSVGxZWW1DZk5WeXprVE0yd3Y4VHVBRjZDR0NZMjNQVUEyTnJLX0NqMjVfNUQ0UXY0SEU0LW5hZnhMbjF2M2VjZ1NudVFPQlRaQ2pyXzRkQzl5b1d0Q3dKTnIzV3llMWhYX2U2clk?oc=5",
+    "summary": "Wenn die Enttäuschung überwiegt: Wie die Fürther das 1:1 in Bochum im Prozess einordnen&nbsp;&nbsp;NN.de",
+    "published": "2026-09-14T06:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "9b2417bd93522279",
+    "title": "„Hauptsache, es passiert was“: Bochumer erleichtert über Pläne für alten Bahnhof - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRkdqWTVHa3dENkZGNnlKenVUckdfQ2RZRVphSEJGeVJDb2VDNzVDQTBHOHJILTU1Q01TX3hBay1YLVppX1k1S0lrYzl3cjlueDVOc04zcVVXbmhqREhEOHp2YWZMR3piM3BQcUgta0s5SG53ODVsT1laN0Fad0ZfWnpwakZzRGpFenpnTVNNOUdBUGtwSXRzREtqME9TU3pVXzAwRXpoOGI1WHNRSVpPMnplZHQyTDZoRzRTZkJTcUJIUWVKTGJ2WFRfVHN6RHhL?oc=5",
+    "summary": "„Hauptsache, es passiert was“: Bochumer erleichtert über Pläne für alten Bahnhof&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T05:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "d2a9e74a8081e1bc",
+    "title": "Mehr Sicherheit durch Poller: „Warum geht es in Bochum, aber nicht in Wattenscheid?“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcjAyLVdpMnhSQVZ1dng0Q2VuMFdBQTRxMFQ0X1hvQ093RXRveElmM3UwMUItODJSQXJNdEdueEY5UE9RdWhBdFlwblQ0NU14QTdVVEpNOWFzLU9FV2w0UjRxcW1vQnVaVGxHMDJjUlk2NWV1WDRaalNmem1maVR4NnJvSWxkTmxfRzNUczlITTl2b3FoWXVsdGR5UTRwajZhN3o2VVU3RE9UN1dUZ2N6VXh6QjVmbXNVcUpvYVBRWWhyWl9BeHNjcUVxN21FOXRn?oc=5",
+    "summary": "Mehr Sicherheit durch Poller: „Warum geht es in Bochum, aber nicht in Wattenscheid?“&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T04:04:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "2f6a910fa49e3feb",
+    "title": "Die wohl seltsamsten fünf Minuten in Bochum Nigbur fehlt – und das Spiel läuft einfach weiter - Recklinghäuser Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPR2FZblhHZFJKdHJoNVFYS3RKMGJSRmxJZjdPVDRHd3BSS0ZNZkpzSEp5NlNseDB2U3RXTndhd0JJZllmRjZrblA5QWFfbGU1SXJLWE9OZzFYM2pTeDZJLXdZN3RaY3FIU3pGZjFwT3F4blJLek1sVU16ZllnTldEbkZza1d1MTd2T3hUZGJTWktVb1dFbWtfY0tHaklLUmM1b3dQTDdfZUhzcDVEU0ZBSlkxengtYm0xRW5zQjhOVWRrd3lmV0JGQmxyVVBEa3M?oc=5",
+    "summary": "Die wohl seltsamsten fünf Minuten in Bochum Nigbur fehlt – und das Spiel läuft einfach weiter&nbsp;&nbsp;Recklinghäuser Zeitung",
+    "published": "2026-09-14T04:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "48563b228f083dcc",
+    "title": "Umleitung für die Linien 364/372 in Bochum - Radio Bochum",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNNk5ESDIxa3BQNDNHbEJXWjgxenJZa1pSSmlUZWZNeTBqWUV5bU1ELTJnZTNWN0ttZEQ1YlRBVXV4d0QyTnRQcXFYN0I3OEY5SFh0NWpseUVVUEJqeS1IclNLU0p1VUpGRzFEOTk1dE1rMmtEeXlaMnZTVnhkcTZNRGd1RzN4QXNoMWl0QmFR?oc=5",
+    "summary": "Umleitung für die Linien 364/372 in Bochum&nbsp;&nbsp;Radio Bochum",
+    "published": "2026-09-14T03:35:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "1c9d46f18a0c423e",
+    "title": "Bauruine in Bochum: Letzte Frist abgelaufen – was der Eigentümerin nun droht - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSzc4ZERpYnZiRlJIM0h2b29uY2hiUEY0Mzc0MW5ITFBCVV9oVUVpZ2hOXzFLdENBUmVVS1Bpdnd3dW5FazBDUFQ1Ykg3Z0t0eklld282VGduRVYzTjM4NmhxQWU1VmdfajZ3QWEteHpOMkZmeUVpa3l4cUdUdjRwY2ViVTl2dG8wYnhEd2dOeHFTN2pPRHNVbFZHRVBBU3IxblJ5dGw1S2dXdXJwN0UwQTJaWGpnSllKN1diNm0yVTV2RW1KSXhaSVdR?oc=5",
+    "summary": "Bauruine in Bochum: Letzte Frist abgelaufen – was der Eigentümerin nun droht&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T03:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "83ca959b96f4390c",
+    "title": "Timo Horn vor dem Spiel des VfL Bochum bei Hannover 96: „Das müssen wir nutzen“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmFBQklnT0tsOTNNRTRVNTRnMDJkMHZSYmNPWVpQY1hVdDYwT19fUm9Xb2l5NFdEQXhjeklCMEMxUnVLUXdENVJYYWJOamE3YktCdExnbTlDNnBST1NHMnBvWmhVR2dFdTdmYjgzbzJNOHBEX0YzMjVSczJ6Q1FJc05nMHdwV2U1YW5hWkgtcGJDRHdfdDhXQzF5NFI3bmRRbzE3SC00b3A1LTFNX2t1MW1NRk5xRFRvbUpsU1VRM21aLXVtaDFUMWd1MFZDWHE0?oc=5",
+    "summary": "Timo Horn vor dem Spiel des VfL Bochum bei Hannover 96: „Das müssen wir nutzen“&nbsp;&nbsp;WAZ",
+    "published": "2026-09-14T03:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "b26b3fa98b8f71c9",
+    "title": "Di, 15.09.2026 | 10:30 Uhr - Abenteuer Planeten - planetarium-bochum.de",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQMGNMNnB5WURaU1RQTUtRcUZYcWNfY2E3NWk1X1VNbEo5dVNjWHFZU1otdFRMZUZfeUEtNG8zVEJrOXlLeXhXU3FIakZfRUFyck0wYS1iaGxmNnZORElOSmVlZV96NmJoUDNLazhOeVVzQ1FublNCWUdtVHpaaFcxWnRTcVEyMnc1MThodkRpR1RXZHFV?oc=5",
+    "summary": "Di, 15.09.2026 | 10:30 Uhr - Abenteuer Planeten&nbsp;&nbsp;planetarium-bochum.de",
+    "published": "2026-09-14T02:22:06+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "aae6e7044596ef11",
+    "title": "Moral bewiesen: SpVgg Greuther Fürth nimmt Punkt aus Bochum mit - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOHAxYXRTQjVuNTNBb2NPTEZOdzlVdUNtMEZSRHkxcGZnRGp1c1llemdBLTdrOEZfZGliTy1OY3NtMkhUZHFEY0lWVnhWUnNubUF3YkFmbHB5cXBKSXp3RWtpM1kwSTBIbHhrTFZ5MmlnV0pXTDlsaUtJampaaWZFSVo1UnplcTlHMUlEVm9PVnRhbmxYWUlhNG9Scm51ZUs1cy1CbUVLckdrdzBFZ214S2lCRQ?oc=5",
+    "summary": "Moral bewiesen: SpVgg Greuther Fürth nimmt Punkt aus Bochum mit&nbsp;&nbsp;sportschau.de",
+    "published": "2026-09-13T22:19:22+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "16eea37a31df148c",
+    "title": "So, 13.09.2026 | 20:00 Uhr - Nuit Noire - planetarium-bochum.de",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNVmJ0YVMxd3hQR0hvdkFLOVk3LTI1bUhkbm1uZkU2eTdPc2xET1k4NzhwWE9hSUI5VzFHSVlLbjcxbndKaE5GOXlOX0s1NFVubzhMbUUtTDBlNmQyS3JiU245RWVZWWpxYWw1bEM5dXByUk9vaUVFQkNTVGtBTHZxVzc4ZW51STYtTk1v?oc=5",
+    "summary": "So, 13.09.2026 | 20:00 Uhr - Nuit Noire&nbsp;&nbsp;planetarium-bochum.de",
+    "published": "2026-09-13T18:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "9fe3ac2f5aa195d0",
+    "title": "Bochumer Musiksommer 2026: Zwischen Poncho und Regenschirm – 80 Bilder vom Sonntag - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkNZQlVFVnN0WXBoZkp5eWNjaUVLRjlLanVXblkzNGJOSzhPa2Zva0t5WE9BWm1sN3czZWtHaTlGUmxFZ3lKSGE1QWhBT0hKUWRkejhuQTRXTEVwVXRCT1FIcVZFRmRWbTRYVlNWMTBqdWJfWFE3aERaVDJJaU1oT1pMNEpqcENwZFpiYTF4QjZMQjdIS2FFMF9QbGRNZXFZX3l6ekNpMXFHR29NTlVmckN4MlA2TW9vOHF6UHc3NHNsMEU4emEwTm1TNmFfNXNN?oc=5",
+    "summary": "Bochumer Musiksommer 2026: Zwischen Poncho und Regenschirm – 80 Bilder vom Sonntag&nbsp;&nbsp;WAZ",
+    "published": "2026-09-13T17:54:03+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "a28b38a029d27b2b",
+    "title": "Negativserie beendet: Borussia erkämpft sich drei Punkte gegen Tabellenführer Bochum - RP Online",
+    "link": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTjllS1NVckwzYVpvS3pjcDIwaXFHcmFuc0VxN3lrMGhIbHhCZ2o5clFSNzB5cHN4VVp2cjNVN0VUNWpnQUlNYUtybmk2TTZCYzZrVC1KZDQ0TXp5MzBBOVdENFdLWU1JeDZhZ1l6TXZKOUtWOFNxaUtiYzM0X2doaXNVa1N2cUFnNTEza09LVEE5TC1WRU80YlhZVGQwWjlrT2Vtdm8zVHdaeXRXVUxRWEVtU0VRZW5MTy1WaTB2MWVBR09jYktaYlJQNFpWLWZmVEEwcTVXQ1ZzTmZqaktFMnJLdm9xSm1JZi1pa0xEaGZtQ0ZoSXgzWXhvRW93SnVf?oc=5",
+    "summary": "Negativserie beendet: Borussia erkämpft sich drei Punkte gegen Tabellenführer Bochum&nbsp;&nbsp;RP Online",
+    "published": "2026-09-13T16:04:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "e6085ca6f5a29dc9",
+    "title": "Bekannt durch Bochumer Influencer: Firma meldet Insolvenz an – „zahlungsunfähig“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWgwLVh3X3NCcVU5QUZBa3ZCY1N5YTdNbU92Y0IySGhxWGQzYm15U1hiREVWVDJCMjBNOEVkdXh2dU5uNFlNTjdCd3ZDcTMwX1Y4NjVkV05sTmpqR1l3cjZQLUR5c3ZKNnVxV0dRUVNpNUlwQ2thSW8xemhMaDA2eXFMUkJpdDF5YVJBMzhfQjlnVmxkQThYR3ZEdzQtekNkVW5manRqYWtScGZVZkMyR3hlWUhoVWZvbTdoUWlWcFFlSDFGT0FIYU1feGo?oc=5",
+    "summary": "Bekannt durch Bochumer Influencer: Firma meldet Insolvenz an – „zahlungsunfähig“&nbsp;&nbsp;WAZ",
+    "published": "2026-09-13T16:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "e86708944f14c9b1",
+    "title": "DFB-Nachwuchsliga: VfL dreht erst nach der Pause auf: \"Selbst geschockt von ihrer Leistung\" - reviersport.de",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXlEYWVQVzJaYXNSMXBHNUtZRkZuVnZIdHZQNkNlVWR3U0VtbjBBdldLdXRVMlNxRDdreDdfSnZlc1ZoSjVScmROX19TREVyel9wZ1lTRHl6ZGgxcmRNTEhLRDM2bFVzWHczbkhzRHRKd05CWEhTSGhqWmpFbFpVXzFaeHFLMEhkOVIyLTJSSnBzbWxRMXB0eHd1SEgwWjFDQUkteno1aDRVbWg3TGI1Xy1McURucHdMTU9KT3Q5dm8zUlhUeEUyX3Nn?oc=5",
+    "summary": "DFB-Nachwuchsliga: VfL dreht erst nach der Pause auf: \"Selbst geschockt von ihrer Leistung\"&nbsp;&nbsp;reviersport.de",
+    "published": "2026-09-13T15:59:28+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "62566ea89b797dc3",
+    "title": "Bochumerin in der „Höhle der Löwen“: Womit Anna (37) überzeugen will - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTlllYThpVExxOWtEYmplMkVDOGdiMlBpM1VJWmNmcjhtNWFYTnhnTWpfbjlSWFZ3SWZmX1NvSUZkRVNMTllUQlFHZUdqeGd0MlhSRkhJa29Lb205RndEdmFQVVd6VC1yOE01RUZ3MjBZRVN5SE53eGVrTW1CUnNENUNIMlpGbFR3cVpyX0RWVDNOdmxTdFU3d3VJazY0YUVwNWxtNnJ5anVsWHZnSGlGOGlrRXJobHg3SnlhT0xNaw?oc=5",
+    "summary": "Bochumerin in der „Höhle der Löwen“: Womit Anna (37) überzeugen will&nbsp;&nbsp;WAZ",
+    "published": "2026-09-13T15:01:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "a8a000603a413642",
+    "title": "Wahre Stärke des VfL Bochum zeigt sich erst nach Länderspielpause: die Gründe - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOFNfSG8xTW9pak9EOTBjSXNZaHdkNG1yTGhtN0RtY3VVckVYUGd5NnJWRDZ1U0ZLQzBzb0VFb2xueVJpUWJBeDVlcTU4NHBkX0FtUXl4Ul9KTkpCTUhQUnJUcVB4VXdvT01Dd0t0LUphS3I3aGJpdGFRV0ZDclVqM0pZenpwYUg3Zk10N082MDN6RnhqSDc0X25oSmx5UUhsSGlILXMyN1haZDBQVGZnX3lOOUdLUTYxa1BBV1FNSDRVWnUtUV9lTXNxM2pxeUFJdTln?oc=5",
+    "summary": "Wahre Stärke des VfL Bochum zeigt sich erst nach Länderspielpause: die Gründe&nbsp;&nbsp;WAZ",
+    "published": "2026-09-13T14:48:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "2bdb8707e4727f48",
+    "title": "Sieben Jahre wurde gebaut – jetzt eröffnet der neue Freizeitpark im Ruhrgebiet - DerWesten",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObElwS1E5aVhQMmtOTkpicnUwLVlqX2xmdkVILXcwUnd1Q1lyQzFYdG5jQmZmRGdCdkxuSjNGWmJYRlp3VEpmdVBRMk5RWDU4SDZReDRHRndyZ3ZJZ09QTVZ4TlQ4bkduY3p2aGRZZGNwaHVpZTJnTHAtaTViaGNPRGdSdF9OSEx5LVpSamVJVGZzdmFjdGNweVUwdlpyNVZvVmlTaWRTeWJtbDdmeDJnVGJB?oc=5",
+    "summary": "Sieben Jahre wurde gebaut – jetzt eröffnet der neue Freizeitpark im Ruhrgebiet&nbsp;&nbsp;DerWesten",
+    "published": "2026-09-13T14:32:05+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "2d5150e2bd21af70",
+    "title": "Spielereignisse | Bor. Mönchengladbach - VfL Bochum 2:1 | 6. Spieltag | 2. Frauen-Bundesliga 2026/27 - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQ1Q2T2x6QTE3dTlkR0tQUTY0Q1AzMzZYZDFVaC1uR0FMeTJEV3RYZlFVRS1sUm44UGN1UDZxN3Vhb00zNnl6Rko2T2F1ajcwM195b2VxRks3c2l0Rlgzek5JTWY4UUxkNFd3NlVUSDY3TFZwMTk0NjR5VU1JeVhnOVFsSzA5NUVUNXpTVw?oc=5",
+    "summary": "Spielereignisse | Bor. Mönchengladbach - VfL Bochum 2:1 | 6. Spieltag | 2. Frauen-Bundesliga 2026/27&nbsp;&nbsp;Kicker",
+    "published": "2026-09-13T14:24:54+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "04fa1edb27624054",
+    "title": "Die Serie reißt: VfL-Frauen finden bei Angstgegner Mönchengladbach keine Lösungen - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOWVlY2ktNDRYMk1wWml3UkJ2SURkSFlPLTNHYWxMZEZldTVmbHFsTWNqMlRzV0IweHdjYjZUMWpHdUE0aThiZkdtRW5jMURuc3NpM25XVkxpRmRSNllYb19JZE5kSEZiam96TjRDSEh6VVVyY3ZsLWcybFZ1RUUtdDh0VXFpWmE2b3AyaF91ckt3bFVkaHY5X2FjS0lUbGFTeDZ5alYwb0F2dlFaQ0FnRlJ4bnlNZmQtcFY2LUVDTzVnMmswM1VXYlNCcHdSN2ZzVE5LZHRoVGZmbFkyaEx6Q0djSk4?oc=5",
+    "summary": "Die Serie reißt: VfL-Frauen finden bei Angstgegner Mönchengladbach keine Lösungen&nbsp;&nbsp;WAZ",
+    "published": "2026-09-13T14:06:43+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "2f3da4e861861164",
+    "title": "Spielereignisse | VfL Bochum - 1. FC Saarbrücken 5:1 | 6. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27 - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORlJ6czNmeHNNMkxRcmx1WmQ3TVZfeTlGNldFWW5ocmtmMG9ocm9xQmNoNzZNMmpYeVFmakNVbnlyenNIRlZzMjdZR01KOF9xSWtLUHNHcnZ1d0NIUUhuRjFzbVZjdDU3YTNfZVBmTlRJdnlDRExCbzNnd0FSc1lmejlWZDlJbk1vSGdxX2V1NlNPUEVj?oc=5",
+    "summary": "Spielereignisse | VfL Bochum - 1. FC Saarbrücken 5:1 | 6. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27&nbsp;&nbsp;Kicker",
+    "published": "2026-09-13T14:03:45+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "497414ee3ade84a6",
+    "title": "Frauen: SGS und VfL Bochum erstmals sieglos, Essen feiert trotzdem - reviersport.de",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmxGeFhiN0ZENEJ0UUVhOG9sWDBKd3ZaczVXaEd0aEFxbU1YUkVuaHlkN01rZ3l1ZXQ5SGMyU0hLQnZLUVI1MXJmbnNaS1BWOE1EWk9mTGhmN0ozcnI2U3JlOEp6dTN4QmtiaXdGcVR2ZkRnWm53azYxc0IxcXRDc0dCT2tVVnZkaWZWRmttUEVCcUVlaXQwekxuQnBJVXAwMHh0SFl5X3J0ZWNCcUc2d3VaSlYxN0pyOFE?oc=5",
+    "summary": "Frauen: SGS und VfL Bochum erstmals sieglos, Essen feiert trotzdem&nbsp;&nbsp;reviersport.de",
+    "published": "2026-09-13T14:02:36+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "db16ac95e001b681",
+    "title": "Viele Bilder von der Saisoneröffnung der EN Baskets und dem Test gegen Bochum - Westfalenpost",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWXVXbkZsNW9sb25vMFcxazhXb2dSNk5md0EzUlNPMnRhb0d3enN1OEZmb1VqU1NrX2xsR0xuVDBqRUE5QlplOXBmbWxfVmdDVTdXQVBKYVFxbHNqaEUxUWxsNEpOYUxZNE8zTlFqQ2ZjVTFCS1ZPTW9XTXYyN19OZWJyWTFfVU9CQUN1UWhjMER3VmNRRkoyamQ3Ty1qbWUxLWp2X0htT0YzMkpQc0ozcFdkbmFtUUtVREp0TkJsb3o1VVpjVXlDc2k0c3JfX0ZLWExYZ1NLSS1DV3VCcjZtT3NmSWE1Wllr?oc=5",
+    "summary": "Viele Bilder von der Saisoneröffnung der EN Baskets und dem Test gegen Bochum&nbsp;&nbsp;Westfalenpost",
+    "published": "2026-09-13T13:30:15+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "5b2bedaf50999ca4",
+    "title": "Vor Duell mit VfL Bochum: Trainer-Entlassung bei Konkurrenz sorgt für Aufsehen - DerWesten",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdXRTcE40MVZaNXN5ZEZmbFg5NVJRNDllSXk2V29MWWdCVVpEdDJ4V3ZWMWV1LUF5bVQ4LUZtWmI4Z2s5LW9fZk1JWWlTUzZMMUZWWDR1c0NMOGNGc0pPNFlUMDlHdVdjM29ydjVPUWZ3aTZwODJhYlRkb0Q0Z05vUDR0Y0UwTW9vRjBGZ3hrTVF6TlFkVUNXVmhHbzE5TUZ3N0E?oc=5",
+    "summary": "Vor Duell mit VfL Bochum: Trainer-Entlassung bei Konkurrenz sorgt für Aufsehen&nbsp;&nbsp;DerWesten",
+    "published": "2026-09-13T13:24:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "b633b4b3a43b29bb",
+    "title": "2. Liga: Fürth ärgert 1:1 in Bochum - \"Wir müssen das Spiel am Ende einfach gewinnen\" - reviersport.de",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNek9TbUJCZzk2cy11NHNBS0dlZ1lMVGhITEpMTXNORmpyX2xNVHJBbUF4eU1ydHV5YTNDRnlBX3BLa2lGSmYteWtmZloyRW9jZDdYN0ZkMXJKNFdrU1l6cE4yVkNrVHRSRHZMczVsNEVWeVZpR3J5eGhFQUFmNEdLbmZsVU1hUmNDTEJzQngyOVRlVGVkQnpNWXNCQlJwVmREa2dFSE40dkY4Y3NhRkZFb25wTkhyOEFOOHJLZ1BMUmlpRjBwaVk4dEJLU2lpdnREbS1VUw?oc=5",
+    "summary": "2. Liga: Fürth ärgert 1:1 in Bochum - \"Wir müssen das Spiel am Ende einfach gewinnen\"&nbsp;&nbsp;reviersport.de",
+    "published": "2026-09-13T12:32:43+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "fe464733eb36ad1f",
+    "title": "Freiwillige Feuerwehr in Bochum bekommt neues Gerätehaus: „Es wurde Zeit“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcFEtaUNCZnJjRk9za0xyVUlxR25VWHRHSlN4VlpnY29waTF2NDNaWEtxN0pIa1BmalZXTEVQRm9FRlZXRGcwZzY2czB3cmJHQnVHZjFIT25UcEdtTVB5N0lhZ0N2MlJIdERIRkhpV2FJanIwamt5NE1ITmNwbk9pX05oYnctcUZMVG84UFhVN2hoMmQ4XzdwLWFGeDdOVWtJUDRiMWRIYWZhVGk0UnhvM0JJSzZKaURxa2JISk05anBlX1VRWFE?oc=5",
+    "summary": "Freiwillige Feuerwehr in Bochum bekommt neues Gerätehaus: „Es wurde Zeit“&nbsp;&nbsp;WAZ",
+    "published": "2026-09-13T12:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "4e1b2869d9171b5a",
+    "title": "VfL Bochum: Ultras ehren das Ruhrstadion auf besondere Weise beim Fürth-Spiel - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOb2VlNnkycTYxRERHdXUyd1ZEel9vM1Y2aV9RS3lHeHpjTjRldDNWVWZ2RTN4Z1NZLXc1MnUyUWZROUVSTE1XR1djUC1iRWVTalFPb0VXWk92NzhGd2JidTFPTjJMdU5PaTExMkxSZlFaR25IeE10UHBjR184dE0wQXpvNjNoM1RzeUZLbGl6NlJTWVRrLU9yMHhzakFONl9CT0hSemF0Sk5xaUphckQyeXV6MVdNVjR6NU02ZFdDV2dhcVhfTTY3aERxcXVRT1Q3?oc=5",
+    "summary": "VfL Bochum: Ultras ehren das Ruhrstadion auf besondere Weise beim Fürth-Spiel&nbsp;&nbsp;WAZ",
+    "published": "2026-09-13T10:34:56+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
     "id": "86a87e8fe80b2d6b",
     "title": "Fürth hadert mit Remis in Überzahl: «Zwei verlorene Punkte» - WELT",
     "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeW45TmxvWXRUb1NIR1JMbjdKR0tBU3ZWdDFBa1dBejN5SjNaOXZ1aG9sajF6Mmx3RWtZQUdxQ1pRclZ6WkVwU0FiQXpJZHBTMmlrVEJLNU0wODhhaHlUeTBoYXUtbnVRWXZ6TmMxZUN3WkZQVVpKM2pXbWpkU25hRDNZak9ObUtaVkRsM29pMDlIZ3RLSktINXhoRHJpOVVyNkZNSXlkcjh1WC1NTDh6V1NNU09aVC1vem5XM3JGM0RhSDI0U2x3QWU4Mi1IZw?oc=5",
@@ -8,6 +358,26 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-09-13T09:59:41.912523+00:00"
+  },
+  {
+    "id": "f9d4446e38349de4",
+    "title": "2. Bundesliga: Fürth hadert mit Remis in Überzahl – Zwei verlorene Punkte - insuedthueringen.de",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOUHd0c2hJbTdsTHN3WWRjQzBPTjJQemd4bnBybnktdC1KMUZXTUZ1VHRNQ2xVNWpKNTZuYmw1b0Z3YkJpRzY0NzdMX1hlMDQtY25PR0RaZEplX1M3N1FoRHFYZ0tqbWtpb0t1YXBXNW5IT3JPVzVsLTF5b2dIWWJEVjB5V1BsSUNYamV6MVMwUzVLSnJsR0hpT2dRdFdadU1fNHpseEZjMzZZSDF4b2hjbUtQeDNJR2lPRkp5TFN2M2Z5eWtEaF9Yb0dBU1ZWTkpyTG1ISzREbjA3dnhQcWNudkhUa0xjbVU?oc=5",
+    "summary": "2. Bundesliga: Fürth hadert mit Remis in Überzahl – Zwei verlorene Punkte&nbsp;&nbsp;insuedthueringen.de",
+    "published": "2026-09-13T09:55:54+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "42358af6b131a072",
+    "title": "Fürth hadert mit Remis in Überzahl: «Zwei verlorene Punkte» - Traunsteiner Tagblatt",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdm40Ql8xOTdsV2x2R1VBM1p0S19ZTTVHRlYzNlBKNnlGeDVBQ0luSER0c1hzZW9jbkJNa2hFZlVGTmYydkYyQ0kxNEtab1BTbHNzQk9qamprellaWV9vM3Q2UTV4X1hZWUg5NlRKYnF4Y3JHU3ZKNEFHRGdJbDRZM1Y1LXh2d1NMenFTSmJ5dGg4azhjR1FVck9oUEN1XzFvN2tqR1VyZVppTDdteUt6Ykc2ZGs0VHZMaTJmNV8wSE1PVmY2Um02TGZ4ZVdFY3l1NlpzN2hIdTNydw?oc=5",
+    "summary": "Fürth hadert mit Remis in Überzahl: «Zwei verlorene Punkte»&nbsp;&nbsp;Traunsteiner Tagblatt",
+    "published": "2026-09-13T09:53:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
   },
   {
     "id": "e69d25cba8cb96c8",
@@ -28,6 +398,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-09-13T09:59:41.912523+00:00"
+  },
+  {
+    "id": "efdb5d6e2dbda046",
+    "title": "2. Bundesliga: Fürth hadert mit Remis in Überzahl: „Zwei verlorene Punkte“ - Augsburger Allgemeine",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNenZZZ1RYMjlkVWUyWnQ1aXNyM3BtUm9kM1ZERnVPWVU1cVp3MHUyUEk4R1BWTDVBVWtVaFFpa3hPVS1naklSNjNoLUhneDU2MU5hS2RURWNhTXVOeDF2bkxGOTZNazh6d3JTRmhRVktVSVV4ZnVENzVNRFlCRnFpXzN2dXBpQlZnVEowZ3VTTmhWSVdSQ25jVTJKZDN0ZUxFWHp4Z1Vkal9tMlhDWENENHBiWDF4Y05nLVBKSXVady0xaEk?oc=5",
+    "summary": "2. Bundesliga: Fürth hadert mit Remis in Überzahl: „Zwei verlorene Punkte“&nbsp;&nbsp;Augsburger Allgemeine",
+    "published": "2026-09-13T09:51:28+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
   },
   {
     "id": "a8a7854a92be5be2",
@@ -80,6 +460,16 @@
     "first_seen": "2026-09-13T09:59:41.912523+00:00"
   },
   {
+    "id": "9cf03e5839c90686",
+    "title": "Bochumer Abgeordnete fährt im Bundestag aus der Haut! Wutanfall kostet sie viel Geld - DerWesten",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTkFqNlhVRm1zSWJLVXhkUjQ5VTBzQXY5M3dpWlAyUE05RWpGaHRuX2FrNE1qLWNnNWplZDcwMndNRFBBSllGQy0xTTNYd0JGT0RuYVV1OVNsSVRDODE1V2FTWHJjRUhWeEZJRm1HVWluQ0E1ejZ1RjYwUFRtdkd1SzhVUE01VDVqZlNMUUpTX21CX1pmYnkyXzJXcjV6bHcw?oc=5",
+    "summary": "Bochumer Abgeordnete fährt im Bundestag aus der Haut! Wutanfall kostet sie viel Geld&nbsp;&nbsp;DerWesten",
+    "published": "2026-09-13T06:14:04+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
     "id": "1edf7aa7e9bf69b9",
     "title": "Neuer Laden für Tierfutter in Bochum: Worauf die Inhaber spezialisiert sind - WAZ",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSHhaWTV0MTJBdEtIWERxRTRONi1GTG44S0EzYzFyLVBobE01c1RXUzl5Z3M1dHJWVlhKdHVJQ20wTFJDTzZPb2s0aFdFQm1KZjA2YmlVZnVhQ3VNZlFTRjNYUllpRjZBZXZPQzJsbGlyanAzRksyaDgzS1pucWZRbXZOMk9YNlA3X0JFTVNBU1BfUXhxV2dmRXd0VXZvNjBMX1dCNXNUYkl2b0xheXdzdzc2QkxEM0JXVnBEWlBlMlJ4Ny1uMmNQWnRaQQ?oc=5",
@@ -128,6 +518,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-09-12T17:40:50.206408+00:00"
+  },
+  {
+    "id": "560fb5023d504a4d",
+    "title": "Die Bank wirbt für sich: Die Kleeblatt-Profis nach dem 1:1 in Bochum in der Einzelkritik - NN.de",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUERWQ0hhdmpRNU1xcnVmNzJmejVtc2hxZnY2cXNxb1BMTFozcU5ybkttT3A5V2hlN0dwZFJuWmlIOF9ib3NsTXZMY3M2QndfSlo2WTJ3WGI2WGpuY0NITk83TDU5UUgyWS0zaTFTVFlHcFp2SE1nRXk0N0hCeGs3NC1UUVVTcG1xMzc1TzktSVlkYXNtMWJBbmNpRXhhekdoVG5leWR3dGRpTjhTUk1lQjY2ekxtNFBGUTc5N2d5MWcxX3NObVU1YW5WXzRJVXFXQTVuazVGU2lOYnJw?oc=5",
+    "summary": "Die Bank wirbt für sich: Die Kleeblatt-Profis nach dem 1:1 in Bochum in der Einzelkritik&nbsp;&nbsp;NN.de",
+    "published": "2026-09-12T16:30:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
   },
   {
     "id": "2372ef9b8ee20b54",
@@ -210,6 +610,16 @@
     "first_seen": "2026-09-12T17:40:50.206408+00:00"
   },
   {
+    "id": "6e3c29897c193584",
+    "title": "Bochum vs. Fürth Tipp, Prognose & Quoten 12.09.2026 – 2. Bundesliga - Wettbasis",
+    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZHNZTXBtclNEYTNaSGtGZlBlMEktcWxXejI3TUMzS3RaU1p2NnlEbE5NX2VETm9ONHhHanpUYWJPNXV5ckpqaEZJWEQtTXMwOVVfZ0hyRDFiQlJFOGlNcTFMSEh0YVRXUzFDdTJDRnRuRXBPRGNCOWJMOHZhQ3phSjlmYlRVRWE3bXFoMV9FQnBhSEtGS2Rj?oc=5",
+    "summary": "Bochum vs. Fürth Tipp, Prognose & Quoten 12.09.2026 – 2. Bundesliga&nbsp;&nbsp;Wettbasis",
+    "published": "2026-09-12T14:14:05+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
     "id": "32549e887af359a4",
     "title": "Remis gegen Fürth: Bochum kann zu Hause nicht gewinnen - sportschau.de",
     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNRmZPNC1QcFAwck1jMTJ5WnBKWWV2WE9WRUpLRFpFRGMzSWhxRW5uOTNwYl9EZG9yaVB6Q000eFlNS1I1RHkxdkxoM1JDYjZjSkJxZElQMkxYZl9taUVDRmJPVkUyV3pzcmRlaEFWQ2M3NDBQV25sQV96Y1ROY2NPVzA4Sm9FNWpQNm9SZkF0ejJ1d3k5VGdfcXBuYTlsRy01b242OTJ6ZDlCcnp3N3B3WnhkWVhtaFNxTjB6QklNeUpQektLaV9wSGR3VQ?oc=5",
@@ -258,6 +668,26 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-09-12T17:40:50.206408+00:00"
+  },
+  {
+    "id": "0d1975e3a199b2e4",
+    "title": "Mehrere Pokal-Parallelen beim Remis im Ruhrstadion - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4tVjVqZnpVWFVBaUNmUE1yQ1c2dXNWellIaUhlV0t2OWJoR05YSG9uSGhsWjkzT2pNWkRFT2RicnJTUU9kRnF3SUtjbmNwUlRmM21oVmtyTUE3RW5xZTVFblZFQnItRlhVZFdFVXAyV2xGcllxbGZDc2NOYmgzUQ?oc=5",
+    "summary": "Mehrere Pokal-Parallelen beim Remis im Ruhrstadion&nbsp;&nbsp;Kicker",
+    "published": "2026-09-12T13:37:50+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
+  },
+  {
+    "id": "a912a29538a96354",
+    "title": "Mehrere Pokal-Parallelen beim Remis im Ruhrstadion - kicker",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1DY0pNOExOUDVJczhzNWkwZks2YklITmhnTXJrUE5EVnU4dlhiSXpDdmJkbDdDY1YyNVd6MDd1TEZsNkpxcHVXdExVWEdZLXVaQ0FCc1lSZXNROVBHVzJIZk9nTDc2SlAwazNTX1R0S0pUbFg2emNySjhhZDQ?oc=5",
+    "summary": "Mehrere Pokal-Parallelen beim Remis im Ruhrstadion&nbsp;&nbsp;kicker",
+    "published": "2026-09-12T13:37:22+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-09-14T10:19:01.270777+00:00"
   },
   {
     "id": "aa272a5ce3d49b84",
@@ -768,435 +1198,5 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "377363806117ee32",
-    "title": "Bochums Hannibal-Center wird 50 Jahre alt: Darum gibt es dazu keine große Feier - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObTBLTF9CYndqLVR3aW8zUW5obGtxQXRVUDVGZl92Y2VTLXVnbDF2dmRMVldxU0xtMURyemFGdUNGR2NxMFBLdUF1MnRQelpVZEJaODZmLWdTYzg5cG1xR1N5SnFmUzdYbEFVRUR5bWFxT081cDlib2JsS1dyd1o5LUNoSXZfSGp3NXFrdTFBQ3M4NTlJSnBYTjhDdk8xRkRkdFpaVFBJbjJGcWV0RVNDOFJmUzJhOUs0bXRtU2JuSWFfcXNfaDZmRkhDUkJiMmFY?oc=5",
-    "summary": "Bochums Hannibal-Center wird 50 Jahre alt: Darum gibt es dazu keine große Feier&nbsp;&nbsp;WAZ",
-    "published": "2026-09-12T06:01:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "7b2633dd3de833d9",
-    "title": "VfL Bochum heute live gegen Greuther Fürth: Ticker zum Duell in der 2. Liga - Olsen-Ausfall droht - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTjl4VUw4WHVXYUw0WGJXb1hqOUdjVWphRmZOWEEwVzlNTjVkdEhFbDQ1MlFhOHZTQWE4Q1UzM1R0ZkdlZTB3cjZwSlFNSEhNWTc5eDhXZFlnRjNkOVJCWFFLV0FVQlJfWnVzWFkzaVBudUFsWTRyc2tLaFF3TXptZXhsLUVPNlhSSjVZbGhSa013cUVUQWNBZW42d0R0dTJFcGVxSTNla3RLQ3JGZXg5a1NwSEZSV19ValFpYzZaclE5U2JvRS1SNzhYMA?oc=5",
-    "summary": "VfL Bochum heute live gegen Greuther Fürth: Ticker zum Duell in der 2. Liga - Olsen-Ausfall droht&nbsp;&nbsp;WAZ",
-    "published": "2026-09-12T05:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "8871cfc3fb7d3dc8",
-    "title": "Neue Regeln für Geschäfte in der Bochumer Innenstadt: „Gefällt mir nicht“ - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOb2pxOV8zQXRPUGtlbVpiWXloYy0xTjltQmplVHo4QXlQRnZ4Qkc4TEhScE5pTk9nel9GSDJNNWpvbnN6RTFzamZGY1VzSFlVUDc4Z3dLOS1nRUV2dE95a0thWk42TFRZQUx1TE5CSlpIRzZ3ODFmLVA1OHBpLXUyZUhxSXpzZ0x3M1Uxa3pHSmxSWlBiSk1Tc3U3RGlQM2M4djJaVlZKS29VTllNaDR5RFMwQ1hfQXFZeVZ2S2VVME9TSVFuOTMtVQ?oc=5",
-    "summary": "Neue Regeln für Geschäfte in der Bochumer Innenstadt: „Gefällt mir nicht“&nbsp;&nbsp;WAZ",
-    "published": "2026-09-12T05:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "8cb9fe02de46c215",
-    "title": "Wer zeigt / überträgt VfL Bochum vs. Greuther Fürth heute live im TV und Livestream? - Goal.com",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQR0YxTUFlVm1zZFJ1Sm81ckNkaGozSUNNOUFGNzBrSGR0RGVrejFpWWVER2NQd0FRbG9IUU9HZWhwM0hQendkeXBMdVZjeWxocU5VQ0xNdVowOEI0RGVqZXVhYUV3djRhU2w2WkphLUJ4cWpGZGNuWmIwRHluRWpibnBUM19HQU45dTM2UTBHWWNMaHF2al8ybzZZT1IwU0RneHRNUks1REpkbWFPZGFEN090Z041em5pSEJUemtQN29waGtPYXJKNzVUeVJIYWVTZHJ0R1FOZl9JQXg0Snc?oc=5",
-    "summary": "Wer zeigt / überträgt VfL Bochum vs. Greuther Fürth heute live im TV und Livestream?&nbsp;&nbsp;Goal.com",
-    "published": "2026-09-12T04:30:01+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T17:40:50.206408+00:00"
-  },
-  {
-    "id": "16b594a070650133",
-    "title": "VfL Bochum vs. Greuther Fürth live im TV und Livestream – Übertragung, Anstoßzeit & Vorschau - SPOX",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN2d5NFJHZ1dTRkpjbUtqTExIOF83Z1JYTEVUQzJuVmdvN093c2FlNnVHeEZ6a0FrSENic19HOWNOT3IxcWpuMDFiek5Cc3NtUlliT3BnTlVFVHZqb0pMc0RYVnhSeV9NcW90YnhhcXk2WngySEdmSlRrY3dOOC1Hb2JaZ3BFX05tbUkyTklyRzJaOHM5SUJwaTRKelRjRDZXWFpSSkZZZ1NoQzhhX0k0c3haaF9zZWs0TS1SSDFreUcybFRRVjNhR25xak9sVndDamFodjlPWkhfa3M5bXV4QVZnOU9ISEFjMWNwd25oMnpzSjRZ?oc=5",
-    "summary": "VfL Bochum vs. Greuther Fürth live im TV und Livestream – Übertragung, Anstoßzeit & Vorschau&nbsp;&nbsp;SPOX",
-    "published": "2026-09-12T04:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "ae246d0825f35222",
-    "title": "US-Amerikanerin zieht nach Bochum – „Die Leute lachen mich aus“ - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdmFFeVU0bTdXSTZkdk5MUWZMbm9sbEJSdnA5cEoydHBYaHp4ek9pUjA2cG4tQ3NOV2dTaC0wbFZYdjhwWDVGVzYzdWpNZE1SdlRrRVpKUGhqVjBxenlhOUhWd2pHbmNrOEN3Y2tGQUZ1ZGxsTEd1ZWFTMVc4Y2s1ck9mV2RfdFJseThkeGtMTGdVbTR1VVp1ak5ZRUY3bWZEMGJnVE13?oc=5",
-    "summary": "US-Amerikanerin zieht nach Bochum – „Die Leute lachen mich aus“&nbsp;&nbsp;DerWesten",
-    "published": "2026-09-12T03:20:10+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "815dc65fb7b8069d",
-    "title": "VfL Bochum 1848 - Aufstellung | SpVgg Greuther Fürth - SpVgg Greuther Fürth",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPRldWWXJGNzhFZENZX1dmdllYazRRN1BQVlZCNkdtYjNZdE9CODc2bFk3RVZpNnJJVHVIbmtwY2w3LXdxMWRxbXdkd1dXU3JBTVIwOEFKXy0xT2ZSdEFhZ2hBeGpWY2JOaU9VVWg0ZWUyWXpWRlJvbWkxOXdQYzdXX3poc0w?oc=5",
-    "summary": "VfL Bochum 1848 - Aufstellung | SpVgg Greuther Fürth&nbsp;&nbsp;SpVgg Greuther Fürth",
-    "published": "2026-09-12T02:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T17:40:50.206408+00:00"
-  },
-  {
-    "id": "ee154bcadc3f5542",
-    "title": "Bochum feiert seinen Box-Weltmeister - LokalKlick.eu",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1JSmkyLXpGOWdFQkhuNDhXbHExdEFILTRSeE9lcC1yVkFPSGdnVXpNLVktRFVvTU15dUdNeVVCWEphWHlZQkFWTjNoUVd4M1ZOLW5vVjZMT0o2RWtCWGstRkY5bmVVVTRQeGx2M0pVYjdSdFdHeWFrQW9n?oc=5",
-    "summary": "Bochum feiert seinen Box-Weltmeister&nbsp;&nbsp;LokalKlick.eu",
-    "published": "2026-09-12T00:05:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "a3feca0c854004c0",
-    "title": "VfL Bochum - SpVgg Greuther Fürth - Eurosport",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNazEzQmV2RlNTQ0dkc2laUm5kb3hCU2RYZUU1N2N6MTNEMnVUenk3MGJvTzc4cGg0OVB5NTlDRXBEYU40NU9oRVJKTjlQblV3QV9meEVrQURWWnEzbkprYkMxcG04T1hNNjZQOXI5ODdfVjZ6VlF1b3E3S3ItQjgzQ1dObGpvRi04ZlpQVjZGcTNybGFfY3VfVlltQU5ScUg3Y1Rac3VxQS14RE92U2YwZjMyQ3BkVkJVZVE?oc=5",
-    "summary": "VfL Bochum - SpVgg Greuther Fürth&nbsp;&nbsp;Eurosport",
-    "published": "2026-09-11T22:02:12+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "d659b34469024a84",
-    "title": "Der Terrorpilot der in Bochum lebte - WDR",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeUdLY0xzWHRRclVVR1dhTVpqOEduSE4yRmFqbVRmTE1MVlhpV0Uza0RseUFQeW9JMklyVU4xSmFmZDhFdUg4UVc3VjEzUHlENTlNVkdqWW5IVlRnM3JFZGVqNllJbHkxZzRudC1Vb2NraGowM1NYY1J6TER0a0UyczdETWsxRVZtWVk3U0VtZXdGR2xPUndrVWhsUG40bVNhaTMySNIBowFBVV95cUxPdVZlRVc0LW5KVGRQRkpmdkI1SjI2MG4wUVJjZEo2REtfLWo0VUUyTFBDc2l2WERheUctT0twN1BwbXRvaTVWak02YTVnaG9TOVBqWWo2bk50S0hyVFBRZ19QeFNWRlI4WVZiYjFDWTI3cE15R0tJWV9FbExBSndPTXF6NG0zTTk1OTdRbklqMXRIaVN3LVNVaUstYjQ0M05qRUhj?oc=5",
-    "summary": "Der Terrorpilot der in Bochum lebte&nbsp;&nbsp;WDR",
-    "published": "2026-09-11T18:59:30+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "c82fb5602a17ec11",
-    "title": "Bochumer Abgeordnete fährt im Bundestag aus der Haut! Wutanfall kostet sie viel Geld - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVRKYkxNY3NoTURRZlZJMlQteDNZOGdBWnZxZ3RyTE5RVkVvcTF6QVVFRHVGa0NBZWZFZkxONE0wb1lFT3lmaXhZVndLLVVOUWRpcnBCYmZld01Nd3Z5b1AtemQ5MTJSOHhkLXR5ZTZQZzBwREFiRlRwejZQWDJYdDRvRF9rTGhDVkF1TmJaNWpzY2c?oc=5",
-    "summary": "Bochumer Abgeordnete fährt im Bundestag aus der Haut! Wutanfall kostet sie viel Geld&nbsp;&nbsp;DerWesten",
-    "published": "2026-09-11T18:54:03+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "679a7a414413b0af",
-    "title": "25. Jahrestag 11. September: Der Terrorpilot, der in Bochum lebte - WDR",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPRXNSdWllY0FWc1dUT3p1UEFPc2xvaEFTazFHTkxWNnRpUE5LbWYtTkJMakwwOV9uY2ItYlFfSERDTmhKcGRZNklmY1VDWXkzbnUxeThrUnZmTHA1MmZ5U29zd3hmb1pHVWhxeVEtbDFDLUlwMkE4MUY1em5lOElQLWV1d19rMl9sb2gxcWNFVkNGYlRUbFEzRDgwZnl6dlhKa0xYajZ2UXNtaWJTbFVGYkEyN3RNM0hONUpNbDZCdnR2TGF0bFhlWThtUnllMmJx0gHPAUFVX3lxTE8yR1RucDludWo5b2xINHd2UFNDY0JLb2NzZ3pZRVBSZzlXZFZyYU1VUW5ESGJaSmcxb3RFaDRIblRNQUQxNzJRQ0hsYXRYRnhCZC1VdmlwQ2FXcDltQ01NNl9VQVJ2d2UzSXoxVWlBZXE3M3NURy0yQ3JSX2N5Ui03a0N2QzFhNEJwQVYtTThwNEp1REdORG4tZlZLRmloaEVBWkQ2Z1pDOHJlMGw3OUlJVkZJVVYzeHdURWdHVmk0ZlRidjQtWTNyZUJWX2hvYw?oc=5",
-    "summary": "25. Jahrestag 11. September: Der Terrorpilot, der in Bochum lebte&nbsp;&nbsp;WDR",
-    "published": "2026-09-11T18:20:05+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "5195624e99b6ffa1",
-    "title": "Nächste Eskalation bei Bochumer Feuerwehr: Strafanzeige gegen Einsatzkräfte erstattet - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQb1FyZjVSWEUxNUFtOWlORjRzODdLeXQzUWtMYWkzT0JpcVRpMUNvczlUXzJqVlZfbW8yZU5vUHAzRE9TbnNvYkh0Zm12blJqZVdaX29xWnhTV1lzTHMtMFRpWG14OUJneEZQSU5Vb3NuY3llcnJOaUtpV25Xek5JT0RwRGhNWjZSQWc4ZGp6SEVzRVRTZlFEZjFFOXl5M0l0Rnd5WV9QZEFweGtQS2lMTnUxYTNMVGxLQmJHQWxLRjM2akdoZGlyR2dUemJ3Zl9tQThOWWFmanBXQQ?oc=5",
-    "summary": "Nächste Eskalation bei Bochumer Feuerwehr: Strafanzeige gegen Einsatzkräfte erstattet&nbsp;&nbsp;WAZ",
-    "published": "2026-09-11T17:04:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "a336c07701a043b5",
-    "title": "VfL Bochum will gegen Fürth den ersten Heimsieg - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQbTNnbVhnZ0hIakJxYkY5b3RmSXQ2UGZoeUZINU9fZGZVRlRaM0dILUNVSmlJQ1dZRkdsdWl0ck10cHNPdmMxdzFJUFY1aTl4QmlScjloSUNuM1RRU09XZVM0NGZ1cVp0Z1pESE5hVGZDR3dLUkhfNjIzNkUybmtmWnJCaG94cHBHTkVPUGh2WG1jVzZUMWc?oc=5",
-    "summary": "VfL Bochum will gegen Fürth den ersten Heimsieg&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-09-11T17:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "49a927521aeb6abf",
-    "title": "„Neues Kapitel“: Augusta-Klinik in Bochum eröffnet Neubau für 17 Millionen Euro - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPeHRWWUNVbGpPNXlmZHVVSHRZZHI4M0Y0UmJsS1huOEtGMGJDY0F2TDNtV2dHNmVQRlFtRDRQQWU0WTVFaTB6cy1EbG9pbHRlU2txd2JwdlU2Tk95cjF3Vm9RdjZFM2d1M19WQmR2aFZ6ZnNFSHZwVkNfNVBRWUtWTEJqSndxXzlPcC1zb0hQM0hrdEp1d3hYdDJBYThoVUxWcnNyMV8yR0hLZjBTNzN5RkF3N2ZLSXcyWnB6cV9FTUpEQ0x4TGJSVFhOb0RuckE?oc=5",
-    "summary": "„Neues Kapitel“: Augusta-Klinik in Bochum eröffnet Neubau für 17 Millionen Euro&nbsp;&nbsp;WAZ",
-    "published": "2026-09-11T16:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "4226a4ffd92be353",
-    "title": "Ex-Profi Lennart Koerdt trifft auf seinen alten Verein – ohne Groll und mit neuer Lust - Soester Anzeiger",
-    "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOby10NVluSVJQMGwzSElxZEplQUw0Ri1kV1hZVkY5Z2NVTDdhQ1AzWFRwYVBYYW9xV3VHTEVEUzBjbEp4ai1HMTVKa0w4WWJXRzBHUDVqQkZSbG5QRGtpbFM3aU93QTJSZFgtcHN5NVBiR1lBSy13U3B4b05FNy1MZExVRWU3dXpoT2NWdkNCRG1EbVdtTU1FMzNkRHByRl9MQ3dFV2o2YTR4Qlh2SEoxUnNhdkFoTkpJTTh4UHV5RFA2LUQtNHZJTnItdWtXWi0xS2RUXzc0RHVfdWt4NVpLSg?oc=5",
-    "summary": "Ex-Profi Lennart Koerdt trifft auf seinen alten Verein – ohne Groll und mit neuer Lust&nbsp;&nbsp;Soester Anzeiger",
-    "published": "2026-09-11T16:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "ad6be1bf2b5f82af",
-    "title": "Das Wunder von Düsseldorf: Wie der VfL Bochum eines der historischsten Comebacks schaffte - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMnBxQXl5X0IwWEJCLU0yWWpmbkZLSTVmOVBaS0tLd0lLdkE4MDAzMGdzRmREQ1gyQ1VHUXp6cEFLU0czWnVKWENkdjdGZ0VIbnI0WndEdUFTRWVGN2xNUFhMWWNLSlFObjZXb1pMNm1KeEg0M3VoWDhoM2x1V3YyY3BLeVY0RzBZcEU0R2JLRUtucDEyUHB3TVNCVjZBQ1Vna3A5ag?oc=5",
-    "summary": "Das Wunder von Düsseldorf: Wie der VfL Bochum eines der historischsten Comebacks schaffte&nbsp;&nbsp;DerWesten",
-    "published": "2026-09-11T15:53:40+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "728fcb532e6b2597",
-    "title": "15-Jähriger treibt tagelang im Meer - und wird gerettet - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMG5ldnVBSUxkU05fRWlwZGtmMHJMbm5IdW1wOG1wY2x5eWh0TEpGcjJhX0dDRE11UC1Rd3IyZ3dKN3dPaldjem1vNHZlbVpPMl9jaTJqMmFrbTZNZ0VvSDByNTdNbHYyd21ubV8teVpfZjVYYjZaQjJURmRRQU5nWmZVeVZTRGxiaUhDTEUycEY4dGJyako0bA?oc=5",
-    "summary": "15-Jähriger treibt tagelang im Meer - und wird gerettet&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-09-11T15:46:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "0609b69b1dcc709f",
-    "title": "Neues Golfgelände in Bochum - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42Y09mbkYwTGkxcURoTDVSd1RJaEJhT3dBcXdPeWdpblFiWXBIcWFOZ3B3S2h1NHZ0TjJWZkI4UHlaUHRkOG9fVmJyY2F4LUwta016XzhIbFdtZW12bVFvdVhTWFhrUW9Wdmo3WFlBR3JyX2MxSGM3R3dMYw?oc=5",
-    "summary": "Neues Golfgelände in Bochum&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-09-11T15:04:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "3cca7b79b89fa31d",
-    "title": "Spielplatz, Sprintstrecke, Trampoline: Die Bilder vom neuen Super-Schulhof in Bochum - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMGY4RE1aWXlpRVZxLWlZR3NfWmlEUUYtWVh5VVpGbW9lOXhCZC1qd09STS0wbGN3cnBNVVJLYUozT2V4UWxSVF9WZmRSeS1LWlVCMjJ5bVY3eXUyMTY3eENEeTBIU3dsTXp6Q0pSSzJicmxGU3dPRDMtemFnVUV4VGgyZ0hPRzYtN2R6V0tVZGZXSEVtMU96Z0VTaFhvUHk0WFR5QXRVUDRYdWVmV2tqbTlET2hVVWFPeXRlR1BLQmVjRkJQQnhVNTFuR3F6ekdkc2NR?oc=5",
-    "summary": "Spielplatz, Sprintstrecke, Trampoline: Die Bilder vom neuen Super-Schulhof in Bochum&nbsp;&nbsp;WAZ",
-    "published": "2026-09-11T15:04:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "ce4c1e858316e817",
-    "title": "VfL Bochum: So will Uwe Rösler die Fans überzeugen – Geduld gefragt - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb3VLRlpSY0ZadjZheU1RNWFFWjlpVVI3SkNVY0hseUtFVkNkTHJxQWdRTW42S1VuV1ZGUEVlS1FDdnJ0eFZCRWFyNlNqSnJUWlQ3NUlxeVVkTjJtQk04Uk11bE9qOXFXZEtYMmxjeU1DVWdabFZvZXhjZkRDVjZVal9BajE3VGZhNzZjT3UzOVoyRm1oLXJORVRqQ1VremxlS2dpMXAwSXcwTjlNekkxSW5nanB5aXRJRTlxbnlnb2huUQ?oc=5",
-    "summary": "VfL Bochum: So will Uwe Rösler die Fans überzeugen – Geduld gefragt&nbsp;&nbsp;WAZ",
-    "published": "2026-09-11T14:48:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "e7799a2e20a65d53",
-    "title": "ARGE Krebs feiert 70-jähriges Bestehen in Bochum - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSkdEZzlMRXpiMEIxYXM1c3o4ZThhbUhjOHU5ODBPTWkyNkhZTURFS0l5SHh5NnNrbF8taEd6c18wbmtYNkpvaUotd01xQUgxT3FWaDdiWGd3NDBLU2JrSzhrZnVQcDlQR1dLSWV0NkJ4THVyWUd3UUF6WlFHaFB0Sy1rV3RCcWFUUDc5TkJKZjBXYWFTRjVF?oc=5",
-    "summary": "ARGE Krebs feiert 70-jähriges Bestehen in Bochum&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-09-11T14:42:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "06df2c5d9d823fff",
-    "title": "VfL Bochum: Nach über 25 Jahren - Legende verlässt den Verein - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcy1EM0dZTGFGalRUMF9uVGYzUF84QkJ4SWFabGphS011cGZOUS1BY3o1MUZrVTcxc0x4cWE5NklETjZNQXBzd3dSSjNPeFIwUXd0NDhnT3pNU1JYaVZzckJ1MkNlZXl4TmM1dnlBTktOYjdLY2FJUWstMWdqZnVLdzJ2eDRmVU5MNFVnd21pNkpOcEswcTlqekR4bnFDUFFDRm5XT2Jud3lwTF8tY3kxRzZrTWo?oc=5",
-    "summary": "VfL Bochum: Nach über 25 Jahren - Legende verlässt den Verein&nbsp;&nbsp;RevierSport online",
-    "published": "2026-09-11T14:10:03+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "8a3764dad715d127",
-    "title": "5. Spieltag: VfL Bochum vs. SpVgg Greuther Fürth - SpVgg Greuther Fürth - Forum | Seite 3 - Transfermarkt",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUjdVY2hQMnU2bGJYcjNiRTIyR0otTnEyclJVaEpfQzR5UGhmTmpfVXhHOEQ1S09iOUg2eC05cm8tLVMzOXoyQzNNVHIzUGU5YTR2OU4wWGprMlZHT3VSamhldWROaXh1cDFKWFNlNDBJMWxqYUJUWjBNQlJCeU9pNmc1dzEzRE90Wi1KOXBBZE1zVFI5Q1RDMGI2ZGs3blF3VmMwSTZhcmozSGE2bXowQUJLMA?oc=5",
-    "summary": "5. Spieltag: VfL Bochum vs. SpVgg Greuther Fürth - SpVgg Greuther Fürth - Forum | Seite 3&nbsp;&nbsp;Transfermarkt",
-    "published": "2026-09-11T13:37:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "beb3bc122e076da0",
-    "title": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - Aachener Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUnNEOExZTngxU1VPQVotWmhNUmdxMTBjS2hYUW85UkpaVkZndDl2dHhXdjdGazBnM1AxOHRJY0FrV3ItaXlmU2ZuQUVvb2NjWlp4VTZZZHd5RnM5a3VPNVZyRmRnT3RpUTMtaFk3ZkxmZUY0UFZIcEdoNDhWQnc5amlQalZjUXB0V2dUd1E0UkhVVG5nSHdDd1FEdllDdnV4b2hNbGppWmZnckt1OVBNcWlZU3A?oc=5",
-    "summary": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;Aachener Zeitung",
-    "published": "2026-09-11T13:31:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "6ec50862922a5eb1",
-    "title": "Sperrung auf A40 - Radio Herne",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBlZTJ2YWVwdm5aMWpTUllranJGY0ZKc2phblhYcEZIYkJYTC1IN0xmZU5jZXlnZk4xTHpzbDdLT2FJbS1WZmF6Yld3U1Y4RWJPcENzTkJFWGFsOWZfR0J5U0ludklmYVhFc0E?oc=5",
-    "summary": "Sperrung auf A40&nbsp;&nbsp;Radio Herne",
-    "published": "2026-09-11T13:28:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "e8f6aa4a97e51d2d",
-    "title": "Umsonst und draußen: Bochumer Musiksommer 2026 startet heute mit über 1000 Künstlern - Ruhr Nachrichten",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1V0OENUU2tqMVBzSm12M19uSS1pRXhWMERiTzUyUGFORDFnMFBsSkowQlhDZzdaTHZfN1VXMW1kNk9UUHBIRHZFSXlEQXVLbVROWW5HZUthRmVsY29ZZ0ZNeEptLVZtbU1EbDRNZkVqN1Z4TWE3WE9oZVhzUGd1MnVTX0c5dnJ5V0ljY01XaXNIYTVzUWl2UVhpdnduLV9ZemtlUnlBYlg3ZjMwRFI0WHpQNkJVQzc0eUY5MmJkbkl4Q19uemhCdA?oc=5",
-    "summary": "Umsonst und draußen: Bochumer Musiksommer 2026 startet heute mit über 1000 Künstlern&nbsp;&nbsp;Ruhr Nachrichten",
-    "published": "2026-09-11T13:23:00+00:00",
-    "source": "Google News: Bochum Innenstadt",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "5dfa2dbf4bec580e",
-    "title": "Legende verlässt den VfL Bochum nach Jahrzehnten – aus persönlichen Gründen - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNREJtQk1IcUFnQWhaZE5teTZ5cTNCQllvaDZPWkR1THNHRzJrZXF4ckppNGtPQ3c5Y2dubU9weGZQNVpWUmdERTBWVHpXckRjVHB2QTV4UjlVbHhybkNybUdaaHhHN3IyRG9HMWNCbzg1eF9xODRiS2hiU1J3ZVlyLTFZRkdabWJLU3RXOGdhQ3RadnA2UUdONi0xWGFtNmRiMUtYVGZveFBKdjgxUVNVY1oxQXFzUEFSSHczaHFUOUJvWElFM3l6NVdCN0JwTTg?oc=5",
-    "summary": "Legende verlässt den VfL Bochum nach Jahrzehnten – aus persönlichen Gründen&nbsp;&nbsp;WAZ",
-    "published": "2026-09-11T12:23:14+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "6a12798efdbb8a86",
-    "title": "Polizei warnt vor Trickbetrügern in Herne und bittet um Hinweise - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmEtVEdMTko5RHZWanZ6cTJsZ05RUW5KTjFoZFZPT1l1SE9BazVtVG9lREEtaHdpR3FOYmhfVndCal9QWWZWMm8yb0dxLWZraFhId0hoUDZRQXlSQUZtZG1LOEZVYjYwcEVPX3BRaVdZSmU0ek5rcGN3NnFMbjlyVkdYdlI1cnhnSUxaZjdVRlN2QXZRdVRXTUlXSXpmTjMx?oc=5",
-    "summary": "Polizei warnt vor Trickbetrügern in Herne und bittet um Hinweise&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-09-11T12:18:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "afbdf1eebfda6437",
-    "title": "Musikforum Bochum nutzt jetzt Solarstrom - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdDdheW93TWQ3LVY4cHIyeHhnbnBUT0tOYW41dWx0dU5kNXJIaVR5YTVfMFktY3JMcTFoc0UzeUtDTVVjM3RRck5aQm9vVXJHYVFkQURrWWRYNkdJNEVHaGpJV0E0RUZXaHhwQU5IY0o4WU1CZzJxc1NIVGt6TzFjcDRQUnAtREw1M3ow?oc=5",
-    "summary": "Musikforum Bochum nutzt jetzt Solarstrom&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-09-11T11:50:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "5881c25ca969b9bd",
-    "title": "Anne Castroper - Inside VfL | Ist der Kader nach den Ausfällen zu dünn besetzt? - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VMWd4YTdXNlRlbW5DSFotN1BDQ1ZzaDlzVWhHVG1KMV8wTXRaa3A2dUdXRkdfS1A2M0Z1bUxzVlRmWml0cmV3SjlfTEJVN0FjdmFrWG5vRy0?oc=5",
-    "summary": "Anne Castroper - Inside VfL | Ist der Kader nach den Ausfällen zu dünn besetzt?&nbsp;&nbsp;RevierSport online",
-    "published": "2026-09-11T11:49:56+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "4dd08cf488bafff7",
-    "title": "VfL Bochum: Hinten hui, vorne pfui – Besserung in Sicht? - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNTXBSVEs1QjhyVmh0U25xMnkzV2NiOEtLREpRTjItWFN0QURVTHdMOTdobUVLZ0R3ZmxrQ1RJYVpNQVRiM083SHc5RTZGLTRRV0JOTTVyMFNucnEyS05sR1lTWnIzNHRZckJYS2tRaGlwekNaa3FoV0R5V1c0N3RWUHM5ZmM5Vl9ZcjFfTFJlZXNoMjI1bXJaQ29yTmhTc24yTERKMEZFckxfdEVvQ2RBUA?oc=5",
-    "summary": "VfL Bochum: Hinten hui, vorne pfui – Besserung in Sicht?&nbsp;&nbsp;RevierSport online",
-    "published": "2026-09-11T11:42:35+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "f95ed6d602b3fa2e",
-    "title": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - WELT",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQNHozT2h6WDEwa3UwVm1kcUVxM0gxaWpCWEZaT2wzYjdLVTVKQ3RlcHRuOUYtM1BlWHo1VUxWcUZqV2tfc3J2LVluYlFJY19SVEN4OGx0azRiX0FJb2tkU0tjYTFqZHNyYzBlNG5qUExfRFJJVVNBVFRkS3pEN3NPQVp1RndNVGQ0dXJrSzBvNFRYeDVmYThTRDVVODE1MHNINFYyNGZYOG5Qb1B6Sk1iQmRTSnMwMHdfX0Z4RWtjTVFVWXN6WHhF?oc=5",
-    "summary": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;WELT",
-    "published": "2026-09-11T11:35:06+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "f33d1fc38ee6f79e",
-    "title": "Nordrhein-Westfalen: Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - n-tv.de",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZzBjbjVoQi1QTU5hQVZhRldYbVc2V3JHX0paaHRQLWlrRzQ1cHZMUFU2QWxhSXRIXzRXcWsxbkk5OUhLczlxNWdPSEpnWkQzR0pHeERmNFBxUW41MldYOHVaS1F2S2pFbkd0UUZzVVdNaVNOcTZra1Q1ZXFOREdhX2otSlhQTGtfODJybm5PU0cyVFlqZHhYT1Q5QnBMeTNFYlh0dmhHV2VZbmp6WFY4aWpYOWFEejRSQldTVE0zVGM?oc=5",
-    "summary": "Nordrhein-Westfalen: Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;n-tv.de",
-    "published": "2026-09-11T11:32:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "efc6c35b8542eb4d",
-    "title": "2. Fußball-Bundesliga - Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - Sport - SZ.de - SZ.de",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPR0lLc3hpb1EtSWQwX3BmNGpXX0ZSLW5CX21OSV9idThtbkozeFlPMVRqd0dNb1JFWGdNSTk3WGRIZTgzUVpDajBNQzE2T1pMX2NlSmpnUmVTeUpqRFZ2NWpNTXBtblVTRE9VUjM4WVJURnpBamQxSncxMnczbDkyeVQ2ODhZYzFNNU9Zc2gyT2UyNW9ud19PdjRDMmlkUUxRTDBDcjNWelVMbTBQUjdacDM0ckZTVVlzR0JpcE9iblJPV3VjR21iOGZPYzRLWnlYRVN5ZzdXSTZnNmVxbEl6aHprdjQwb001UERlSXZtWnQzbExj?oc=5",
-    "summary": "2. Fußball-Bundesliga - Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - Sport - SZ.de&nbsp;&nbsp;SZ.de",
-    "published": "2026-09-11T11:31:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "178ab9651dc53d24",
-    "title": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - Mindener Tageblatt",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc2J6bmZvLXhKXzdBSzRxZ3dRTE96dnlaekVIUkt6a2NfZEoxR1F2aGV3ZzdZN0pPT2NkdWhkajJQUGRTOHlEQThrTkJYQWgxOUs1Ny1PTFV4ZURDUU4xbE4wN2JqUmZwd1c5bjhFbXg5SjRqLVBSMC1zUUVSLUowYjNVTXFobW1PR05ObmpUZzdlQ2tQcTJvVDBMOTNGSlNYMmQ5dUd3?oc=5",
-    "summary": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;Mindener Tageblatt",
-    "published": "2026-09-11T11:31:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T09:00:54.273124+00:00"
-  },
-  {
-    "id": "0785a60f31f558fb",
-    "title": "2. Fußball-Bundesliga: Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - STERN.de",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQcHZNcGszVlA5YUJnOUN4bWptSTBJTGp2RnVaRFVjeHBQZ0xHaTJIc2gzQlRTRWZZM2ZMc2JFbzlOU3ZUUGZOZUlLWld5amo2bjBsTFhLSEZiVzdfNFE1UGVHZW5NbjdqeTRONGlpVzRkWURUXzF0RkdOR2RuZDdGc3pSMG5WQlhGaFJUX2pmRmF3cU4yX29XNE9UT2ZySWV5OVo4R0xsdlJvWnlJYlR4WE9kdVR4bXhLVlo2SDBEZVNPaUU0Zm9LRmVXSDllby1SSHhGaWI0YlBad09Ha2hGczZMMW1EZHZqN25BNDJDWQ?oc=5",
-    "summary": "2. Fußball-Bundesliga: Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;STERN.de",
-    "published": "2026-09-11T11:31:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T17:40:50.206408+00:00"
-  },
-  {
-    "id": "df45ec8596e2a8d7",
-    "title": "2. Fußball-Bundesliga: Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - DIE ZEIT",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPekJHQ3hFOXpWako1X045T2RvVFNQQXBNM2NXaGNYVVN1dkRHYVNMb2swSEJ3SHNKa1hoeV9KbEVRRWlSRHEtZmtLaWpjTmNfOV9qZTBUd3lTcHVwbFFiT1g0ckZ6c2dUbVZfSmkyMUdLMWVVQkNPRFprZ2ZQeW5VSlpDSkhWV2xGcnp3d3RxNzRXRndpWmQw?oc=5",
-    "summary": "2. Fußball-Bundesliga: Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;DIE ZEIT",
-    "published": "2026-09-11T11:31:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T17:40:50.206408+00:00"
-  },
-  {
-    "id": "ff4dbce962b5fd0a",
-    "title": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - Neue Westfälische",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTFRGV1ZKV2EySks2VFBQRTJ0ZW9PVzc0aUx4SmJpcWZ3dWxfbTRzN3hGejROMTZmMGh3dTFfNnJtYnpFRFpCSmlWdUlGY2pESFdQZFpVREM0d2xQZ1lVb2NyTDc4RHljMVRKa25fb0oyVnpmU2tqaHV2cWxtckFqMEF1dTZiTEJPRFBMSTdTRWFCaWk3N2l5OU0xbU5leGJ3SlhtU0VrMA?oc=5",
-    "summary": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;Neue Westfälische",
-    "published": "2026-09-11T11:31:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T17:40:50.206408+00:00"
-  },
-  {
-    "id": "48a396a71bee0a43",
-    "title": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer - Westdeutsche Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSXh1NXl5VHZGOVBBeGttY0JxT1lLMmdXNzFWUC1GMU5NTWJSN002Sk5BdVYzcWZpN3hfY1VEajVYZms5VC1jRjV4SmhBbEdISmJsQ3pyUGZ2Yk1meHk4ZmtubnQwYkRMeEZOa0xSRjRoWEhkbm5qWnl3UlZYM0NMLVM5bFk4RkNWNzhZZHpDU2t2cXBVRzhN?oc=5",
-    "summary": "Nach Cokaj-Verletzung: Bochum setzt wohl auf Talent Meyer&nbsp;&nbsp;Westdeutsche Zeitung",
-    "published": "2026-09-11T11:31:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "9f5b051c1a126ee0",
-    "title": "VfL Bochum: Meyer ersetzt Cokaj gegen Greuther Fürth – viel Lob für Miyoshi - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUmhRR01IUGZUQ1ltR0kxVF9QZTMzcG1xY3ZuLTBqaHZ1cXktYmxGYkVUUmJQNFBvakhkbW5RblhFX2JyTlhzZ0pmOGdBRTRpOWJyd2ljbV9ULUtTeFN5YkxkZnhxS05lT0dpZmducEpreDNMNGdIVWRGVFI3Y2dKUUtOYm5RYk0wSWIwd0RCUFIxdWtydllxc1RxQUZrR2w3RTlDdEtJMDZNWTJRRHdsWWRHRG56V2czOEtWRlVKLXB6am8xaHFvbmlRaC1tLTFD?oc=5",
-    "summary": "VfL Bochum: Meyer ersetzt Cokaj gegen Greuther Fürth – viel Lob für Miyoshi&nbsp;&nbsp;WAZ",
-    "published": "2026-09-11T11:27:48+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "4e299e20744ab909",
-    "title": "Anne Castroper - Inside VfL | VfL Bochum in Bramberg: Wer begeistert, was ansteht, was Mets ausmacht - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JVlE4WVFzQk5Ya2dVV0NqYUJWNUJsNmV3X3pWUFpMNnNGMDI5eVV0c05lelpfVTFvSjNDeHNGZUVmZFZjV3ZLV3ZQY1VpRTJPWXpKaFg2SVk?oc=5",
-    "summary": "Anne Castroper - Inside VfL | VfL Bochum in Bramberg: Wer begeistert, was ansteht, was Mets ausmacht&nbsp;&nbsp;RevierSport online",
-    "published": "2026-09-11T11:09:21+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-11T18:09:55.432989+00:00"
-  },
-  {
-    "id": "3fc018de240ca3a0",
-    "title": "Zwischen Dortmund und Bochum Neues Freizeitangebot eröffnet auf ehemaligem Zechengelände - Ruhr Nachrichten",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQZmM4VmxkdmlmdUlZVWFwU0tYVklwQlltMWlON1VTV1JjRGJMajhpdlZ0RkFibDBNemMwQlAtY296Yng4WmhRRVdVSWpPLXNzcHd6QWhRTG1jWmJab1NyVmtWVHdWLUFwVmItSkd6YUVFc1NrT1NYMllNSnBfeWljbEZkUmo0LUJRSzA0MW9xdGY1OVNiSmJBTUJ6dXRQeTFfdHhIeWh0NVliclViQ2JLQndZY3htcTRvVl9lM2tIYzNteEd1V1BCaHZ4cHpJMURQa3VZUXNKWi1JNWNQZW5rTHRQUjZEVUZv?oc=5",
-    "summary": "Zwischen Dortmund und Bochum Neues Freizeitangebot eröffnet auf ehemaligem Zechengelände&nbsp;&nbsp;Ruhr Nachrichten",
-    "published": "2026-09-11T10:48:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-09-12T17:40:50.206408+00:00"
   }
 ]

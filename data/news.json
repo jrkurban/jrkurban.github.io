@@ -1,5 +1,605 @@
 [
   {
+    "id": "7af875bdc1ead54d",
+    "title": "Hüpfen verboten in Bochum | Akutelle Stunde - WDR",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbk9fWUw0OWNsZkFoMGc2TkNDa2hsWGZZWmFWenBVTl94dzhBbWloVHJwVFhPcE9aYnFLdVBuOVRpcHZ5bEN2UlVDRm1RQXZVN3BBZHVtdTlWTWZYWDh3cGpFODBmZXByOFZEY19HS3dZRGRQUXNmOGhLVW1BV2V0SFpEbXJQSTc0TXdtS1dDekE3WWp5THItcWhn0gGYAUFVX3lxTFA4elJRX25HLThTb2oyY0ZvbjlocTV2YnN3dlJNMzA2eUQtNllTNG01c00wa0NyM1FJNDFFc05pakI4dWdINld5bVVwcmxSb0gzR3VSdFlRdmRzUU9XZlpOX2JPRXpmUEY1YmVXYUVYTGEzazVkbE9LN0xOdkVxRXZrY2ZsZm9ZcThJaFdtUXFXY1FjYzdJdm5Q?oc=5",
+    "summary": "Hüpfen verboten in Bochum | Akutelle Stunde&nbsp;&nbsp;WDR",
+    "published": "2026-10-11T19:09:40+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "d97ee288c95ed729",
+    "title": "Sieg in Bochum: Endlich erstes BG-Hoch tief im Westen - HNA",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVFRnVjZQQ3hjaTlZMkI0RHMtcUxMY3FBWVJQaVpHSGZSTWVwdjJnc2dIbnhUUEoySFFCS2N5WmhfeUNVeTIyUnc3WGFjcGJucExUZ3dCejR0NkJmdFg1aGlLc2xzV2lTYlFYejJ5NFRjdjRmMU15OUduQzV4WG9wMkJNbVdNWUE0d3FwZmFvZjlqUXA3MGJuQXc1MWFNUzRfU254QnA1QWE?oc=5",
+    "summary": "Sieg in Bochum: Endlich erstes BG-Hoch tief im Westen&nbsp;&nbsp;HNA",
+    "published": "2026-10-11T18:33:47+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "912a2825ad276047",
+    "title": "Di, 13.10.2026 | 15:15 Uhr - Faszinierendes Weltall - Planetarium Bochum",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRmt2TGt2NGlXX0QyNDlDLVl2R1o4MVFlYVBJbm5tZEg5aHhucE5aZmItT3VzVDZjbkpvVE9KdnIxMWhMRlBFa29sMk5TNkZnT1ZDRDNTZWg2QjhyRUlVbzVVTURXeEFoVExlYy1SV1d5UDgzM21wZWc5TE5td28tVkNKZ0xIdTh3SUFuRlhHWVNrWkhWSzdVZmlR?oc=5",
+    "summary": "Di, 13.10.2026 | 15:15 Uhr - Faszinierendes Weltall&nbsp;&nbsp;Planetarium Bochum",
+    "published": "2026-10-11T18:20:21+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "1e470f56454ee066",
+    "title": "Einlasschaos in Bochum: Hunderte Arminia-Fans drängen sich kurz vor Anpfiff vorm Stadion - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNLUhMWmlKS1phbERZMF91N09maVZDdGthR2ZGM2JyN2FjVmh2bGh3NU9UQXFiX3IwX01XY1E3dzJHZy0wMzlmd1lrcG1WMGFKcW0yazF4eXNRajB2UkhES0I1Z2daSGlfMHgwcW5ORXduc05fdENZMzVFaVlRRDZ5d0tLZ0NTc1MybjFIN3gtUUZrNWxQdTNmYzA1MnU3RmtITVdpdFlfMlg4WWZvTDNJaUVmYXRObXVwbW5kMFIwaEwyQXFVRTFqNTVLa0U1WHA0ZVpoaUN1dVlQQU8zSzZBNlUxYkdwc3V5elNEQ3B3?oc=5",
+    "summary": "Einlasschaos in Bochum: Hunderte Arminia-Fans drängen sich kurz vor Anpfiff vorm Stadion&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-11T18:12:24+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "3c023adaae131667",
+    "title": "Jetzt mitmachen: Benoten Sie die Leistung der Arminia-Spieler beim 1:0-Sieg in Bochum - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQeWJrQ1dHX3Bla21GU3h0amhrWlJaOTNxOXZpNS1oVk1hU1M2dVBtbi1kLXZDNGt5NnZaYVdMR1EzS1p1UXZQcHRfWWl2bnliLWhwLUhnWkNVZU1BSWtobWJYQUxjWmt1dDVXaWRjNU5kY1ROOTJOSVZ0NVRGeUdTOG5Qd2Rvc2NqVEFOazJTcGdDbkwzOGtTSUhhNkxPVFEtNkN0NXg2R09YbUx3NFVFU19mYXlCOUtFRHZ2a2lzVGUyTnJLMkFzRGlsTGt0a2pES21RMXEzNGs5LVY4OXAtV1FTR2FGQ1Jz?oc=5",
+    "summary": "Jetzt mitmachen: Benoten Sie die Leistung der Arminia-Spieler beim 1:0-Sieg in Bochum&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-11T17:55:35+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "676ce06b6a03f706",
+    "title": "Bielefeld-Torschütze Boakye schlägt Wittek, VfL Bochum wütet: „Das ist klar Rot!“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOZUZrSFdSWDNfWGJDNEl0TXhVWVZ6OXdnVmdmNlg5dmhteHNHMXRFdXQzQUxsa05rRzdNaU1yR01lbHdDUGVlaGRnQ3NlQ3ZQRlUwbG5Kb1I2OFpVMXMxV3hTZW1kUUJ0aTNsaDNHWWhSY0h4ZzY2S2xFak16N2s4NnJyNDBfN1dCcWlwd3VrUElmNFVUTEd6cjVJRDZEdGxhVXJDbnVPdVVlajVpYXVXbkM4LTVTSzNYeFZ1Z0VrbzZUQVN0S09wSmJWQnRVSGlLQW9z?oc=5",
+    "summary": "Bielefeld-Torschütze Boakye schlägt Wittek, VfL Bochum wütet: „Das ist klar Rot!“&nbsp;&nbsp;WAZ",
+    "published": "2026-10-11T17:03:40+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "d417a9116e4fd167",
+    "title": "2. Liga: 1:0 beim VfL Bochum \"sicher kein schönes Spiel zum Anschauen. Aber wir wollten genau das!\" - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPY2FtVFpsZEowWm8xTDBMN3VXUlhMaG02X2poTnhlaGo2YVVUcU1LOXVXSS1DODFlM3hzUERPcHBHNU5JTThramd2QzFPQXpGajJ6d0ZkOG1KTno1RlpkT0Zyal9BVUZ6YVlKLVIzN3JONGFyQnd4Z29fX1FjbTNjREZSLWVSWEE4YXhQZ1ZZaVF3MnphOWRrR0hkdDNaVVhxSUlsS2NpSlJ6UGp6QlJoZUlLeG9xYlZlVmM2WVhXVWp3S3h0NDBnXzNyMGdfeG1jckRpeE5GRnFTZzFfc2NKUm9ZakVwLWIy?oc=5",
+    "summary": "2. Liga: 1:0 beim VfL Bochum \"sicher kein schönes Spiel zum Anschauen. Aber wir wollten genau das!\"&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-11T16:55:26+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "e49013d84678ce68",
+    "title": "\"Das war gar nichts\": Butscher hadert nach Spektakel mit den Einwechslungen - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVEZBZXZ4Vi1oUE1NZDlaTUxJMVA1ZVNuV3hwUkdnblh5SE5hTkp2MjBGVjNxQmhoQy1rWnRMVGhhd2Q5VW5od29aT09iaTQ3OW1xNEpmd1g2TzhKaHRVWlRibmFzMW5KdEVudVZsQ2NJdUtBdl9nY1JaeEk1UVF1U0dQUWVkVUdkclZNRi1mbVdUZGRHTGw0bkU0dVpGMFU4RU81bzl3THFpdGNmeW85aG00OEVJSEZueTMyOS1La3BqNmdKTW9WVDROelNMQQ?oc=5",
+    "summary": "\"Das war gar nichts\": Butscher hadert nach Spektakel mit den Einwechslungen&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-11T16:47:17+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "a6a0f705dec62632",
+    "title": "Elf-Tore-Spektakel in Bochum: Rödinghausen kommt nach 1:6-Rückstand fast nochmal zurück - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQa1ZmdlJVQmFzZlhIakFMSG5POV9oeC1yT0VvUFpIZzlSWG9LeVJnYUdENUppTEo1dzF5eGV5M2RkQldNdDdCZFBiYXIxUUlSenF6c2RKc1dOSFZkY2VvT2k3VExrQ0RLWWcxMkE2S2lMcThOYmg4dGJfcVlBcWlVU3BNd0ZJVUJHR2RMN2tLNXFjMjIwbU1LX2N2Yw?oc=5",
+    "summary": "Elf-Tore-Spektakel in Bochum: Rödinghausen kommt nach 1:6-Rückstand fast nochmal zurück&nbsp;&nbsp;Kicker",
+    "published": "2026-10-11T16:38:43+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "8464fa54a9948207",
+    "title": "New Basket Oberhausen siegen deutlich gegen AstroLadies Bochum - NRZ",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYzRFQXd1dVZwS05UZk5wemhZLXFWb1FJc2JQRVZvdnJON3lVRFhGejMxLTN5Q3Zad1g5SFV3REJUUGdwdEh6c0d5WDlXUUtuZjBIMTVDcXdqUlg4cG1BZFhqRmNEeVdWalNDc1h2amZrZmtiUEFzYk03bWhaU1B3VU1vWDJLNU9qQTZHTjVpNTJxaWlMMl9yZVp3LWhJYnVNNzkwd3FVbWl4MTZGSThoV1dRTEFMSXo3cGNWTXNQaW1nZGVZc0FGbDFWSQ?oc=5",
+    "summary": "New Basket Oberhausen siegen deutlich gegen AstroLadies Bochum&nbsp;&nbsp;NRZ",
+    "published": "2026-10-11T16:31:36+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "7913fff39f156855",
+    "title": "\"Nahezu perfekt\": VfL Bochum hält dem Druck im Topspiel stand - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPWnl4eDNsR0VEQ1M4LUNhTm1JVXVLM0N4NWhKUW91LTFtTjlYbXltYWtVZVdHU0Z5TUxNQjNvN29ENnFWazczSElYMWE4S2o3TjVnTnY0dFZCWnJmclB5b0pFckhFUHZJTEotT1hteHNlcFdaSXl6OUY1dW1aN2FMcmIzMkZ4X2xKMnFIZGM5YV8yMnpLZGwtOTVIMmlVRG1hVHBmSm5uVFNvWGJhV3B1c010VW92Vnc?oc=5",
+    "summary": "\"Nahezu perfekt\": VfL Bochum hält dem Druck im Topspiel stand&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-11T16:24:32+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "8a766f01fd993a2c",
+    "title": "Jetzt mitmachen: Benoten Sie die Leistung der Arminia-Spieler gegen Bochum | nw.de - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPRUdoQVF1TGFLckhiYkp4ejNkSEhNUnhWQTBaMWJaSGtfSXVub29KbXJ4cS1uZFZieWtYdUtsQUxqcVJOOEduamlxbWxMb3p4SzNBUW1CanNxTzZhSkR3ajUwQTBSWVY5Ukk2dGNkTkR5bDlHcUYzc1MyUWxEU2hZbjVZY2Jkc25obS02MmNMcnNSSUJGamQ3T2Jhclc2V1QyVUliTVlCRnR4LUFGY3pMR0RiUVZhcGFmUEJXUHN6X2F4UFJQYmFNejNlbnYxOE9wTzRYdjdhNGxlZw?oc=5",
+    "summary": "Jetzt mitmachen: Benoten Sie die Leistung der Arminia-Spieler gegen Bochum | nw.de&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-11T16:17:16+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "cd11fd5f858f2beb",
+    "title": "Nordtribüne fast leer, kein Hüpfen auf der Ost: „Stimmung war eine Katastrophe“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWU5xcHF1MlE1VWNKUDhUbVJ3UHBOMk1mRDlqNDY0Z19KdzVlaThCelJYekE5MVpxblgyM1k4WjJmTGotTDJELTVaTVpDcU9jMERjMFpEMTFIclNMV0JScEtGU09HajJPX2ZvYTJ0aVZtVFFjck14Z3Bxc09KM3hTQXlIdzBPdkpFdkhVeHJkOHhjdGQzcUFIYXFJLUowbXExX3pLOG1aVDhWYjJpRXRCUmphaG1JTXpvUnJGekVkemxRYXAyc09mR0VtUE1kZw?oc=5",
+    "summary": "Nordtribüne fast leer, kein Hüpfen auf der Ost: „Stimmung war eine Katastrophe“&nbsp;&nbsp;WAZ",
+    "published": "2026-10-11T16:17:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "e818be700de9aa4a",
+    "title": "VfL Bochum 1848 II (U23) - SV Rödinghausen: Bochum II gewinnt Torfestival - Regionalliga West - WELT",
+    "link": "https://news.google.com/rss/articles/CBMimgJBVV95cUxPa053Rnh5VWtlTERKNk1xa0t6NXNITElaM0NFbmVHUF9XNkJIWGFBZldzYThHU0VBalRTWmNxaEtJdkVJM0NSTHRxdEF1SGN1R2VENWMtbmJtczRBbmxLY2w2N1U4WGt0UXFyYTYyZl9ORTc5QXNYYkgtTUhlT2NNZS15QmpHMEVRbUdwTkkwLU1vdE8xVjRaLWlHNFJ3ZjlnUzJ1WUJDTW5fVHNQRWtxcnoxVUZfMU8xeEZrUk5ZVjNPS09RbVp3NjRkd2VpQS1mcF9OaWJMYjcxTzBpajRuYXNzOWtqb0YzdjZaUXpIOGtLV2ZDR3RQY1FHVXhGTzh3ODVXMHFvN3A3Rk5RYmxuVHZiYWkyQUxZNFE?oc=5",
+    "summary": "VfL Bochum 1848 II (U23) - SV Rödinghausen: Bochum II gewinnt Torfestival - Regionalliga West&nbsp;&nbsp;WELT",
+    "published": "2026-10-11T16:04:41+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "863d6e787008fca7",
+    "title": "VfL Bochum: Rösler sieht nur durchschnittliche Leistung und \"Harakiri\" vor dem Gegentor - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR2hhLWU3WUpxWVpjazAzcnNrZWp4UHVucl8xYzZXTkVhS2RhSXI4Vkt1V0pmWjlzdmh4NkU4RWtVWHRlU25PdjhKUmFQVkhOTnR5Z0pWQi1SLXpVeEFCTDZiZUU4UzVFT01iRk90Z20wZXRKZFZFUFNKUTNydmZWcTdMTHZvc2o1WDRPRHdkckNtRXZBc09vUTVsd2QzZkdXTzVmM2dKY3RaRnViM19LUGFoeHpHZ3I1RXJsdGVyQW12cmNqZHJ3TnJkekxCcnFFa2xJZnFRMA?oc=5",
+    "summary": "VfL Bochum: Rösler sieht nur durchschnittliche Leistung und \"Harakiri\" vor dem Gegentor&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-11T15:35:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "0683c08a935458b6",
+    "title": "Spektakel in Herne: SV Rödinghausen kämpft sich gegen Bochum zurück, verliert aber 5:6 - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOQUUzWWF0WFpRbENqZExYSVFZQkVxbm41NWJndG94UXVSVzUxSFphLWZpNzV6TEY1Q3M3N1hPNWxzc2EyRGJaU0t6czkxamhreWJBMWZfRmVlNElwWXJIaWZjR0xTRXJjZHZOaU5nZS1CRTE1ZWp6UnVkd1RJWkk0M3laUUx6SkFfUjVYMHRub3VieEhhNEx5WTczY3NRSXgzNGg0d25oT0VFWGx4cmh6bnN1S1BoT3dEWWpjUDVoazBWNGhJaC00MXB6SElhVzhCQ2p0aVlmUFM3TFJ2VWs1aGxKWGVOa2UwN1VFM0NHam81VU1YSUhTa0FqWXMyZ1N1OEZFRURPWQ?oc=5",
+    "summary": "Spektakel in Herne: SV Rödinghausen kämpft sich gegen Bochum zurück, verliert aber 5:6&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-11T15:32:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "62b52d4f8cf97bf1",
+    "title": "Kein Grund zum Hüpfen: Bielefeld ringt Bochum im Ruhrstadion nieder - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQXlfcmN3cEVUdnRIR1ZjclM2SnJ4N3NJa2c4T2hOMlpYbUhrcnU4MjhTWXNJcUprOXVEc1RKRVdCT3dmVVM5a1psYjR2aU5xY055TGVmRWE5dWRMSVlkSUtGWWJwZWhrRkxQZUYwSXNGV2d5VDFuYTRwN0NfMWREMjBmS194eGJpWWR5R3lkVERYTzd2QjRNNUJDVjA?oc=5",
+    "summary": "Kein Grund zum Hüpfen: Bielefeld ringt Bochum im Ruhrstadion nieder&nbsp;&nbsp;sportschau.de",
+    "published": "2026-10-11T15:13:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "273f54f9b9a83690",
+    "title": "''Goldene Händchen vom Trainer'' - Stimmen zu Bochum gegen Bielefeld - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcTVYb1A0aHdHX0JMNDFNWHBib2ZDX3JhRDJlM2dRS1hDcVprcmNma3hiUXRFWnkzYmJEak5TRWV3S1R1VjdMRmJEeHZwRE9YV3FMdkVGaF85dFpONXIzVVkwREswam05dEVqLXVvY0VuWVM5RDN1YVpaeW9KdXlIYWhPZU1Lc0ZvS1ZpMENWZGplNk9KX25Gb0RFTkVfN3lLd2ZrQWk1NERGcEpKX2hqenJ5MGNvVXM?oc=5",
+    "summary": "''Goldene Händchen vom Trainer'' - Stimmen zu Bochum gegen Bielefeld&nbsp;&nbsp;Sky.de",
+    "published": "2026-10-11T15:10:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "539161265edf66fa",
+    "title": "Sankt Martin 2026: Wann und wo die Laternen-Umzüge in Bochum losziehen - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeFFxYkxWbklLakxaQlFKM2lETlFSV1VKOU1WS3FNLUY1cG1NeWxBeW01TFF0dUZEN3dzcE5xV1pld0JxUU41SnZRMjFlcHdfYnZnQ0ZZNWV2a3RDcklYa0hyM3k5dENpYnlyWUx1dl85bUgtRVRtUGs0Tms0VjZWM2tubmtuMWJCclhld1Rxck5UU2JDZDBhR2VJUlZrcjdqcnZpUzNXYlVvbUFmaWZJV3liUmxtY3hWRllHVE1ubzRNeE1i?oc=5",
+    "summary": "Sankt Martin 2026: Wann und wo die Laternen-Umzüge in Bochum losziehen&nbsp;&nbsp;WAZ",
+    "published": "2026-10-11T15:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "e7656b34abc4ddf4",
+    "title": "VfL Bochum: Schwache Offensive, Miyoshi lange abgemeldet, Joker Taz ohne Impuls - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPa3lmZGo1bUpzN2FWd0IycDhjRmRYUmNyQ2hYWGFSRHk1d2J5Y0hzRTFicTV1MUtGbllQai02ekZRM1VHWFk2dWFIMGJjVjhDRHpFWWdDNGtILVFlM1MwdzMzaGQtVnNoblE1aWtKSlhIVHZlMzRLVjhKQ0JNX252THBRYmxKMF9UQUs3V09UOV9aVExzZWc4cW55cTdvZmZCUE5YRDZEaG5lV1JOcTljMmJuRTNmUmlrSkdrN1hVUlRSVUxLUEtNd0M5d1c5QQ?oc=5",
+    "summary": "VfL Bochum: Schwache Offensive, Miyoshi lange abgemeldet, Joker Taz ohne Impuls&nbsp;&nbsp;WAZ",
+    "published": "2026-10-11T14:46:31+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "dec6585c7701cd4b",
+    "title": "Pleite gegen Bielefeld: Bochum weiter ohne Heimsieg - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVmZMa3ZLcktVV1FNcnNkbUctTTh2TDU1UlBoeGZUbkVySzM4NjFkakN1cXZZUGI0NWZJcXdrTWl2dmpvb2FGc1NpVGs4ZnFxZXc2aGRWWEFPYkVuaFdDcWpPaFdPTVdNM0ZYbHNPVGIxVUIxNHNTRlNzck9ack1RM2xQR2ttY2pCTm9nak4wYjZZLUpQSjU3VUVSWFZ3TzFLaTExRTFn?oc=5",
+    "summary": "Pleite gegen Bielefeld: Bochum weiter ohne Heimsieg&nbsp;&nbsp;Sky.de",
+    "published": "2026-10-11T14:33:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "e7d20bfb1572426f",
+    "title": "VfL Bochum: Offensive weiter harmlos - \"Das darf man natürlich nicht einfach schönreden\" - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxORjRNOE5SMUp2VHNJZERwTGZUM245NTYtcVlmY2FhX3ZZNFlRRGZIajBCT1hNNXk5RV9CYWFLdjRTaXVSMHFvcU9TdWRfdjhCRWE0ZHRabkI1S2NLaDA5TzdiQ3c4Qkw1dUZDT0ltSEhnTGhVWi1HWk14WkdwTktXWElJazhUS0dudjZwbk1sUDJLdzF5VHVSQVdUQm9Xc2lGMUFQc01Fa21GVWNka0tYZnBCaS1FeU5YZnRaZmQyRUxoa25ubDJCUEtNM3Vjd1p1MG5jWg?oc=5",
+    "summary": "VfL Bochum: Offensive weiter harmlos - \"Das darf man natürlich nicht einfach schönreden\"&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-11T14:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "d20f6eed0a9bb8a1",
+    "title": "07. Spieltag: VfL Bochum vs DSC Arminia (0:1) - Westfalen-Blatt",
+    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWk9YZFRjZ3VORVplc2VXa1pwOE9lMmNkTGxmNHROc3N3d2Q2T1NieFA3czFyVjFTREhpVmFJcFlmc0dqRGYwTHVEOVp6NmFZcVF1eU9XbmQxQmIwZ0JMUUxYRDNmb2paTUxzZFdKblVVRnY1RXNYY3hMdFU2NEdIMW1naWtuUG5ONXNlNkhmckV1eEQ1clItejlROXdIcXRfbTJhSEJtNUNaa3g2QVJZamFB?oc=5",
+    "summary": "07. Spieltag: VfL Bochum vs DSC Arminia (0:1)&nbsp;&nbsp;Westfalen-Blatt",
+    "published": "2026-10-11T14:20:26+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "000e251d619b7b38",
+    "title": "VfL Bochum verliert gegen Bielefeld und wartet weiter auf den ersten Heimsieg - Radio Bochum",
+    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTkVicGNCZ21oYWZLTzIxR1AyR0dTMXZ6b1paa29XMERJQUNHQWVXaFFEMmc4NTcyVHlSclFRc0tWTFB6WlRpQ1VXNmcwRzRZQjRFT09TVHhMMkFseVRMeFQyT0V1blllbG5BNTRkVFVaZ3plUlJVZFN0Wm9yS1ZOVnNnTTI3ZEhiQ0Y0V2VIOVlaNzA?oc=5",
+    "summary": "VfL Bochum verliert gegen Bielefeld und wartet weiter auf den ersten Heimsieg&nbsp;&nbsp;Radio Bochum",
+    "published": "2026-10-11T14:01:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "d0b37d77b3d8b388",
+    "title": "Regionalliga: Keller-Sonntag - elf Tore beim VfL Bochum II, Wiedenbrück mit nächster Pleite - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPREZ2cmhKem13bklBYk9VN1luSXZUbXNJRmNrMXRDdUVaekJuUGh0SnJoSkM3VVBSYWl3S1dYbV9jcXlmM1BYMi1YNWV5U3NlNmR6TFlveEtJTU40YW55VUYtT19xZEl0Zl9uWVpHazN3M1dHd3Q0YWlqYk54bktZekdfbnZiamEybUotdTlKVXBleXlDdjJHR0JDa1AydThscDFmQ3dBQjRhV3NGbjBJdmpwcW4xS2RGRlIwZHZzRzVWYTM0aFRwdk92RmZMOW93X1FzdkdtWDkwVjkzbExkTWZ1UQ?oc=5",
+    "summary": "Regionalliga: Keller-Sonntag - elf Tore beim VfL Bochum II, Wiedenbrück mit nächster Pleite&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-11T14:00:18+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "3afa259a2fc550f3",
+    "title": "Skurrile TV-Panne in Bochum: Sky liefert unfreiwillige „Halbzeit-Show“ - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2w3Q1cxenZjc1N3SUVkd0g5cm5kWEhvU09pc3ZXa2NfWkFaWnhwYU01ejRybjRQcGNxb1Y5SndGR09Ud2ZlYy11d2h3YVBvTDRQZFpDNkduNFJib1RMNHhpWnRaY0xwekxTZXhQWWRlczBYRjF6TFp5NUFFQnh6Yk9RQS1RVGxyQThJTTE1LWdSRHZlSzJRYWwtXzlxU0NKc3NJY1lUMk11VnIxa2FSeG84MTI1WHZiVmp3MGtldHdWMWc?oc=5",
+    "summary": "Skurrile TV-Panne in Bochum: Sky liefert unfreiwillige „Halbzeit-Show“&nbsp;&nbsp;WAZ",
+    "published": "2026-10-11T13:49:33+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "e7ded3c0422f7c45",
+    "title": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Aachener Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNV3JaZUpsalpxRVZrc1ZMVVhXQlFUcG9Md1lUM1piMVljWU5CUDVOSjgtNEN0WUJESTJVSHFGUWtDOWtCWGpyeTNMczNab09vcjVyRGljSkdJMnI4dHdpY19CWlRJb2hHRDk2MUlJLVRlLW9QVl95aGtZampmTmFhbF9uUUMxWGlXdzliQjhTc3RNNjRCbkFJb080ekRWM3RPNUtOR3hEZHNQcW01dzRUV2R4ZEhFSEU?oc=5",
+    "summary": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;Aachener Zeitung",
+    "published": "2026-10-11T13:43:18+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "313a0d737304eaee",
+    "title": "Einlasschaos in Bochum: Hunderte Arminia-Fans drängen sich kurz vor Anpfiff vorm Stadion - Lippische Landes-Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNak1GWF9uRG9NNWV1aUlYM2dOLXN2cXNzbzhsd3N1MzZ0OWZxb0RrRXpDUnBvVUpyUlp4SzRoTEw0bVh1dUtQS2tOQnJIaGc1bUgtc0RPWE9LWXFKMmRjdlI3RHdwZG8zS01yMUZUcnEtTk1WYksxRlZBMnZhdW01WXJoQVY3Um9hMU95ZlRueklJRmpnc0psTDhVVXVwQmxOUHN4bkxwVC0yVjcwV0w3WUpsZ0VVd2VucTlEQndXRk16M08xRUJIQUNvWXJaZF9BWWJULTkyMHN6N2lUcUJmcVh3SW5FODdORnhUVjRXQ3FCQ1hUMFJvVmdHbFVEX2s?oc=5",
+    "summary": "Einlasschaos in Bochum: Hunderte Arminia-Fans drängen sich kurz vor Anpfiff vorm Stadion&nbsp;&nbsp;Lippische Landes-Zeitung",
+    "published": "2026-10-11T13:41:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "ab533e8b617acd87",
+    "title": "Spielereignisse | FC Viktoria Köln - VfL Bochum 2:4 | 7. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27 - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNalBBV1doNmNGbTFrTk5JT2pocUNvUS1EZWRwSEwxMFJWbTBrRzFIS2VHMVJpeEVMSFlOd2hsRXN3cUR5djZRUWFwbldlWFRocDA3TlpwSGM3WmdYcjNZSVRBcnRHdDNCY0lwT3Fsb3k5QzU2SDNyakNPN053ZWdObGROUi01ZmFHOEE4Y2RId2tEdw?oc=5",
+    "summary": "Spielereignisse | FC Viktoria Köln - VfL Bochum 2:4 | 7. Spieltag | U-19-DFB-Nachwuchsliga (Vorrunde) 2026/27&nbsp;&nbsp;Kicker",
+    "published": "2026-10-11T13:40:27+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "0bbbc217d13358a2",
+    "title": "2. Bundesliga - VfL Bochum 1848 0-1 DSC Arminia Bielefeld - OneFootball",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdzVSVlFtLXBDdkRKMWFYMEE5U1QyaktsRlU2ekw4cjBVVnBmVFdFV1gzeE9kSHRDbDItbFQ3RHpkcGJhUkZSa2t0Y3c2U0FxM1ZnT0U2a2FKYUpqaWNtbEllUTlkSDRFMDVzZ01YMWlwUG5nejJZY3FxdkZ1WmJSSGczTUw0OTNVQnpLUmRkVUhGRm5JOUYzUXl0ZVU?oc=5",
+    "summary": "2. Bundesliga - VfL Bochum 1848 0-1 DSC Arminia Bielefeld&nbsp;&nbsp;OneFootball",
+    "published": "2026-10-11T13:38:27+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "7d5f91a57e964b9d",
+    "title": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - WELT",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNT1FGS0NaX2Z2WERYWVUyVklSQW9Xa2NCdExXdEREVUh6TlVval91T3kxRGlkQTdYQllaNzd4LXRqMTYyS25BNHZlS042SDhLODZpLXktLU9FSERaUmhVWk5rN2VmbjFVUWE4dGtYTnFBb2JqYmgwNUJVcXlpQmY0RGhXazJGWm9OdnAwcnJacjRmYmNaYVpDbTA3MEs5ZDQ5Q3ZvbFVjanBCcEwyY0ZvOFN0M28xS0poandfN0Zocjlsa1VzM2l0RHBR?oc=5",
+    "summary": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;WELT",
+    "published": "2026-10-11T13:37:34+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "ca506a577061fdb8",
+    "title": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Vodafone live",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbUphR0R0U1poMFMtMGlHSHVQZWR4NWJRcGdZdUZPSkRlLUtqQ3ItTU1YR0JEb0VzYXhVZ0JjMmdJU1VMYTBxakIzMUtLMVVnbGN5UnRRNDlpalpROXB4ck5vREZhTHpBVVluUlAyUjNUWmNqWWVzVFFQZ3FXd21TbGV0Zkh5MkVFUUY2MmZxU2FnS2lpczVnOGpfcE5FR0E5SVlsUm15QmpJUXlmb3BVVUxSRTNSUQ?oc=5",
+    "summary": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;Vodafone live",
+    "published": "2026-10-11T13:36:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "5ed14af4582d2737",
+    "title": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute – Bochum unterliegt Bielefeld - Neue Presse Coburg",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRWZ2d0Jld3NsbXowYjNiYWc2OTJ3aEc2aV9wWU14Uy1rNFdQYk50VnJYRVdVZDF0OTRwdzZPa09iZENmazJ4R3RMQi1Kd21Ta2pCNjZGdGZRUGFTeXlDSmVId3FxQ1JyY2ZTZTJwb3l4N0VfQi02Sy1yN21NMWVIWWRYaVNpUE9tNWlmS0pSYzBzOWdMeXRMQ25FVzRuV0hxVEVGY1ZlR0V2OGZ3SGVvT0Q4NEoxcmo0V1ZDM29ZMWRaN2Jlam1kai04YmhDRkxOQkxqc053bkh3VlZnLWNKTHNKaTQtbTZWa2c?oc=5",
+    "summary": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute – Bochum unterliegt Bielefeld&nbsp;&nbsp;Neue Presse Coburg",
+    "published": "2026-10-11T13:35:50+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "10379f1e60d36ca7",
+    "title": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute – Bochum unterliegt Bielefeld - inSüdthüringen",
+    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPdVhIblJZUXRCNFI3Ykljb0R1Vk5SRnlYS2ZzUFZ0U3hRMVdSRHlpWmtMQmhadzhYU2s5Zjl5R25Yd3ZzV1htekRaYkNKajNaZGdEeGcyUG5XRTRyVnJMNUJkTFBsdllYSjQwWTFLQXJfcWhzamFxTkhJRVk1RDNxd0M3cWZCWTVUX01LVmVNTjU2MXJWdmVZLTVudEs5WTVEd19SU0hfdmF3d2FaYnJRQ3IxVEl2X0FWNmpxOTExWHZxdEhZYVBJejB0TWNTS2VCei13Rk1rbDhKS0xnbGY3NE1JdjFtaUU0Z0tickZ6VFhfSWc?oc=5",
+    "summary": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute – Bochum unterliegt Bielefeld&nbsp;&nbsp;inSüdthüringen",
+    "published": "2026-10-11T13:35:50+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "69ef801fbfd47afd",
+    "title": "1:0! Arminia Bielefeld bricht beim VfL Bochum den Auswärts-Bann - Lippische Landes-Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSUVJRXg1QUxvWjdGS3BDM0M5SmdfLUVYazZpWTVfQ3dLWnBWNTVDV09XZ3ZIQUxqQ2JIeVlBSzB0MzR3aG1lMmQwVGZvdzByMGJydGJTRWcybl9iLUNhRS1JTmZBczg1Q0ZudWdkZ2lCSWlTZ1V6cjFtc3JKbVM1VTRmX3VBTjgxNi1rUFQ4dHA2NmdDUXZoZWw0U1VUVmRON0tLOGJQekxoRzc5Q3I4SDJJaEtnMmI2SkpRVGdZN3pVUU5YTklnQXpId3NmUWY4YTd4UXZ2dUd3U0JfcWc?oc=5",
+    "summary": "1:0! Arminia Bielefeld bricht beim VfL Bochum den Auswärts-Bann&nbsp;&nbsp;Lippische Landes-Zeitung",
+    "published": "2026-10-11T13:35:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "517abe3000da6603",
+    "title": "1:0! Arminia Bielefeld bricht beim VfL Bochum den Auswärts-Bann - Mindener Tageblatt",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQcWV3TzBfSUZRdGEwXzJYNmQydkw5SHkzZnJnbmw1LVJjWDJlRjlPa09xd2xnT2NVWGYxZldYQTNmaVRtYmZyTkhwbkhvanpWV3BPeTRnQ3BUS3RBaVRHQnZ6b24tVWFEcjJ0R0lfWXM0WFdxOU9ycTZBM1RkZU5Cd3lNT2JIMktlZzZaalhrcEdRYWc4ZUFWMFFCVzk4VWhmeWwyTXo2X1BtemxZNXY0SklvNW1XOVpHM3hR?oc=5",
+    "summary": "1:0! Arminia Bielefeld bricht beim VfL Bochum den Auswärts-Bann&nbsp;&nbsp;Mindener Tageblatt",
+    "published": "2026-10-11T13:35:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "b62aa23ff118b7c5",
+    "title": "Auswärtsknoten geplatzt: Arminia Bielefeld gewinnt in Bochum - Radio Bielefeld",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdXdzMTFXMTBHSEQ4aUdPbFdKbFVjQ1VxRENPWEJhMnc0eFlobHdjLThoSnBGMVNweEQxZC0tNU94ZklMOFEzaFczOVFzVS1tQThwNU5VNjhHMXB6aFA0NVhySzFQLWtsVTFvczNTanJBWGxLVlBuS3k0WjltRWF4MmRYbWhPUzdONnU3anh6NnU2NEpfYlQxc1padHp6M01kRUVwMUE4ZzBWaTRhc3pNZDNSSDZsNEI3UTdnaGJUc0lHa00?oc=5",
+    "summary": "Auswärtsknoten geplatzt: Arminia Bielefeld gewinnt in Bochum&nbsp;&nbsp;Radio Bielefeld",
+    "published": "2026-10-11T13:34:29+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "b3a7d7a3ca8aff09",
+    "title": "Hüpf­ver­bot und Heim­sieg­flau­te: Bo­chum un­ter­liegt Bie­le­feld - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOX0FfTVhXZmpBcWtLUVBjUElWM2NCQU9hbWR2Tk1KdENicGpIbnZuX1VBeWNMYXRscU1sWDdCMUd6U3YtVUpqam8wUjdtVEVkLUNROVYwYVJxM2JGRjRQSzJOQmx1YlZ3NG9zQXRCcFJROW1EV0c4eDRTUGJmVm5xcXRHQXQ1UzRhaDJsdnVyeXVuSmZsR3ZYbDVlQ1BEaTJpSnVaazcxaUNKaktxS191emdwRjhOOExvNW1NSlNmeEl1Q1E4XzR2RGRVRVF1UDBwYlZSWThxdXh0Q3lX?oc=5",
+    "summary": "Hüpf­ver­bot und Heim­sieg­flau­te: Bo­chum un­ter­liegt Bie­le­feld&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-11T13:34:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "592d73a7314c960b",
+    "title": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Tagesspiegel",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQRzFGYW9KR3JjZFI0WmFHWEZDWmtKNzYyRkJOU2g1bHMtd3pkT1EyNTZxSkNVb3FUS1plVlBDYXZucVBkSkViN0NfRXZOV2hENV85NUpWLWREUy1vdXotV3RaSzY4Z1cwVEhjQVp1OUt4Z2JSb2drUFltcEE0OVNyZHFPT3NJdW0xY1Vjc2UtN2o2SS0zLUxNc2VlYU9aYlFUYXIwc1lvelA3dDFPeGI4Y1pTN2lBMmUyRmE3Z3NyeTFfcm9Hemk2OFZQMA?oc=5",
+    "summary": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;Tagesspiegel",
+    "published": "2026-10-11T13:33:21+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "ca1b92ed1f1ddb3f",
+    "title": "2. Fußball-Bundesliga - Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Sport - SZ.de - SZ.de",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOM3ZPblNMQjI0bkNWQXhNaHdMclZTeWlyM0k0d3IycTBLajI2U0dLSnJpRFEteDd6cDNkdkJXTHljaHdidXlWMWZJY2cwOVdndEtTbjRVZ0FEdnVSZjBDM2NaNERMQmRFbTBGalNwUWVNcGZjUHdFa1VMY25RV3pLTHVQaVFjZ0JHbjBDY3doT0JEQU5zLWFvRW94OTBJdG9NYzh2c01IZjRDX2IzSDJNbkcwSVMzalNUcGpEWU40RGNkZ0xDSVl6STlkcDI3OTg5dEhvakNhWkxVRWxhVW92WEVTTUN5RTdHYjBRbVUwcmRxZFNabzNV?oc=5",
+    "summary": "2. Fußball-Bundesliga - Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Sport - SZ.de&nbsp;&nbsp;SZ.de",
+    "published": "2026-10-11T13:32:24+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "91477486f5b90b7c",
+    "title": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - STERN.de",
+    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQMElteUVqaHBEemNONEloRkg2YkVrWGdNU2d3LWlJclQtXzNELXM4WlViMkdCTkdVZzRUbEFIY0JfZW1uamV0OHNxOFpDZjhMV2drbnUyU2pQdHF4Z0pUTC00T1dKQkMzODRmWXpWSUJPZjRqVmRWZ19ydGdmbmFoYjFiZGxERVVqeWhra2U0MmpKdnhGeHNYdi0zVnZGWWxjbUhtQ3ZnZ18yemtKb0lmX0lWNXRLTjlyQmdFRmFuRGE4anBlMEFSWk9fbzRDaHluMml2SVBOTFZURFo0TG1DczR3MkJHdkNodV9pU05nUklpdw?oc=5",
+    "summary": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;STERN.de",
+    "published": "2026-10-11T13:32:24+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "4dad549854edd67e",
+    "title": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Mindener Tageblatt",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbUQ2ckxkQXlZa2ZrNVZ0Ym5WVUlNUWZmLW9vU05PdG1pT2dDMGVHWndraHp2cUNLOTBKdzlXNV9iQzI4N09wMTlhZU42LVc0eVJZbDFFM1RrTzFyNnhDaXZxTlljWnhZblE3bFJ2Z1RMbmNQamdWY2lyWVpmTU40UGlBSER1WmtjZmRsQXQwQm5uUGVwdk5yVDlwd01UWVpHWUtSSG5hWk8?oc=5",
+    "summary": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;Mindener Tageblatt",
+    "published": "2026-10-11T13:32:24+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "a62e728fc8934031",
+    "title": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOVJ2bTN2MDFac2dBWmxJX2dLczk2WUFCTnhmT2ZudHJmQ1lkMWpLQ3prSDFWM01teUl6eVphb0U2dUdXTUlib1BwckRaWjJWZVM5MXltUFFGLXhoWnI2X2VhX2p1M1ItYzFIa3dCY0JEUVMyTUNLbS01eFA1Nkg2R0tucDhiTHBieFJkdjhsb0Fwd2h1V1pfazNKY09hbXdQWUFQbkV1T2dzZw?oc=5",
+    "summary": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-11T13:32:24+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "f52dece9e6e462bc",
+    "title": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - DIE ZEIT",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRjNGcC01V2tvaWwzX2d3VWpZVWxkVWJzM2VwU1I2WXF2Y1EwMG9vbE5kZ0Ewa2Y4RnloUExGTW1aZzFZYjdDTWl6WkRmY0VRTlBKUnZMQ3QzN0pNYTFwTGlNNlFGdDhoSjFJcG1ramhicGducWtRY0JEbWVVN1Z5a29VT3VmakkwOHNMNTk0TnNOT1Z6bEk5VzZn?oc=5",
+    "summary": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;DIE ZEIT",
+    "published": "2026-10-11T13:32:24+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "397f14193acdb78d",
+    "title": "1:0! Arminia Bielefeld bricht beim VfL Bochum den Auswärts-Bann - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdFN4LW51dmRza3RhU1hFblp6NVlWempxaF90dE41ZUtGZ3JTOHU5VHR2UUdnTmNVXzZ2eU1ScUh6X2p0N2xhUFc0c2NCR21rMVNLRkczdDg5dU1RUklZdTdtSEZUODlpdjgzTV9UcUFwUDM1ekpXazRZbDlZc2VVVlZZMGlFcFplU25vMTZlQkxUUUU1c3AtX1Y4dnBCYzUwZzhfVjk4NjBLZUkwemZCMHpmRjg0VTBUeHlEX0ZNX2FnU1BaajEtSWVaX2E?oc=5",
+    "summary": "1:0! Arminia Bielefeld bricht beim VfL Bochum den Auswärts-Bann&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-11T13:32:02+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "f8e0aad71a6779c2",
+    "title": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - noz.de",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY1pnY3Z6OW1qSzdwUlNhZml3VFpxRVd3RWl3dmM4cThDWGxkN21tZ0tad1Z1cVhmdm5kUWM3dXJ5bzNUOFphWUZRT0psbHZyWXhoVEIzS0Vmai1pdlhoT25USzNFdllPQ1BsMXgzMDZFbHgzVkFOUFlfdFpxa0FXMFNLZ2lCM2dySTdyV0NmdTBDZWdtSUFSMVJVZzIzRGlhYjFpOThwbVJqbXh1elE?oc=5",
+    "summary": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;noz.de",
+    "published": "2026-10-11T13:32:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "24506ddf760d3c84",
+    "title": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Saarbrücker Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa0JYaldEcDZyNmlPWU5PdnN3ZFVIS0hCNnR5RFlhR1M1VUppUTZld2N1azVsMVA0amU2bEtvNlRRdHMwNTBibzlhbVlBS3Z2SVdISTA1WUhOam9DMXJJTlBDV0kxbDZGNDBOQ3p4RDZ6YXJOOEJyNGNBa2dMZWp2b0tzSjctcTRDZFNuS1hTcmk0cXVpZnZxc21xNllNV1NNT3FXQXFvVU96QVlZUEdjX3ExMlIwNjVhWDU3STBvTE5DbWdDcFMyT2dMWmlUS3VkWEtCOTYwZk4?oc=5",
+    "summary": "2. Fußball-Bundesliga: Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;Saarbrücker Zeitung",
+    "published": "2026-10-11T13:32:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "d131d998c6af16d1",
+    "title": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld - Westdeutsche Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNS1lPdlhEVDFaZzZVSE5YeTg3N2V2cnhiVUZtNnFpaHExbTM5V1YwWm5sLVlxeEFhZ1VveV9sNHVFZ3Rvdlpxa3hldXNpOWRNYi1Xd2cwZmp6Tl9mcjJfNmk3NkhOeUpSN3JUM2I1amVuNVRsMElDYXZQNTVsUmVva1UxUENiYmduTUdnQlJGNFBramJzS25obm1R?oc=5",
+    "summary": "Hüpfverbot und Heimsiegflaute: Bochum unterliegt Bielefeld&nbsp;&nbsp;Westdeutsche Zeitung",
+    "published": "2026-10-11T13:32:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "af8758ae1f90e187",
+    "title": "Sieben Siege in Folge: Hertha BSC gewinnt weiter – Bochum mit „Hüpfverbot“ und Niederlage - RP Online",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxORG1yY3lJaWhtR0k3OGF5QVFkLUF4bHByeUNnZEE3NFRjclY4WFoyTjVXWjVaQjNzNGZ2ZGZZVldnUGo2a0xPcWpNQUJWeHpkY1RhalBCZUFMeDJtemtBekRVZjgxdVpvaHh3eERTQTBNME9McXNNdVFfM2M1WXlBczRWdmdUcmJVTWxadlhlYmpUNTZ0b1EwZmktcVJhSnBkTlNnTVRhR083ZHF4Q01xamQwRE1MOUJwZTN6OGNlQk5EZHA0RGREZGhBYmVMN01HdF8tZ1lB?oc=5",
+    "summary": "Sieben Siege in Folge: Hertha BSC gewinnt weiter – Bochum mit „Hüpfverbot“ und Niederlage&nbsp;&nbsp;RP Online",
+    "published": "2026-10-11T13:31:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "c7b24d4a833d5616",
+    "title": "Miese Stimmung bei Heimpleite: VfL Bochum stürzt nach 0:1 gegen Bielefeld in die Krise - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPcGk3NHBTQWhHNGRtNHJYVlg5ZENPQ3N2NnpvOHctb1VzUk1CRHgxMGFqdWs2UDIxOTdxTUFYV3hGeUVUc0NwaGF2VXM3QnE0S2dONFdCMTU1d3pEb3hkbUo2cnFmUW41QVZHaTFCTEFZaTh0X2VZS195NDJBZTVQMEdvTzFyTWtxTnExbFlibGFCVW94UjJnVDZrSndMR19FQW96dE9OT2Q3Zy0ydnowamhuYWRZanRfbnh0Z18xbEw1c1VweTFNV3Rub1dxSnJlOWI0MmxyQlA4MG8?oc=5",
+    "summary": "Miese Stimmung bei Heimpleite: VfL Bochum stürzt nach 0:1 gegen Bielefeld in die Krise&nbsp;&nbsp;WAZ",
+    "published": "2026-10-11T13:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "f04d3e9514c7befc",
+    "title": "VfL Bochum verliert in der 2. Bundesliga gegen Arminia Bielefeld - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YYUQ2RUJ2dWFpNzBkSHNWT2J3N2tjd3FKb2pCMGN3c3ZUY293RU1uYkUzdGdia0hJZjQ0N2t2YXZFSjcxbjRxaFU0S0NwbGNaU2cteWZCcVNqaU5RZnN4cENmU3EwMVU2c1pZTXRtM1ctU3dWRzFucQ?oc=5",
+    "summary": "VfL Bochum verliert in der 2. Bundesliga gegen Arminia Bielefeld&nbsp;&nbsp;Sky.de",
+    "published": "2026-10-11T13:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "77f266cdee59e2a7",
+    "title": "VfL Bochum gegen Arminia Bielefeld – Bielefeld gewinnt knapp - T-Online",
+    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeW1QZ2F5dnV5ZjlvdElIVzM4NkNVOFlqN3FtZ2VyNzRvQk5SSHJDZ2g5TzlYWVRFSHd6OERnTXRXRzlGMm9xc2VxOGtwbFNsRU1IUFZ0ZmItaXlLS012M3F0WnE1M1JRX1pPWVBGTlZVQncxN2I3V1g2QmV5RGtMeE1yczgxYWZ0cmNka3N2ekdyZ1lZR0hrVWgwOFNLRmFGY2YtU0s4eTlKYms5eXh6RHVyczA2MjhjQUVsVVYxMDVSM21NSnV5dE1xdFFPY2FhbF9rMmZKaw?oc=5",
+    "summary": "VfL Bochum gegen Arminia Bielefeld – Bielefeld gewinnt knapp&nbsp;&nbsp;T-Online",
+    "published": "2026-10-11T13:28:18+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "bc5eadff8b4b1053",
+    "title": "1:0 - Boakye beendet Arminias Durststrecke - Westfalen-Blatt",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN2MxeWp2bGVZN19WRXJ6MVhRVnIyeWdlM1VWMjBnVmJZX2FwMUx0Mlo4a05RRjh5WmloM0UxS0VZM0RKU1lHYTZrcno2YWE1RHBaQTlZZGt2T1RVSkpoejh3UGFkbWJPQzA1NE9sY0h2Mm5VdjFvUFRsd2lnbHpjVEdfb0tCMTJ2aVd6WGd6MnRwYmxZUV9kNWJsREZQQklZSTJj?oc=5",
+    "summary": "1:0 - Boakye beendet Arminias Durststrecke&nbsp;&nbsp;Westfalen-Blatt",
+    "published": "2026-10-11T13:28:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "314fb7bb396b185a",
+    "title": "VfL Bochum: 0:1! Spiel wie eine Baustelle - VfL kann zu Hause nicht gewinnen - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOaEVfR3otT3g2dWZVeVF3cGZXdm5PMzJtQ0Jwa1poWkNzU3FUblUxOGdfc3ZWbkNLMWdQTldiN3hTdXZDTHAxbklOOUx6eFppOUhqMFNTNDJSTVUwLXpYckJRU3RQQVF1ZUxxalRSdDZ1QVRjY0IteVlpUjZncm9VVEItWEtVV255NnVYQ3plcjE3aGhma0NrWEFMZE5aU2I4VTF4R0x6TTg0X095VlBZdThTOTZKRG5W?oc=5",
+    "summary": "VfL Bochum: 0:1! Spiel wie eine Baustelle - VfL kann zu Hause nicht gewinnen&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-11T13:27:05+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "ce4354ded07b991f",
+    "title": "Kein Hüpfen, keine Punkte für Bochum: Bielefeld gewinnt im Ruhrstadion - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDdVNXZCWUU1bUowYktjREtVVW90RTFsSndqMWtBbkRGMWYzUmxQNWVzdEtpLXlQWDBpdXlCUmlUTUo2cy1oa3ZPemZ0ZkNyUzhkcnhOZkZYMk1OZnNYMnFIOGpkSTNDOUhlMG5UcG1ucmw3Y0xyMTZreUhVSUNodW5yNHUtYjVEZFI5eA?oc=5",
+    "summary": "Kein Hüpfen, keine Punkte für Bochum: Bielefeld gewinnt im Ruhrstadion&nbsp;&nbsp;sportschau.de",
+    "published": "2026-10-11T13:26:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "cd3af0611c60cb58",
+    "title": "Bochum 0:1 BIELEFELD – Boakye (78') - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNQ25GR0k0ZTI4blN2SDNKV1F1SzNONmUybEg0d3VFUFZlSnN5aGtuZFhnOE1qRkJNeWFMRExwWUE3ZWFWR1dUWXVMNGtnUFNOWjI4Rm5lM2R1VTF4N2kwQUVocUV4ekRqeEk4RVNHakRfNEp5REpaak9HY0pqWUFBNzY4Z3JwNDZDUk5J?oc=5",
+    "summary": "Bochum 0:1 BIELEFELD – Boakye (78')&nbsp;&nbsp;Sky.de",
+    "published": "2026-10-11T13:18:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "4823c3612ea9dd6d",
+    "title": "Einlasschaos in Bochum: Hunderte Arminia-Fans verpassen den Anpfiff - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWE9qYndYRzVGWnkyXzlyN05IcWYySXVNWEJISG1wZzZIMkhtY0NHbk0wS2Rjd2tEQnFrcG43THhmV1VMeEhRNzcyMGVBX2l1MjdDejhjeDVual9uYlVCanFGWElyVVd0TnpRdlp0NlNLUnMwVUVtdlN1LXJaTmh4dGhvd0c2UE1MbFZxOTBNcDAyWmlWaWNhRC1sNFA3aW5KYTJ2ekVXVUZZUWl5Z2wtZVZlWGdIUXFGT0k0TGI0Si1BcllmS0dOYkgxQkdlTGpY?oc=5",
+    "summary": "Einlasschaos in Bochum: Hunderte Arminia-Fans verpassen den Anpfiff&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-11T13:15:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "cf1548eb76243052",
+    "title": "Ergebniskrise gestoppt: Boakye lässt Bielefeld erstmals auswärts jubeln - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXpQU3cwbndpVHJUZnNYOURqQUNGNTBrN3o0SGtaXzN2c3VjN28zZTQ3czFqUUZ2VFNMbzFIOVFFSTZKdnpsa25HNjVGMlpLdnNQMmdHeFlZeFFkdkt6X1BoM0g0ZVlqQzBIS2dNc0xNVEJUMUdKT0hIdWEyeUl5T2RJa3E3YjJv?oc=5",
+    "summary": "Ergebniskrise gestoppt: Boakye lässt Bielefeld erstmals auswärts jubeln&nbsp;&nbsp;Kicker",
+    "published": "2026-10-11T12:42:17+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "ae31e53438a5cc7f",
+    "title": "Fußball 2. Bundesliga: Bochum gegen Bielefeld - Aufstellung - 7. Spieltag - 2026/2027 - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdnRXdHVINmZfMEVCUW51LTJFakEwOTd0RzRvWjM3Z0d6TWVCZWhQUmhvb1VwYUw4UGhNd0VVT09lX2FXM2EzNWgwMkJtYUVMdktaZ3BWSXg0Rkc1dktnY0VxZzF0dnJjVnJpQzQzVUhJS056S3pmdW1CeDF5YzM3R3hHeWRNekVwMjJXdXktVkp2T3JuSzEzbENXSzlOVUN4UmFIckFONG9zS0xRRnIzZHh3ejF4TXllampCenBOV1BlQkk1c2c0TUpzWktaM25laHU4VEhmTXY?oc=5",
+    "summary": "Fußball 2. Bundesliga: Bochum gegen Bielefeld - Aufstellung - 7. Spieltag - 2026/2027&nbsp;&nbsp;sportschau.de",
+    "published": "2026-10-11T12:31:06+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "9ef4270b86dd42fd",
+    "title": "Liveticker - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBZTDU5TkJvVEFRSklaRHVMdzNlNGRoUXM0Z2JIcm1Nd3JMRDIxQzNEa3VPZ3VBVHdScVFMSGJkWHA4X2k0RUhOclQ1NV90LWJlNVRFaDJqcEd1R2hCd0hrZUZ1V1VWNjB3OXc?oc=5",
+    "summary": "Liveticker&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-11T12:27:15+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
     "id": "f2f403f30dac4d95",
     "title": "Langendreer feiert seinen Herbstmarkt: 50 Bilder vom Stadtteilfest - WAZ",
     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxORzU0ZEtyVUJxN0JYWFpOZ0M2ampjNzR1WU9qQmdXczZGZzdTdmhKTTRzaGRtNUtVOXFPc2R2YUJsRXYxZl9jTS1PZmlXeWlWb3hfYnVkckhLNVBMTndFbzFpdXFHWkd4WXRoRFdHMlZZcmVPc0M3X3doeTkzeGUzb01HQVMwZDNOTVE?oc=5",
@@ -8,6 +608,46 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-10-11T11:11:27.118471+00:00"
+  },
+  {
+    "id": "a17617be8aa97421",
+    "title": "Liveticker - VfL Bochum : Arminia Bielefeld - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFA1WkNLVFlXSnBXdHo3dDFaWVRJWm5TSDh0ZTBjaHBxWWl1aVkyblptaU5haFhYRHVhTmZrYjZRRHJha1o4R0owR2hibmxqSEtsemRzUF94TjdtRnNPbjZtVW5OdE5vY0o5cHc?oc=5",
+    "summary": "Liveticker - VfL Bochum : Arminia Bielefeld&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-11T10:59:26+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "41e290566cb9021c",
+    "title": "„Wir waren so glücklich“: Zweitliga-Profi erleidet tragischen Schicksalsschlag - Merkur",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQSm9PV1ZiVGJRN3AxSWFGNFk2TDhtMFVBX0JNV2VpQjltanNLQ290RkQ1aDRGS0hpRmlGV2JvLVNKZy1YczdycEV0TmxmZ05ZcDNZS2k3bjZOVEMxYm45YnRYM1l6RlNBMHl6UkRVdWtqX013WHFhcS1waXQ0OHVLYWpvaDhmRWxTT3NBX2U4LU1IaGkyaFVPT3drUWFTMmc3Vms1Ug?oc=5",
+    "summary": "„Wir waren so glücklich“: Zweitliga-Profi erleidet tragischen Schicksalsschlag&nbsp;&nbsp;Merkur",
+    "published": "2026-10-11T10:40:47+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "7f52248520a3fdc3",
+    "title": "Herzzerreißend! VfL-Profi und Partnerin verlieren ihr ungeborenes Kind - TAG24",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcHA3Smhhd2ZzVW5KanJXWjZOX0RpaGdoWHZuSjgwTFJYS3FoM1hBTHNSWUl5U2w5Y3JlVTk4RkI3NVZKWG51NTdiV0tDa3dEZ1p1dGgxeVNpMmF5X05weWVFczQ0bzUtaHB0UGU0WnpxRWdXdkxrU0tEMmtMaktKNjRCbmpNejBJdVJNSXlNWEdnSG0xamphOE5uSUw0TFZPMXBicjJHWkt4UUFyZHBaUVRQWEdDcHFMVHZWY2prWjFfSnNSSzRtRGhPbnM?oc=5",
+    "summary": "Herzzerreißend! VfL-Profi und Partnerin verlieren ihr ungeborenes Kind&nbsp;&nbsp;TAG24",
+    "published": "2026-10-11T10:34:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
+    "id": "215f2457861474a2",
+    "title": "Emotionaler Abschied in Bochum: Ralf Richter hatte besonderen Bestattungswunsch - HNA",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOb0hlT0Q3WWxwTjZ0aV84SXBWZWU4bk53WnY1MlJNc0c1WENfTjJaRUp3aEdTTkdPZnlVSWZsWFRmYzUwMGl5WjF1eVRSMWhFZ1NWdmhVX2pNQ0RSRHVhUFRlcjhzc3dqTS1lWUxQY3FpWnBTYm1TeHQyMVAxX1o4MUUzTmhVUVRvTnBCTjZJWWpYWm02Z2ZCQUxSR2p2Q21RaDlvVmtSeGFsTU8yczktbVlZY1BmWF8zTjcyWDUzZU9TbjJZaVl2aUdfMW45QndGM2xLdDBR?oc=5",
+    "summary": "Emotionaler Abschied in Bochum: Ralf Richter hatte besonderen Bestattungswunsch&nbsp;&nbsp;HNA",
+    "published": "2026-10-11T10:03:19+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
   },
   {
     "id": "d5ab16710d3df174",
@@ -70,6 +710,16 @@
     "first_seen": "2026-10-11T11:11:27.118471+00:00"
   },
   {
+    "id": "33129f37ce8135a8",
+    "title": "\"Fassungslos\": Bochumer Ultras geben Stellungnahme zum Hüpfverbot ab - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPY0tVRUpMQWZ5bTN5ODRhMTdMdUowV1ZNc0tBME9pbS1jQ3dwUVVFRi1OelFPdzMxNHlrN3ZMVmtGRzh6R3dONGRvWTktWGNsdkZGay1nckxoSV84MGY2aWYyZjVCR2xHQWdHcWxyTHh3M1hVR0xXM21MbGFraVhlVkVYb0ExdDJYU0kwdlZrMEM2NWZJTW1mUEZ2cnBOSG5mSllYQzVOYw?oc=5",
+    "summary": "\"Fassungslos\": Bochumer Ultras geben Stellungnahme zum Hüpfverbot ab&nbsp;&nbsp;Kicker",
+    "published": "2026-10-11T09:00:52+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
     "id": "21050aea35f9dcba",
     "title": "Hüpfverbot in Bochum: Ultras attackieren die Begründung - MOPO",
     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMzlpOGY0Z21uX2VTenNiLThHZmRhbmRvcGNSeHFiUmZBSGxiNGd2N0pjNFNoamhQOUtaSGE2UGx2S0ZMX1ZHaTJNOVJwSHQwRWljR2FwLTdLSE1ReGd0WE55OHNaWDRyalFjVkJXMlBBZVNiNFV1Q04xbThZdlllZk5TQW1IeDFDU2F3X3c2akdUeTh5cTBmOVI3NzV0ZHNF?oc=5",
@@ -118,6 +768,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-10-11T11:11:27.118471+00:00"
+  },
+  {
+    "id": "7fbf8854ec579cd0",
+    "title": "7. Spieltag: VfL Bochum - Arminia Bielefeld - Arminia Bielefeld - Forum | Seite 2 - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbWVOT0h1UV80aVdPVUw3Q0JDdVhOS2txOEpncjdyMHBPTHFKdXZxU3d4Ym5pQ0lHUkxNMmdHZHI4ZkdraVVpR1Y0YW4zc0UwbXExeFBveVhFYl9fYTBwZEJsdWFpUlg1Z3d1a3FaVlNYb0RNalQ3alRmSGxadWN0WjNpb0Z4dWFjdjBpMmE3a2pNZnR5bFNzQTNZU18yQmVsTGM3Rk5lTXZDSUE?oc=5",
+    "summary": "7. Spieltag: VfL Bochum - Arminia Bielefeld - Arminia Bielefeld - Forum | Seite 2&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-11T07:36:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
   },
   {
     "id": "a8706ac40a42256a",
@@ -180,6 +840,16 @@
     "first_seen": "2026-10-11T11:11:27.118471+00:00"
   },
   {
+    "id": "149967f310cde33f",
+    "title": "«Fassungslos»: Bochumer Ultras kritisieren Hüpfverbot scharf - Vodafone live",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWnVTak9xaDhJLUhyZk90VGZJeHpKc0wzbzN6V2pnZTBEdUdWdE96T2cwVWZMVTFvT1NjWHRsZnBrYXRrLXBoSVZDLXVqYXlFTkpnbENzN1RqZk9SN3ZBXzVOVnpOVzJ0UHgySl9PQWktNjVMZUd1cG9KRFF1VUdSWjNuOXA1cG9VS1dRQzNabXByQ29qR3FMRzczM1dyc3pVZlQtT2lQS0xYUWpKUU1tbEsxWFhQQQ?oc=5",
+    "summary": "«Fassungslos»: Bochumer Ultras kritisieren Hüpfverbot scharf&nbsp;&nbsp;Vodafone live",
+    "published": "2026-10-11T07:12:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
+  },
+  {
     "id": "efd8f240a95b3085",
     "title": "2. Liga: „Fassungslos“: Bochumer Ultras kritisieren Hüpfverbot scharf - Tagesspiegel",
     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOdXVUTnpHekpIQzctcG5YcEF5b21CcEhSZDJVNHpQbkNiOWp2alo2SUd2Q1k2cHpid01ic0lWXzF1N2pwTml6aUMydjFPMWRzWjFabkJUekJNbXZwanpYa0gydGhBbHR6QjFXakxtc3I3OHZ3YjlrX1M4N1VodkkzYlVGbTRNb0ZPTG9WTlBmY3VUSURxQTc3YU5mUWtiNHo2UnJ5V3k0aHU1bjVqYi1ORFF2ZEU5ZnM?oc=5",
@@ -238,6 +908,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-10-11T11:11:27.118471+00:00"
+  },
+  {
+    "id": "3a9c2e042a8321cf",
+    "title": "„Fassungslos”: Bochumer Ultras kritisieren Hüpfverbot scharf - Mindener Tageblatt",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQanljZnZ3NFNkV3BUTEVHMkVwR3JDNFJWZmVOb1p2OWo2YWRQandUcmt1c182VVFyQUdpN2pKb0tORG5EN0VCdXhLLW5RT3dDU0lXSW5MMi1vd3F6Q0RzQkd0aXVJVDhIX1pnNmJpb25oWl9jQmtfR0t2SG5EWGpsQkhPNnFWMElKRU5kaVdoV3I3eW9Wa3BSQS1MRzgzSVp0V0NUbWRhUDc?oc=5",
+    "summary": "„Fassungslos”: Bochumer Ultras kritisieren Hüpfverbot scharf&nbsp;&nbsp;Mindener Tageblatt",
+    "published": "2026-10-11T07:11:06+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-11T19:19:30.594058+00:00"
   },
   {
     "id": "7eb4e7a8f883ca53",
@@ -518,685 +1198,5 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-10-10T19:06:54.287868+00:00"
-  },
-  {
-    "id": "303d2f349dc7193e",
-    "title": "Notruf gelangte an die Öffentlichkeit: Polizei Bochum rückt Info nicht raus - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSGdOTE9ObU9jNld4cHo1b2hUbTVJcTMtZVN4ODBYNm50N3ZBMXhNclo3dm1sTGZRTlVLTV96NmVSV2hsb0pIVlF3Z3F1T1RzeElBUzVDZnR6alZhb0tnOTd5dXBucVhyaWZmQjFUQjFNb0xBd25rRHE0RTZwOGdPS2syUTVhanJUbjNVdGRhdE44U01hOXNsZjl1S0hYZFMwTTNIUU9MNmcwenc?oc=5",
-    "summary": "Notruf gelangte an die Öffentlichkeit: Polizei Bochum rückt Info nicht raus&nbsp;&nbsp;DerWesten",
-    "published": "2026-10-10T12:39:10+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T19:06:54.287868+00:00"
-  },
-  {
-    "id": "1a21c7e0d0a33dff",
-    "title": "Matchcenter - VfL Bochum 1848 gegen 1. FC Bocholt 1900 e. V. - 1fcbocholt.de",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMDFaQ0xmc3dnNmU1RVlnQzExd2xTN1g1bFFOd25LRlZvd3NtR3VjbmpEb0ZtbEFIMTlyUm5Ndm9Rb1ctMzBySkU4dDd4ZEdNZFRIbnc5SGowcWpKNGFYWFR1ZXB4WndiMEhLVDliX0swSmJtY0tGbDg4dmd3alNydEJBMXBDUm8?oc=5",
-    "summary": "Matchcenter - VfL Bochum 1848 gegen 1. FC Bocholt 1900 e. V.&nbsp;&nbsp;1fcbocholt.de",
-    "published": "2026-10-10T12:04:10+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T19:06:54.287868+00:00"
-  },
-  {
-    "id": "199ce3d17db590f9",
-    "title": "Erster Saisonsieg perfekt: BG macht’s in Bochum dreistellig – der Liveticker zum Nachlesen - Eichsfelder Tageblatt",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOZGZaZzhSWm1Eb1VzMjZYdWJ2ZlNjS3BiVUpRa0lSRGxDcFUxdWpFdktLUjdJN1BlVVFfVU9taWtHd2FpVEVJZ1E0d0NCbjBHSFJiOTlOVy1ENkNZNGlxaWNmVFREdjE4dDhUTnQ3N25NNmNWaWx4ZDZPY2hndjlDLTFtOGRJcTJyRFV6ODY5aWtwYjNYVWFQRXlBUm5HTEZIZURnWDdiZHR2aWhJcEpjSDhmaWRqVThCZVRDUEhMY0RSdzJaX1RfSGJvRVB2RHJLMUtpMDJEMDQtLXJCanpObzU4TQ?oc=5",
-    "summary": "Erster Saisonsieg perfekt: BG macht’s in Bochum dreistellig – der Liveticker zum Nachlesen&nbsp;&nbsp;Eichsfelder Tageblatt",
-    "published": "2026-10-10T11:35:47+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-11T11:11:27.118471+00:00"
-  },
-  {
-    "id": "9933805c69621ef3",
-    "title": "Bochum: Feuerwehr befreit Hündin aus Fuchsbau - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVlItRDRRbHNONXZKXzBmX3lGc1FwSUJpLU9CdzBTS3VBNGNUWk9WY1FXa2VqOWtaUXFoc2FfQk9oM1dGZ0dMMlB3ci1ZQldpb00tSzVWNzBoRExKbmJTOTFkMDd6NDlOT25XNFozS2FxR3E0QWZhQ29MV2ZJOGZadGFUeGFBckhITnVfYS04TWVPYWRiMmVR?oc=5",
-    "summary": "Bochum: Feuerwehr befreit Hündin aus Fuchsbau&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-10T10:23:15+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "72297a2874f3dd17",
-    "title": "Bochum: Erstes Spiel war gute Werbung - VfL-Basketballer spielen wieder zu Hause - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdmN1N1N5NjdXbUV5ZDJ1SEJxQk1tYWhqWHZtTU1tSkJuUGZxLUhWbjJDVXZXckNBRjdxdURldkpkQ3haRGdmdzNlN1hCYi1JQXBDQVdFNVVPQzgwQl9OTjNZVVdqVElral9WblhsTDd0MVpfR2hqOXNTeHpIMFQzSGpZcktHYzV1UkhPX0RIN2pnc2ZKSFNNYnI4UjRxU3ZlQjRHeWQxVldkZ2lFRWRaWHFzUHFVQ1B0REVvMUNhV2YxZm1Bc1VOamJtRmE5cGQ5RFBSX3U0d2E?oc=5",
-    "summary": "Bochum: Erstes Spiel war gute Werbung - VfL-Basketballer spielen wieder zu Hause&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-10T09:19:18+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "08ce3cdbb59a7f87",
-    "title": "Arminia-Trainer Kirch vor dem Spiel in Bochum: „Wir brauchen viel zu viel, um ein Tor zu erzielen“ - Neue Westfälische",
-    "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPRDlIaFJ5aWhrWnRDdGNFOUhkQ3BkdFh6Z3VESG5Pa1QyMkowT2xmMWl5Yk9SUVBuZkxadlJJVTluMFVPa2R2WGtRSGZtc1NuSFhhSm9hX0NmOVd6MlJzaWtTVFp6bWlRNnA0bkx3T0h4cjNjMzdfbTdHSlQ5QnVkWFgxNGFqMTAybWFZck9RZTY4bXNtSE5hS0UxdmtsdWdPOXM3d0g0VFA4RWN6ZGtTYV9tUDlGYVQzRzhjVURHaDZ0NnlGclJNRDRfWk1JMWtJdkx3MjVEUlZheWdkX01HbThEUWR0RXRyQjdnRTJrNTdyNWxwNUE?oc=5",
-    "summary": "Arminia-Trainer Kirch vor dem Spiel in Bochum: „Wir brauchen viel zu viel, um ein Tor zu erzielen“&nbsp;&nbsp;Neue Westfälische",
-    "published": "2026-10-10T09:16:12+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "c9f9cb33e89e183f",
-    "title": "Blaulicht-Meldungen der Feuerwehr Bochum: Feuerwehr befreit Hunde aus Fuchsbau - myheimat.de",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNVG1pQzdHY3N1WjlCc0tBdWkyUG9xbnhrWDRoMzRyMlB2b0NZUE51SFhBNGszdG9UNzMtY1JtRF9yMEhHZDg5Rmo4Tk9oNktFeUh6SjU0dW5JdFpzMWgxUHVuVjNmd0FEeDNWdFh1c0NvUWxDZzFkUU1NdkVSR1A3cjRZbWpKLTFDanY2ZjZUMFBGUQ?oc=5",
-    "summary": "Blaulicht-Meldungen der Feuerwehr Bochum: Feuerwehr befreit Hunde aus Fuchsbau&nbsp;&nbsp;myheimat.de",
-    "published": "2026-10-10T09:12:05+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "acf16c06772d1dd2",
-    "title": "Katz-und-Maus-Spiel auf Netflix: Bochumer Schauspielerin fesselt in Thriller-Serie - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdmUxcjI3Q2d6RUpJbHhGcUZfeUFUeVdUajdQSkR2eGxFa3pzaDlRVzRXd1lPa09yMjkzMmVVTmMzem05U2NKcE04aHdOSldkdUhfb1hGVnVfdjR4S0pZSmRZUVdIT1hGcTdaNG5seTVobzM1ZzltV0luc3ZOUmNUSEVyRGxaS3pUMWFoMU9XSEdxTjlkY2FVTEN1QTF5ZTRFd25KTW44dU9WYTdXY1JSbEdFMW93UGpqZE4zdE9pbVlzZ1dwbUVjUm9EUkhsRjZSVGJDSFVR?oc=5",
-    "summary": "Katz-und-Maus-Spiel auf Netflix: Bochumer Schauspielerin fesselt in Thriller-Serie&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-10T09:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "7cc3cfcc1aa85492",
-    "title": "Klumpen unter den Fußballschuhen: Kunstrasen-Plätze nicht einfach zu reparieren - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdGJ6YmpZbFF2WF9BOG95bWoyVTZHYXpDTzJOWlUxUUxwUzlNRVpEeWFWMEhMa1VjVUFxdXZwY1JaNGNTVnRuWE42eGNxXy1XS1ZIWmRjS2xZaDVPRF9BeHRoOUVRRy16akJRbXE4SldieUhLOUhPV2k5eC1UZG5QczdMLUh5dVZrUl94ejhKUGNYanE4bGthOUxMNkRrWWNta0taOEJsWTlfM3FGeEQ0VzBlbEsxejdFckZ1NERGalpXb2thMWNhb29kYjBnajlqY3lYRkhhU0w5MVo0Zmc?oc=5",
-    "summary": "Klumpen unter den Fußballschuhen: Kunstrasen-Plätze nicht einfach zu reparieren&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-10T08:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T19:06:54.287868+00:00"
-  },
-  {
-    "id": "f64dafd41f25c0c7",
-    "title": "Stundenlanger Einsatz: Feuerwehr Bochum befreit Hunde aus Fuchsbau - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSmFSdTB3dGxCZE1kZ2dzQkhCaHRLS3hQanBVaUJOZWdxZE1VNWVHX0N1REVhUldLcGwzN2pILXpkTTQtaTlkdk5YMkl1UVJaaU1ub0dNWndKeGh1djRwcS1LZERnMThCbXF1dkNacDRDMzltYXgwMU9taFNLdnBvMzh4N1VRVVdWdFVhRlRvcEl0dGp3YkQ3R0hZYjJaRGpsT0VZUnRadktBTFp1elZQYjlYbE1NREUwOW83Q3B3?oc=5",
-    "summary": "Stundenlanger Einsatz: Feuerwehr Bochum befreit Hunde aus Fuchsbau&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-10T07:19:29+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "c1d0f2393dd279a6",
-    "title": "Drunken Masters play Bochum on 13 November 2026 at Gleis 9 - AD HOC NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSlpRSURxbTFGMnhSUXpMQkFXclhLNGRkbVdWRmROLWRvRWFQZEtEME1XRGZfUEtLSDFKT3NOb0VnNkJOWEUtT2FuYXVVakQ5M3otREp3dmJ6b1hISmRRZXFkejhQNW5jaTUtalNPLXdaMEdnNkFjSExUSE8xM2o1LUZfQ2cwVHpVRjV2eDQyYjZvWWtEMFJYYmZpamUyckpIdF9odWtJcXVMQ2phRjZOWW1DSQ?oc=5",
-    "summary": "Drunken Masters play Bochum on 13 November 2026 at Gleis 9&nbsp;&nbsp;AD HOC NEWS",
-    "published": "2026-10-10T06:05:20+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "6812eef429806d82",
-    "title": "20 Tonnen Fleisch pro Woche: Bochumer Lebensmittelhändler denkt in anderen Dimensionen - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa0Rwc2UwTDFBUGxac0w5SEhFcnQyRUI4b2U4UHhqWElZM1FQSzVLUHJ2czZZVlYwYkJDaHRNSFk1ekcyVzdpTFlkdkFkUkVyX0s2U1Y1YV9GV3pKR3dKOTBQcl9DVGREOE9IT3I4dzlOZlJyZ29ZaDBTTmVIQ2JYVGp0cTU3bnpmcHRXYXZNTGtUM29uNm9YdEF5cjY2NERMSEtxVDRaRFdWTlVXS2k3Z04xVnNMclZVYnk4RXE1ZHc?oc=5",
-    "summary": "20 Tonnen Fleisch pro Woche: Bochumer Lebensmittelhändler denkt in anderen Dimensionen&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-10T06:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "28d60eaf9dbd6362",
-    "title": "Tierischer Einsatz in Bochum: Feuerwehr rettet Hund aus zwei Meter tiefem Fuchsbau - RP Online",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPTlRDUWY2S3I0bTVFb3JzZWg1Z3JLSU5DYndqTTFRRTFEamFGSkFvRTcwZENTMWRfcHBybGRteU5EYTh4aTlyVFFDQ0VJZ25PZi1WSWFPbkFLc0pUT1hrNnJ5NnlMeVJQb3FYajJ6d2wtS0NOZEtLM28xd1gwY0prYy1BUDcxenhUc0NBdTV1OTlrNjBZZlUtazQxVnpxWnRJY1BLQW94TVVnRXM?oc=5",
-    "summary": "Tierischer Einsatz in Bochum: Feuerwehr rettet Hund aus zwei Meter tiefem Fuchsbau&nbsp;&nbsp;RP Online",
-    "published": "2026-10-10T05:42:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "419d2caad046b87a",
-    "title": "Bochum vs. Bielefeld Tipp, KI Prognose & Quoten 11.10.2026 – 2. Bundesliga - Wettbasis",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNdXY1MkNvcGlyWXE1c0xJV2hWcVI0OTZVbGZKcG8tVjJUM3hwZXdUTFRYVTAwcUYxMExxazRvbTJIMzJIa25TLWtRNXVicWVEMUxBWFR5Rm10cWdRY0RzMV9aSzAwb0JFcDhUN1pXOFJzTnNUWkV4WFJSa0MzVS1zRUo1SERwdEdoUEtpUFZJVnZJQ2FGMkNWOW9qWWRtZmc?oc=5",
-    "summary": "Bochum vs. Bielefeld Tipp, KI Prognose & Quoten 11.10.2026 – 2. Bundesliga&nbsp;&nbsp;Wettbasis",
-    "published": "2026-10-10T05:02:37+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "bc8517baca982964",
-    "title": "Spezielle Tierrettung im Bochumer Süden - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWFFET2o1UmRubHgteUNROXZZRnRMRndMZjNvVHBPdV9NNU05ZnhsSEg4NjBIVnE5OFVIVG96TGx2S0NNeXkwTzRuSnlIbVVRX0xtVXNhQWY3aGw2ZGh6UkgzT1dwbjlyLUtOZmZsOFgyeUtmLXl5WE9FeGpDU0xkT25wNEd3M0t2LXhF?oc=5",
-    "summary": "Spezielle Tierrettung im Bochumer Süden&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-10T05:01:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "f5586e8166d9c096",
-    "title": "Trauern mit Johannes Golla und Cristiano Ronaldo – und ein kurioses Hüpfverbot im Stadion - shz.de",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVlpNRHlzaG1KYkI5cXdoaE1oOHhKR0MxeUtpZ05mRE1uTjFBbDMwbTRHSlJPVmt0bnVLaTFxQS1lTUFRQ3RiSnl5ajRqS1ozaUgybzYzTFgyd2pyRmJxNTFEamZEQ1pxWnFNUWgtUUVjUkVENjFYdjEzb24wUml1TmhKcWpTTUV3RWw5U0JXM2ZqT1R4QU1wWmpSWndzTnJHN2t4SVRxU2x1OEcwUGQxMUd1UGVxc0JrUUdDSXEtVGJfOUZN?oc=5",
-    "summary": "Trauern mit Johannes Golla und Cristiano Ronaldo – und ein kurioses Hüpfverbot im Stadion&nbsp;&nbsp;shz.de",
-    "published": "2026-10-10T04:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "db380ed76871d4a7",
-    "title": "Umfrage zur Kreisreform: Dortmund statt Bochum? Leser sehen es anders als die Vereine - Ruhr Nachrichten",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdjJRUnZGeHlCS3pOb3JxOEtaM1V0YlRJTkdlSkhMNlBkZm5CT3lGRG5BNEFRSjNXc3FCajhmeTNURnVsQllEWFUyUVU4T2pvMWxfdlJROFpoZXV2dWlIcTZBLTUyQmQwd0F4MVB0c3ZEOGN5ZjRNN2FOVmh5cjFDUDN1bG1OQTdUQ09fbDFBR0RycnJ0TGlBQ2JuM1A1eHVGZVlobTRKV2JBZnhxZ3FreEs1dU1QRGxwa2ZuSkF2MXNMWFVRRFlxaVg1MGZ1M1lNbG4yUTJINGtKTlhsaVlvdkYyYw?oc=5",
-    "summary": "Umfrage zur Kreisreform: Dortmund statt Bochum? Leser sehen es anders als die Vereine&nbsp;&nbsp;Ruhr Nachrichten",
-    "published": "2026-10-10T04:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "70e72099300c563e",
-    "title": "Bochum – Bielefeld Tipp, KI Prognose & Quoten | 11.10.2026 - Wettfreunde",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNUlpUZ2pXd2FFOGN2ZDRnVDkzQWhjbTRJcFJyNUFMcEh5ZG5JWmNYUWVzNzV1d0RndElfbnh6dEFrbngwLXpaMFkxOVlMcG5wSXpwNGRCWmhkTTRGVmJVNkszeEY3MmxOQWVSaDMtV1hqREZCRXJLOUxWNEI2UnhYeDlIRDdNRlg1T281VElBaGlOenpEWVV6S3VUQldFNWM?oc=5",
-    "summary": "Bochum – Bielefeld Tipp, KI Prognose & Quoten | 11.10.2026&nbsp;&nbsp;Wettfreunde",
-    "published": "2026-10-10T03:35:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "eb688a9d115d9cf6",
-    "title": "Mein Karstadt-Comeback: Anderthalb Stunden, ohne etwas anzuprobieren - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObmdLWmd5SllnWGtSenl6UXo3RS1DVkpxeklXTWtVd201WU9PWlpaZWhIazJnbGZIVU9Rd205S1lRcWVpaGZVUkVSYll2a1R5bjJ4cjlqX3F0ajAyZFJRVkd4QmRkSlFndWFnZE1hU1ktWExxaFpUTngzWXNaS3h6RFRJSmk4MUxhb3ZnQ1pvTXB5Z1NoZDZkMXoyeHA1NDV2dkRaSlpQSUE3YU9TTVVLZVNiZ09TbDcwcmc?oc=5",
-    "summary": "Mein Karstadt-Comeback: Anderthalb Stunden, ohne etwas anzuprobieren&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-10T03:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "78d1e60ee9519366",
-    "title": "Trauerfeier - Freunde und Fans von Ralf Richter nehmen Abschied - Panorama - SZ.de - SZ.de",
-    "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQRDExWV9uX3VrT0tXa1VPbnhySVlzRXctU0Utdy1iYURoek94d0NGQ0FsQ1ZXT0QtS09IajVGUnRoT2FLVy1wWmFMN2gySTU4RDM1V3Z1Ukl3cUQ0WXF0OVJaSWxpRl9YVGp4cUFwQ0lwWGhpLXlBanVGLVlnQ2JZd1o1SnVZYWxmblAtSXd4YW5nc2xHM2sxbmpLRkRrdl81ZEpyMmc3czczYkFUY3RqTnhxVHdRZ0N5NFpQWHVPM1NfY1ZTcTVpYmIycHNFM3hlSzZxQ3ZtODlWNmJISGZKN253?oc=5",
-    "summary": "Trauerfeier - Freunde und Fans von Ralf Richter nehmen Abschied - Panorama - SZ.de&nbsp;&nbsp;SZ.de",
-    "published": "2026-10-10T01:30:19+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "a94c47b800464d78",
-    "title": "Trauerfeier heute: Freunde und Fans von Ralf Richter nehmen Abschied in Bochum - RP Online",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTzZrSG1ETkhLTEkwZXFNYzhoOEwwNGpqS3VCbHJUMEZzb1NyOUdaWm9CWnhjcWdMeFlSVnVzVE5TU21qX1BVa05GNkRDYWJpMDVxeW9BT0FTcDJYX0NvRWhnMndSTUo3RXBrS1c1MWo5bTAyUXBUbHNiUG5VWGdpa0gtMzlhMy1ZajF3cGx6bTdoNllmb2JXQW9SejdRZw?oc=5",
-    "summary": "Trauerfeier heute: Freunde und Fans von Ralf Richter nehmen Abschied in Bochum&nbsp;&nbsp;RP Online",
-    "published": "2026-10-10T01:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T19:06:54.287868+00:00"
-  },
-  {
-    "id": "7b006fa5ea726ef9",
-    "title": "Gesundheitsprojekt in Bochum: Vier Jahre Kooperation mit der TK - AD HOC NEWS",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVzlyMW9RaVJ2ckpEWUhLRmlETXQyaU1zeGpqUDA1dUVtTGhhQ2xVWlk5c0I1V3NvVzF5STRjdEtSOGM3VHkyNDhhZF9EdWZVVFlkc0RrSWwzei1Ed1FfbG5odG1UMTdTN3ZQeUJuNEtiaXRaYzE0RjF3d2I1M000MHJhM0x2bGFpS1c5Y0ZjSmNIYlZ3US1zZzhjU09fUXpuMmI2Z0JiS2IybHhFcFE?oc=5",
-    "summary": "Gesundheitsprojekt in Bochum: Vier Jahre Kooperation mit der TK&nbsp;&nbsp;AD HOC NEWS",
-    "published": "2026-10-09T19:39:40+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "3ca896eb5ffb860a",
-    "title": "Bochumer Hüpfverbot: Bei der Einhaltung hilft Arminia gerne mit - Westfalen-Blatt",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM0FqRHE1dmE4LWdPM3gxMldCMHp0cUlJaXc5T2U3YWpuWkFzeGEzci0zUUJLUnd6UUQwMHk2ek5CNmhLYzRDdFNxM3JNZEVpTzdGaEpaRGYxNlh4aVdXcU1TdG9OeUZ6SElaWHBMZWh2N2NKTUlRMW8zbVgzMEJ1bFFOOThReHFXMV85X21odFZaRm1haWRzdW9ZVFNTRlZWT1ZhMURFV2VRQXUwamFsSXlGc3ZwRENpV2lLV1VtZw?oc=5",
-    "summary": "Bochumer Hüpfverbot: Bei der Einhaltung hilft Arminia gerne mit&nbsp;&nbsp;Westfalen-Blatt",
-    "published": "2026-10-09T18:57:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "0f4c6dd5b2d19bd5",
-    "title": "Hüpfverbot-Wahnsinn beim VfL Bochum geht weiter: Es drohen brutale Konsequenzen - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQN2s0Sk9Na2p0Zm1feDBKcTlpSFdpcVVaVjk0bGtVRU1NWTlEVWVtSWtfVTVrLUdXNC11Mk9MU044dVBJNmZ1TnFidUFaTlh6SlJneXE3T1NJbHA0QVNpTm5IOExQQzZIdzVNazYtNXotTXVZV2RtTmNJVENOdGR4ZnAzMVFpVEc4TmpDN0xrU1V5c21aZE5BNlBva0c?oc=5",
-    "summary": "Hüpfverbot-Wahnsinn beim VfL Bochum geht weiter: Es drohen brutale Konsequenzen&nbsp;&nbsp;DerWesten",
-    "published": "2026-10-09T17:31:35+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "cf7d26e94a0da2e3",
-    "title": "Bochum macht es offiziell und erfüllt einem Talent den großen Traum - fussballdaten.de",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQS0tDSVQydVE5YXc0UjExMmtqWE1mQ2lCYjhQNjNQNEtXSTJWZHZKelVjYmd6VnJFdU5pZWhiZTQwUmozTm1XSUhmNXQ5S1VlVmpyUjhCTUxKMXBoZ0RGUTBhcGVRdXItVU9kVjBKdE1qSGdFOVVMNzU4MHRuXzUzY0x5SDRoajB6dTg4eVRVN1pzLWI5?oc=5",
-    "summary": "Bochum macht es offiziell und erfüllt einem Talent den großen Traum&nbsp;&nbsp;fussballdaten.de",
-    "published": "2026-10-09T17:19:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "80822124cc93dab3",
-    "title": "„Tief im Westen“ soll es für die BG Göttingen beim Gastspiel in Bochum endlich wieder besser laufen - GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
-    "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRGVGVEltZHhSbjI1VllzWFRacUt2U1NKX2NJRzdBZEFCa3JxRy1FeXlLTW0ydkZuM3N5WWh5bEFpUTdscUdsSThLTmF4ZFRPZ2tHend4N0RqYmhKNmRGWjJrd1NvTVo5QklLXzdMZkUybHNPT1Q2cFR4R0FabUlBcFFJYmhwVnNlQk90RG1VQldZSTdERzNRZzA3T2pwcWlWZHVYUU9WbVpTX29WZWJPTU9jSldNVDZ0RjZxcHBma2FWQUd4M0ZGbVVGd05iZk1lT1UzVThRV1FibGRMLVZXZ0JmSm5fdUR3Mmk3NC1mVHR5dWxM?oc=5",
-    "summary": "„Tief im Westen“ soll es für die BG Göttingen beim Gastspiel in Bochum endlich wieder besser laufen&nbsp;&nbsp;GT/ET Göttinger Tageblatt - Eichsfelder Tageblatt",
-    "published": "2026-10-09T17:04:01+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "6bfd6b383b0963a1",
-    "title": "„Das ist schon beängstigend“: Eltern in Sorge nach Vorfällen an Bochumer Schulen - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWS1ZS3UtMEZpaEp5Z2gzc182WVRsT2ZfTjlPY1lNc2dCLUNRWmVTclZtWWRLVW9qa2l6QVZPbHRZMDk5ZEoyaE5VWFBWSElfQlllMkJYazV6OXNtWjVJRjJXVFhJZGxwWTJzOUlHS2JFX1BZVFBkV2FuNzlfTkNNN280RWFsVkxJb05HUDVocGRIVjV5N2t2UXIzbUZJSkRRZU8xNHo3cVU2M3dYWDRlTl9KcjlGS2hPWUFKcUwzUml5TU05a2Q4Nk55VG9MaFhT?oc=5",
-    "summary": "„Das ist schon beängstigend“: Eltern in Sorge nach Vorfällen an Bochumer Schulen&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T17:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "19bbb1e9d2fc40c2",
-    "title": "06.10.2026 – Bochum Wiemelhausen – Tiefbauunfall: Radlader stürzte in Baugrube - Emergency-Report.de",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPbF9aZHdUbHlGYmh3MUZkZVpOMXRKSEFSallmSFNhTHo5SGNCVGJrakZ3OG1hVGJrTzY3eXN2ckgxZTBGd29LRVRTaVRfQk5DNGhLNUtFY2g5R3lndXlPbnYyNVNzdHdTTElzdWZabGVSeGtqQUx6MXMyaVJTdmJwdThQNHh4aDduNTZHQlQ2RVhMZFk3dWFXdTNXMXAzaXA0UnhLZkgwSF9rUFdpeDJFUzA0MlpxY0ZEb2xOMHdyLXp5X3B5UEhJWHJQNVFTeDNhb2lYTTNraU1YSXZv?oc=5",
-    "summary": "06.10.2026 – Bochum Wiemelhausen – Tiefbauunfall: Radlader stürzte in Baugrube&nbsp;&nbsp;Emergency-Report.de",
-    "published": "2026-10-09T16:41:06+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "8ad2a4fc3bbb19ca",
-    "title": "\"Traum in Erfüllung\" - Youngster mit Profi-Vertrag ausgestattet - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPYU5hdDVrZV9mZGFyYmlaWW95R1JnV2l3MldjSy1sOVBtbGpHalV6a0xra2N5TWd1QkxmSld1dk1YSEZsQXdqLUY1OGExcVFSSFM1dDZOR0U4ZzRFS3lMNldrQjhaVG9zdVBNOXZ3c3g3a1FsLW9NaEIxSXctQXpHZU1rRVNFMTJoSlFDYUMyZ1hLLXVlNHh5TWNtSm9HUGRHeXY2ZUJmekNoMzE2dTB4N2NjZ1kxOFFSTVF2cEgxUUlPWTB5ZkE?oc=5",
-    "summary": "\"Traum in Erfüllung\" - Youngster mit Profi-Vertrag ausgestattet&nbsp;&nbsp;RevierSport online",
-    "published": "2026-10-09T15:55:18+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "e871292191ec3ea9",
-    "title": "Hüpfverbot im Ruhrstadion: Was das Gutachten über den Zustand der Ostkurve sagt - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQT25pR0dveXp2ODFYenNFTVhuUVNHbXNiZXVSeWExQURxNjNzeWtnc2F5bHVvODJULXVOdTl1OWVyTWlTZ0ZocjNySG1VdWd6YlF1c1RKQjVhOFFMS3VGQ29EcDF4eVlzOE5OcE5BaWVFQTd1STlreFZmRmRXZ3MtMGFKbDc4Nk9iZHZoTDdJNUZmNF8xUUFvZC0zUFRmTy1PTVNLWFRHdE1zYXg4VXpIZGo3aHFBRHRBSVQtamY2Q1k5Y2JvaXNWZlN0NnpZcXZySGc?oc=5",
-    "summary": "Hüpfverbot im Ruhrstadion: Was das Gutachten über den Zustand der Ostkurve sagt&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T15:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "742caa5c59c9e9ab",
-    "title": "Gekündigt, weil er einen Betriebsrat gründen wollte? 62-Jähriger zieht vor Gericht - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNdHRLdkhndVRHTjFXWWViOTU0TDNZMU4yZFdGZnJIdkpiZjdUczJZWXdYOEdCb3QtaURJcmFvcWJwM2NYYi10LW1GaGxfS0F2RThIWTRudVRoaTh6UU9XcVJEM3ZkWlZFYzlETXJxcGpld28wcHJra2hTUGYyT0dPaGtSVExwMWRDb09nWHE3X1BGWEc2RGN5c1hwVjRuazZtZk4xTU84c3NjUW5MS2hIaDRmLTRKM0N4N0l0YlpJRE1URlhkYllrUS1LbkdDUDBvdGtxX3NR?oc=5",
-    "summary": "Gekündigt, weil er einen Betriebsrat gründen wollte? 62-Jähriger zieht vor Gericht&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T15:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "d7af9752e230877f",
-    "title": "Bochum verkündet Sawas-Deal - FussballTransfers.com",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOT2ZqdGNTSWpWOW1mZUlVUU9raTNLX1FWX0drYTZmYU13c1R0SDNwblZuTmtPVEk4LWRUeDlhLXd1dTRqS21qUnNiaktVNG5wZmRHSllFemJIUV9feDhnZ3ItUWZZSEIwQkpBcm9IaVNiNTZqNEJrcU1ncnFRMkE2SnhPTnZmY3dQN2hv?oc=5",
-    "summary": "Bochum verkündet Sawas-Deal&nbsp;&nbsp;FussballTransfers.com",
-    "published": "2026-10-09T14:55:03+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "a446c1682a47ed74",
-    "title": "Offiziell: Bochum bindet Talent Sawas mit Profivertrag - n-tv.de",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbEF0bTJxZzhsc09wdVhzSzBzazg5bnpmcmdBOVVnUG9aMnllMHFjSE85VHl4V1NrZFVQRG5tWnNjZEdvbG9xM1N4cHZsOEhTTjlBWFBCcE1ic2pOUDhvcEVKZHZtc0FNeUwwLWhXWDdCTzVhUTZibUNVS0dsWnBTbEtKZWNXTURrbDZRQU5GRk1vaDVxbVctN1ZvaEtyejFoYjViRndGeGVtaHdLMHdJSVQyUzBJVUFSOWY4YTlsWXp4ajB1Vk5tLTJZcw?oc=5",
-    "summary": "Offiziell: Bochum bindet Talent Sawas mit Profivertrag&nbsp;&nbsp;n-tv.de",
-    "published": "2026-10-09T14:55:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "05425cec4829ef79",
-    "title": "Sawas erhält Profivertrag in Bochum - Kicker",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWm1OUHk4d3ZmWEE1bFZpVXdsOWxnNmNVWjhFUm1qeEQxc1ZLVmczTWE3R2w2NWZXdWZGaEhLdHRoWFlVU2FmbFF1UWFwUjd3V0hyeldfay14Z0pHX2R3MFhVZVZhRmZvSzNQNHE2a2xpbXVVTWxJMS15YzlCQ3c1T2JLNGQ4eXpZTkhVT0NjNFR1UQ?oc=5",
-    "summary": "Sawas erhält Profivertrag in Bochum&nbsp;&nbsp;Kicker",
-    "published": "2026-10-09T14:44:13+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "564355b5995bf3c4",
-    "title": "VfL Bochum will gegen Bielefeld endlich den ersten Heimsieg - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPN3ZhckJvd3hIeVV0SHhObWVqXzhuOFdEZXFSYWM0c3R1ZExlYzJnSlU4N2h2d2h3MEptdjlIalVMc016Szc1WEZQZ25HblJ4SU1pUUtpSTdGbEdZcWtTTWxMVVlQYnpkdjEtWTJxaVQtLTFuTUJPaTY2ZThIMnAyRkJlV19LMUpkYVhQZjZkQ2swalotRHBDT29UUDMtbHlvcHd5Yg?oc=5",
-    "summary": "VfL Bochum will gegen Bielefeld endlich den ersten Heimsieg&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T14:10:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "ff503b4616c0f6b9",
-    "title": "Bochum leuchtet am Weltmädchentag wieder pink - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOVVUxS0d0ZkhQV3gxNDdhNFZNX3htZE9lbkliaEJIcUtadG1rQ2h1RllpWmhjWDVKOTB5Sm9ic2xMSzZ4dWY4LTBCV2RXNDQwYW1rNm9udWp5aklBRVI5VGlWUVBnTzVSWEE4VHBYWFZ2WmVZVzVkSFVocEgwUHhuT1E4dUZHQzRpVDZVaXJjTnZQR0E?oc=5",
-    "summary": "Bochum leuchtet am Weltmädchentag wieder pink&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T13:19:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "1783ed804f5cd544",
-    "title": "VfL U23 im Liveticker: Nach wildem Sieg in Gladbach will Bochum im Kellerduell nachlegen - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOamtYNjJEZUFGVTVpTWowRHFlaTh1TDZrN2hKQ0hqY0VrS3IzcUg3V0FxODk1WGlRRmE4MG1FRkdZTDNQd2ZmRXVxanBrYWNKNFI2dFlLRHVmc1BENE9sbHNEY1VzTzM5bWhMVHMwaTlOeHNxR2FNdVVmMjFqOWVnUVAyRWNPM3RELXZoOEpQaFNsUGJJS2hWTnV4b21YLWFfRFdtQXp5MjNPazBFZWNUX3NFMjN2S1ctV2lORUI0LS1PejZWZmtfVnFBdUtaU3VWdV9NZmtHNWs1c19vd0FjYzZNTXIta0U?oc=5",
-    "summary": "VfL U23 im Liveticker: Nach wildem Sieg in Gladbach will Bochum im Kellerduell nachlegen&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T13:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "c411ca1808e774f9",
-    "title": "„Hüpfverbot“ - VfL Bochum appelliert erneut an Fans - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUXozMjE4U05SNjl3c0NwMVExZlRoWHI2dXdpaF9XQnFlcDAycWgwcDMtRHgxeHdiY1didXAtZjRTMDc3Uy01V3dzZlVNUVE3Z2ctMEV0LXhuYmdpSjJmMU5IZjFaelFIZ3d0bTFDQ0ZHYWxlUXBwMElGTmlzcTQ1VjVjZlFZdjFteTVpLTgzOXdGeXo3M1hZdmIzbTZtY1U?oc=5",
-    "summary": "„Hüpfverbot“ - VfL Bochum appelliert erneut an Fans&nbsp;&nbsp;RevierSport online",
-    "published": "2026-10-09T12:14:51+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T10:56:24.884756+00:00"
-  },
-  {
-    "id": "ddd1d6825f245b0e",
-    "title": "POL-BO: Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder ... - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB2ZUZtU2xBZFEyRGFoTjgtZUVQVWluWmRQYS1NejBRU1NqZVd6c0hjWjRtdmZyRjNyNzltRDRjRno4MGF0VjFoclc3QnpYQkExSmZpS1dfMlpNMHdTWnowbXhWTXQ?oc=5",
-    "summary": "POL-BO: Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder ...&nbsp;&nbsp;Presseportal",
-    "published": "2026-10-09T12:14:23+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "28d00c359c342f3e",
-    "title": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche - Radio Herne",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQU1FFSHpCZjFfbmxHLUdjalNIbkNnRlNEYUxObmxTMEp4MXM4eWRwS3FPWHpMZWFPUl9pWUllTzJyQ1EwXzVxaU8zM0hBdVR2TGl2ai1zWXVEZ1IzQWxpV0NnSzRYSkhMeGVOTHVobEFqSk44bVVCMUp0Mk9fSDhoWVg0R3RwN01ISlR3SFhTUmVEdTZHYkFjV1ZGQQ?oc=5",
-    "summary": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche&nbsp;&nbsp;Radio Herne",
-    "published": "2026-10-09T12:14:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "ba016f7aafed1658",
-    "title": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQl91Z0d4a3hOM3pjNlJTSE5pMklBeWM1SjJYMlhRZUZ1RmZ6MDJwQ0xRdFliN08wNDVfU2tfbzdKQTVLY0VVb1JYSzJKQmNheWNDM2EtcDBmZWFyWjFvWU1LcVZTcU5yQkNBWTloRUc1N1RObWs2SnJXRmt4QXRJQXlmdTZFSUIwVVpGdzRyNTd2SDZUMjdpcDBMUGo?oc=5",
-    "summary": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T12:14:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "66ef2947d9e57948",
-    "title": "\"Hüpfverbot\": Bochum appelliert erneut an Fans - Yahoo Nachrichten",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQb2RWNDF4OThURWlkeGdtQXJkU0g4ekJNcjZQV3JLZFo0aXBsRkg1a2x1M0xIb2RWQngxUnZqSk12RGhJSmhPZXZCalJCN3YweXRXdWxqcVZ3bUtTejZKUXVnZTVLZ2FwZFlibE4zOVNqdXNzcXVIZF9kTThIV3BXcmxjSWJpMlI0eXo1TENIVjgtdk9ka3I3R05mcU1WeXFI?oc=5",
-    "summary": "\"Hüpfverbot\": Bochum appelliert erneut an Fans&nbsp;&nbsp;Yahoo Nachrichten",
-    "published": "2026-10-09T11:55:22+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "16562f9e7e2da65c",
-    "title": "\"Hüpfverbot\": Bochum appelliert erneut an Fans - SPORT1",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQUndCeHBORVQwY2phSnJqZHJyb3czVHhuNXNxNTNDbnpVTGhWby13d1RoUzdjQ3pMVm1CaWhZMTZMbjk3Rm5VdWV1Q1hVM2wtWGFVUzRfbzEybmlXNV9SX09PVUVhYTRweWhJQ2tkUGFtZC1kUzZqSkljekppSzRwNWxYOXRrRVgyS2MyTlQ5Sml6TlRiRXowd2ZWR3BpWUFxazNB?oc=5",
-    "summary": "\"Hüpfverbot\": Bochum appelliert erneut an Fans&nbsp;&nbsp;SPORT1",
-    "published": "2026-10-09T11:55:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "66de24e72557a778",
-    "title": "Zeugin beobachtet Einbrecher - Kripo ermittelt - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWEhQZUI4MnptaHNrcjNQNURyR241dTd3TmNuRGJmM0kzejg4VjZkRnhuWnNtdXREb0J1QWJRdE5pUTN5UTJHcTkyd0VEOUh3cGIxOXhCd0dMdUxXUjdYSGlRVUYtZ1ZyM25Da2QwLVpWOWJSRkpEUTJCaWV2UXZPa1JyWkxKbVNsZUFYYXRXbUM?oc=5",
-    "summary": "Zeugin beobachtet Einbrecher - Kripo ermittelt&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T11:42:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "41c58b741d3aafa9",
-    "title": "VfL Bochum: Trotz Baustelle gibt es noch Karten, Einsatzgarantie für Mittelfeldmann - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOMDZ1RklwWUtVN1ExX3IyZ2c2Q2paRVpXU3Q2ZGhMdW9lNF9FalhDRWF3ZEI0djY5UVQyWWZxUHpjcWxKVnY5Z19FYi1fWGN4NDVjdW1jc3g3RHVQWm1vNnozeTJYQ1N4UWZZSUREdWtXR0h0TkxQeXRwOGZEY1MxMWdBQ185ZURwbERhNXFnZ1U5SUVDOGoybFRHTTFOX3FKbkdrOU56ZnA5UkZDUFpZWU1FSTNJM2ljeUY0UWx4b201U01ZdzB2VW5reDRoM3JxOGhubEkycEdnQQ?oc=5",
-    "summary": "VfL Bochum: Trotz Baustelle gibt es noch Karten, Einsatzgarantie für Mittelfeldmann&nbsp;&nbsp;RevierSport online",
-    "published": "2026-10-09T11:22:04+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "2a6a60c83f2d27cc",
-    "title": "Arminia Bielefeld zu Gast beim VfL Bochum – alle Infos vor dem Spiel - Neue Westfälische",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORjVsN3Fjd3Nza0J5UXp2VERoa3dvY2JEWUVfcVNCOWNVZU1QakFmX3hKTjF1TnlVb0o5dHRiaWtkcWo3SDl2ZEVUZk1lbGJicGhpMnBIOFZYS1ZDS1NLei1oc0oyeGtIbGRXWTEwcWhJTWc2XzRtMlZTS01JOXVpUWJVeU16VHVqenZvemxiT0dacndhUUZtTnl3Y3oxVjhIWndRa3VqREMwZ1U1VXV2R1FxeGdpQmpxdnpwSHVoUmYwUDhwSGl3UXh2aGZQTTc3?oc=5",
-    "summary": "Arminia Bielefeld zu Gast beim VfL Bochum – alle Infos vor dem Spiel&nbsp;&nbsp;Neue Westfälische",
-    "published": "2026-10-09T10:56:39+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T19:06:54.287868+00:00"
-  },
-  {
-    "id": "a7802a0ad5267d47",
-    "title": "VfL Bochum verhängt «Hüpfverbot»: Bei Verstoss droht die Sperrung der Ostkurve - Tages-Anzeiger",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWHVFeUxTTWtLaElSSEpQQ3R0QmNhREFHMTlrZ09fZXMzbEpPOWQzLWNuMmtXUDY0Ujl6MWlGSzBhdWNEVnhmQkFHSzE0Y244RzlqbkdieFRGZ3ZlcWdtVGxYY2tUZjBIR0tSWmk0enllUWR0WDBOQjNGWEFUQ2NnbWc4RzVFcFJidUg5M1lQLUJ2TWcxMXBINVNxdHJNYnhH?oc=5",
-    "summary": "VfL Bochum verhängt «Hüpfverbot»: Bei Verstoss droht die Sperrung der Ostkurve&nbsp;&nbsp;Tages-Anzeiger",
-    "published": "2026-10-09T10:44:48+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "8e797395694b344d",
-    "title": "Bochums Ostkurve darf jubeln – nur nicht im Takt - 90PLUS",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUVJVGhwa245S1VjS3hIV0lKZmlyam5XSUloNW1RRTlCNlRZMlBQQVJGdkQ2VE5oYWR0M2x1SnhubkFGM0hKWlRrU19LSDBJVEFuR0dtZE5RS292eXlwTkVGT2t4NGVxREswUXI1X2toX3FVZ1ppOGVfUzc0TXJOd0VCdUxrREQ4?oc=5",
-    "summary": "Bochums Ostkurve darf jubeln – nur nicht im Takt&nbsp;&nbsp;90PLUS",
-    "published": "2026-10-09T10:28:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "6d0cc9bd60dd19f7",
-    "title": "21.000 Euro Spenden: Das plant Ralf Richters Familie nach der Trauerfeier in Bochum - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVGNEazhWV3NWQ1FiUlAyZFJjVzAwbDVYQ0dhWlh1NV9iUzJ5cUFrRXRmVDM1SXE1T0E4Sy1VVlptWUhubHZhel9DWDNPeGRMRmVETXpUbG4tVHc3WFVEcjI0LWNCMl8zeVJBN283TjBYWnZHS3B4ZTdOWjZRaEw0U2djYTU4UzlBdUJtdlBjaWFkTlVLWXgwSGxManNsVTJ4OC1TTXUwQldvSFpyQm92SkVkWm5WUDVMejNhMGxZazZEcHg0U19ad0xR?oc=5",
-    "summary": "21.000 Euro Spenden: Das plant Ralf Richters Familie nach der Trauerfeier in Bochum&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T10:15:54+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "6d6772449781655a",
-    "title": "POL-BO: Nach Schockanruf: Kriminelle bringen Herner (88) um Erspartes - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBMV19GR0ZiOVgxaWlDRzFhemsyWl8wR1h5bG8xSVBxVnVTTXM5SURCR3RoekFBdlBTWTVSSlRiaDNkaGE4TC1VTkhDa1RnMldIR2R5cHU0cGpUTWNKYXM1RkJVdmQ?oc=5",
-    "summary": "POL-BO: Nach Schockanruf: Kriminelle bringen Herner (88) um Erspartes&nbsp;&nbsp;Presseportal",
-    "published": "2026-10-09T10:14:19+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "9d19b606afb45cb1",
-    "title": "POL-BO: Nach Einbruch in einen Pkw - 20-Jähriger wird festgenommen - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5EclNDV2RNNWUyT0lrRUtlWFhuckphWHN6WENxVU5Dc3hsUy16dmNGbWtQbHVVZ1FoZXIzOUxtb1gyZ25kd3F1NXcxRHBYZDBlYmlaSk1jVHo3MS1GTXVuWXhzaXU?oc=5",
-    "summary": "POL-BO: Nach Einbruch in einen Pkw - 20-Jähriger wird festgenommen&nbsp;&nbsp;Presseportal",
-    "published": "2026-10-09T10:00:43+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "aca1632a159c8acb",
-    "title": "Liveticker zum U17-Derby: Revanche für verrücktes Hinspiel: VfL Bochum empfängt Schalke - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNc3pDMUZ2aGVmdi1hM3Z0TWtiM21LYzRILVhjWmpFbU1wZW5CN3dFLXd4MEkwUVcxRG5Hbm5RV2c4Mk1HaE4ya0pqNk1QbXo3cFlqM3RrNjhYb1BURkxZdl9qOWh4QXJ6bU9EMWZrakFVMUlYRFZfMEswX2E0RTYya295RGQ3cTZXMkwwLWx5Sk9SaWZrMmhEak9feGQxS3MtZFBJamtCV2RmczdtNjh0bVFQX21oMFZmT2FNam9lblJha0JIN0JBT1BSQW9hR2hjSVdyTXNwOWdINWVmXzcxUUVOUzVMdGhr?oc=5",
-    "summary": "Liveticker zum U17-Derby: Revanche für verrücktes Hinspiel: VfL Bochum empfängt Schalke&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T10:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "4c2e25357c5f268e",
-    "title": "POL-BO: Zeugen nach Raub auf 24-Jährige gesucht - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE8tX3RkZzRJaFR0T2YwMUtLMmpfcjU1M1JsS2tQdmdKc3NqY1FFcmRpc3JqNlJGUkV4cTBzb2dvMURnRXRhd0hieXVHSmo0SUwtanFDdXlDaWVwYnAtVWxxWVdya1I?oc=5",
-    "summary": "POL-BO: Zeugen nach Raub auf 24-Jährige gesucht&nbsp;&nbsp;Presseportal",
-    "published": "2026-10-09T09:21:37+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "7b843356ad24710a",
-    "title": "POL-BO: Verkehrsunfall auf der Wittener Straße - Zwei Personen (45 und 11) leicht verletzt - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBHOXMwZ2JKQi1PcU5KNWJ4djhQNTdyS3N5T3ZTaElSUkxYRXpCQll4djloU2VhUmROMVl2V0Z3SmxoVjh1OGV6UFhjYnZNUnAzdDJUOThGREJnOUJ1enJTNVl5RkE?oc=5",
-    "summary": "POL-BO: Verkehrsunfall auf der Wittener Straße - Zwei Personen (45 und 11) leicht verletzt&nbsp;&nbsp;Presseportal",
-    "published": "2026-10-09T09:21:13+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "f684e2fa4b4b13db",
-    "title": "Verkehrsunfall auf der Wittener Straße - Zwei Personen (45 und 11) leicht verletzt - Radio Herne",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFdyek5xTk1ZS184V0NEUUV3MmRtejRqX190SWVySU5TZ3pJU0FFUUtzX2hSbzdtSU1TcmJEcENhdTlyUm9qbllyM3FfUmdSdzQ5R2VqMHY2VkU1N0dCeHVVcWFsZGxzdDlXYlFxcXF4QTdqQnA4eFFGaHRXd21VTk9MdmtqUDBxaDZyQkl5M1BqX2RJUE96bE50dWpLclk?oc=5",
-    "summary": "Verkehrsunfall auf der Wittener Straße - Zwei Personen (45 und 11) leicht verletzt&nbsp;&nbsp;Radio Herne",
-    "published": "2026-10-09T09:21:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "fd02bd57f76a48e6",
-    "title": "Zeugen nach Raub auf 24-Jährige gesucht - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaHFRdzdqQ3dyU2xENnNIV0xfSlFqcGZVbHN6Y0NHNEdJYjZnQ05XeUNRazZpbDJTVnozRm5pUFpLV0pUVXV0VzUzUkdpTHUtZ0h5WTItM2RfWTRvb1NoU2c5SnUySnN5UTU1ZWNmZUV6Y1dLVDhVMmF3ZkU5UGk3X05YdGtVN19kLTZn?oc=5",
-    "summary": "Zeugen nach Raub auf 24-Jährige gesucht&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T09:21:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "f014913882a628ca",
-    "title": "VfL Bochum live! Hüpfverbot, Heimfluch, neue Ziele – das sagt Rösler vor Bielefeld - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOOGkwZFVaaUNrSXpCRDB0TTdCaGZwOGc0Q3NzMC04VUtpUHpWQXBNc1A3dmlSUkxLcTIyVkc3bk5fbUZPZ1JYZkt4YlhvMFJUMC16U0hGYVNYM2lIdnFOeW9xczUwQ3VpcmtYVkJXTU8zVGx5SHB6Y2FRelUzVTFkRzdvVDBEakhoLVRSdjlwNlNFUGlSTjZEM0ptcnliNGVFUmtvR0RaM2w1QVJrYjBGRlpNcktwSE1hNVc3UWpmWVl4eWhEcUg1Z0UxbUptVDhzaUlR?oc=5",
-    "summary": "VfL Bochum live! Hüpfverbot, Heimfluch, neue Ziele – das sagt Rösler vor Bielefeld&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T08:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "e6cd55972a4ad02f",
-    "title": "Nach Debüt für Togo: Bielefelds Henri Koudossou - mit Afrika-Expertise ins Bochum-Spiel - sportschau.de",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZXBRaHBiT1hYcmFQXzBuaDlBM0JQcjBWaHlhX1NNYjI1ZzBSWHNSTE5veFVQdk1qNjBma3FMUTl3SlA1Nkx2U2pOazVLNFVuWGwtUk1xakhwZ1FjSFRFWlU3Q0NSXy1nRFhNUFdIRldjNEZ5cVVtT0xfX0owMjl5S1ZrblNpaUZaQldkNlA4UVVJZnBaTFVBZGk2TWl2Sk5vRWg0bEQ0Z3pVaTNFeE04SE5QWXZnSW8?oc=5",
-    "summary": "Nach Debüt für Togo: Bielefelds Henri Koudossou - mit Afrika-Expertise ins Bochum-Spiel&nbsp;&nbsp;sportschau.de",
-    "published": "2026-10-09T07:46:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "664d8eb3435c2654",
-    "title": "Eklat, Hammer-Foul, Münster: Was VfL Bochum gegen Bielefeld so brisant macht - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTnE2VUZzOVVYZWlsUkwxZV9oQ2t5MkxIUGd0cVhRZU1vVGJmTlpSOEtqTHB6Rk5qdlI4UzlGU3d2NHI1RS1QTThpLUJKN3ByelUwSlloT0p0cXdPSXljQThIeUN6TWFkU1VKLTdqZzN2VjFaaVotSTRrTHZZcjN2Q3FRSjMwZG91SWpTTGFiTUROOUlIRFdNQTQxOHc4NFlabWdhLTc2ZlU3OFRva2pzbTFiVzNNM1MzNk42NUlfenJGWnZTeXg5MHppLVBRN0NY?oc=5",
-    "summary": "Eklat, Hammer-Foul, Münster: Was VfL Bochum gegen Bielefeld so brisant macht&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T07:18:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "a44b66b23c53c9d3",
-    "title": "Neuer Mobilfunk-Standort in Bochum-Harpen - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1ljOXFpWFhZSk9qa0tReElSbUd3MG5BeDBKT1NYbjVDcnpaT0dHSWpQU2xOQjMxNmVZRF9MMmpRLUtNODc2NXhvRDF2U05NdE40QlhjVl8ySHpQV1Y3VEtnaGN4SExsT2FJRU9ITHJyZ0RzdTdOMllPTTZuSFV4bnhkcFAyTTF0M2h6NQ?oc=5",
-    "summary": "Neuer Mobilfunk-Standort in Bochum-Harpen&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T06:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T19:59:02.556774+00:00"
-  },
-  {
-    "id": "341e05c01ddcd729",
-    "title": "Khemmis live in Bochum - Ruhrbarone",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBGcHVuYVNNLWcyaWo0dm0td29rMWFJeTlpTjRUSllkTjJZcWoyb1ktT0JoNFJxc2N3Wnh5dDc3SXNaZ21ZS19GUW04MTB2ZkxMLTdXeXVDWTdKYWRpdGpIb1ZQajJKTWs?oc=5",
-    "summary": "Khemmis live in Bochum&nbsp;&nbsp;Ruhrbarone",
-    "published": "2026-10-09T05:59:46+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "0933d543290061cc",
-    "title": "Hüpfverbot nur die Spitze: Stadion-Chaos in Bochum wird immer skurriler - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONnVHTkdtTG9TbVBmM2V2Y3llekVsX0JlakhsRGhDN3NWSndYcWdUODhSVFRRTHJGQWluT2dBbFI4b3VWYlV4ZHBaMHc0QzlxNHdTR3c2S1NDT1JkdUJwc3F2N1FaVklxZWc3bHhVZGppeHpuUHNFM1dfNURMazZrd21Na0o0X0xZRlNkY1RaLXZTdkNFdEhwZktFeWxKNFN4eGtFb3NGZU1odUU?oc=5",
-    "summary": "Hüpfverbot nur die Spitze: Stadion-Chaos in Bochum wird immer skurriler&nbsp;&nbsp;DerWesten",
-    "published": "2026-10-09T05:46:44+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "5ec4e6adc381ace0",
-    "title": "Diagnose Demenz, doch Bärbel (75) singt weiter: „So schlimm kann’s nicht sein“ - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOeWhBWl9IbzI2cmJodUpLTlRHN3V2NG5FUUZQRHdtZGlPRjhQX2RTMXVweEJRbUNzUmdyV3pJczdFemFQU3JkdE52c3o2b080NUQtY3dFekRZRXdiU3NJMkJEYk5PLXdzSVdzU1BDdmJhWXdVTXJuYmJ1WG43cWR0VWFsWndXNjVGWmE5ZmhlMnM3WE50NTh6d1NReUIzemU1QmZPREVSN2Z0Z0VlZFBHRlVQS0dWVlNOaVRqUFNqNENQVGQzN1AwMUhyUllxWVE?oc=5",
-    "summary": "Diagnose Demenz, doch Bärbel (75) singt weiter: „So schlimm kann’s nicht sein“&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T05:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "5482863676186f8c",
-    "title": "A40 in Bochum übers Wochenende gesperrt - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaUpYS3VVUXVjeDRNTTdoaFFPY29IN2lZUENRZm1kcnFwdXd0WFc1QXE5NXViQWtaV2hEQVpLNmc3NDNDcjFTVkpSYk9MZnZ6eUNTUEdwU2Z1dXFhTk5nUTNEVFdIZ0d3b1VxNWNUdEkxdldSazJwUElqTEgzU1loZkhacVUyVzJ5U2pB?oc=5",
-    "summary": "A40 in Bochum übers Wochenende gesperrt&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T04:10:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-10T19:06:54.287868+00:00"
-  },
-  {
-    "id": "cbec0305f5476f51",
-    "title": "Bochumer Polizei: 4:46 Minuten bis zum Einsatzort - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGk1TkNORzVfREtXaGsxellTTEdfM0UzV2VJLTNUZjFEY3RBbjdfWjVaeWFXZlIzVFg4aVZ0QVZRN0VZb09XWlpPNldMX2t2TmhHWmZwTU5qTEpMSHhILWNCUlZpcG5iTGtPMUp3UU16Y3J5ekZqbC16Wk5XM1IwY3dyRFlCWmtXeXdqUGpjSDAxaUhQU29YSE9fVWxteGc3Z3c?oc=5",
-    "summary": "Bochumer Polizei: 4:46 Minuten bis zum Einsatzort&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T04:06:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-11T11:11:27.118471+00:00"
-  },
-  {
-    "id": "5a052d9e410fd1f2",
-    "title": "Ruhr-Uni empfängt 4600 Erstsemester – und ist sauer auf die Bogestra - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWjZaT0FXdEFhV3lGcDFob1I5RlIzRThBWkpsaHN4UTUxY0hzaXVJVDlwVlEySlFvd0lzTXcxWC13YlMyMFNfNGZnLXN4UzBQRWFZbE1zNkJCSUJPaF9GNEdoeVNVUXYtV29BVUhYVG5uOHJ6WUlzVENWMmFfWmdGS05oNm1HQ014Y0Y4eUhxY0FvUVBhR0lDOVdpVUFkYm5CRVBYZXVJeDJEVXJaU2Z3ZnB1T2NKb0ZXb2hYLTNCMXE?oc=5",
-    "summary": "Ruhr-Uni empfängt 4600 Erstsemester – und ist sauer auf die Bogestra&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T04:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "113ae26c6f21337a",
-    "title": "Bochum: Manifesta 16 Ruhr endet mit positiver Bilanz - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORnRaWTJJVW12anMzcjR4RG5UMDBNSTJfc2RxamFOSEtEREx4Zk1kd2lsbkZwekxiNW05OEg2WEdXMDM1bUUtMmJ0YS1EbmJRU0pDQ3NtTjNXclAzRktQTmlwWFpwbGUwMFVFWDE0RmpnUHg5eW85Um9VaFY3MEN5bTFzU2xuTGNJZW5LNkxILW5TNnlLTVozclVB?oc=5",
-    "summary": "Bochum: Manifesta 16 Ruhr endet mit positiver Bilanz&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-09T03:39:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
-  },
-  {
-    "id": "d9eee9a52479abfc",
-    "title": "Falschparker machen Kreuzung gefährlich: Anwohner warten seit sieben Jahren auf Lösung - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQV29jSlBmUWFmMC1PZzZWQmtNRm5kZllBQ3dycDhBdFlYSkRmREFEUEVVdW5oSHRDT2ltbFhXNkpUb3BqOXhfVmplUWozSWo1TzhLbWpqNmFZT2FqWm9jaHdXek1pRkVMR09ET09nWFhoX2ZjYnpNMjZrNEgwWnBPcDEteVU2R0pvY0dxXzlkcTZueDhjZVFIWGNYWFNZZ3hROXQ5M0JaQjhFMm8yTnEzcTJhTWpuRHhFRF9PekFNaUs4NW4wY1doM183N3RTclVHalBvQ0FTam5nSG8?oc=5",
-    "summary": "Falschparker machen Kreuzung gefährlich: Anwohner warten seit sieben Jahren auf Lösung&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-09T03:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-09T11:38:51.316804+00:00"
   }
 ]

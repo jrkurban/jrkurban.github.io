@@ -1,5 +1,545 @@
 [
   {
+    "id": "3021250e1736a3f8",
+    "title": "Seit 44 Jahren spielt er Minigolf: Bochumer (69) verrät seine besten Tricks - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcTFObjlrX3FoNGZacTdYbkJYRHJMTnRMLWU3WHhabE1pVWJlXzFqdXlfbzVOMHhtNUJndVgtTlZwSFFURS1URUFMNnNIcktpaHlyd2JlMlc1cVVXVndjRkFFR1hxQjFqck12M0poaFY0aVVkUUdqYVlxSjJtR0NaTUFjckJJTWtEQ00wN2RZVl9FMkExRXJXU2oxWGVtWUl2bEl2V3p4d3N0NGVTUG5PcXNoSUMxT01PdUJZWXAtTDgtZXRENWwwUg?oc=5",
+    "summary": "Seit 44 Jahren spielt er Minigolf: Bochumer (69) verrät seine besten Tricks&nbsp;&nbsp;WAZ",
+    "published": "2026-10-17T17:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "9e7411d98612625e",
+    "title": "Bochumer Hotel hat neue Betreiber: Was sie planen und was sie verändern wollen - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxORTYzZkxqTVJidXBOdFZzRUJZb3ZoeDZSbUR0aDRRREpzZDF5MTlRVmMza202YjB6UjJaSEtBYTRQTnZkckl5Vk44cWFNR3l5dkpma2pqbDBOSzNmYTlacTRCVUpNZm1Ob1NDTEtHc2NEVWFMNGVvMWJ3TDZvcy12bTFoTVBHUWpDUll3NS13NFY2dXdMOVlHMUN5Q2cyTFY2ZkUwTm1tMDN3RTRQYlc5cVdBRmp1ZnRDemJfSjJRaEp3X1NJRjIyV0U4SG5JREE?oc=5",
+    "summary": "Bochumer Hotel hat neue Betreiber: Was sie planen und was sie verändern wollen&nbsp;&nbsp;WAZ",
+    "published": "2026-10-17T16:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "14ddcaa76f16e631",
+    "title": "1. FCK: Wichtiger Heimsieg gegen VfL Bochum - \"Unbeschreibliches Gefühl, wenn...\" - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQU0dIVTRDc2U4WVphV05oTVhBbkVGb0VzdnlnUWh2UkNoR2x5ZlNMeWVvMXBxNnJfTXpLS3hwVUtPOVc3N216WXhQUThBRkYweFdCVVA5ejZ6b3k3MlJtUzdWYzRTeklmM1dOTkZYU19jTUJ1amNUYU1UZmpidXFQckowMWxRNERTNEhZdm90akNNZ0EwTUFiY1E3T0JFdTJ6SHBxa3FlREdoTUN0X09XSWZfeG5uQlJkN0hKdmc0WnRpaU5Xdm1EamdSalR2TWNr?oc=5",
+    "summary": "1. FCK: Wichtiger Heimsieg gegen VfL Bochum - \"Unbeschreibliches Gefühl, wenn...\"&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-17T15:46:35+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "ec68fbdddf2f36b6",
+    "title": "Bochum: Innenstadt gesperrt wegen eines Polizeieinsatzes - Radio Bochum",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdVJmZ3oyYUM3N3hwcmlpb1pJQUJCUzNramc5Z1Brd0ZkaGhaSld0bk9IZnJ5bXlrejJSMXh5OUl4eFkyeXFOZnpGdUZfa25pMmJUZ0lzWkxFem13Vk1xUFhLczFORXZreTlMLXUyUklCcnhBOTY1bXJjblJEa3RmQnpMSjQ0aGJ6bF9NYm5Tc1NWbmJpQVZZSVBGcjkycmc?oc=5",
+    "summary": "Bochum: Innenstadt gesperrt wegen eines Polizeieinsatzes&nbsp;&nbsp;Radio Bochum",
+    "published": "2026-10-17T15:10:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "e93dc1d7231fa42e",
+    "title": "Spielernoten: Niederlage am Betze - Benote jetzt die VfL-Elf! - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPUVhaZG1hNDJmQzVNZ0ZROTA4T0cwb0MzMUwzV3FmeDhHZmdkLVhkaFNNbThxY3J0Z0ZqWjAxeEhzcnZZeHRkWG0yZTgwbGp6bExJel9ldlV0b0QxWmJhc0ZuVTBJSVZyWGZwb0lxSHVOa2Q4QW81XzJwQm9YSjU3NUxXUVhlejVYaUVjSFVhVlFxNmFZQ2ZHUG1WcnZIejRWM1ZVX1QxRTI3QjNyV0xWcjFFeXdrdnc?oc=5",
+    "summary": "Spielernoten: Niederlage am Betze - Benote jetzt die VfL-Elf!&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-17T15:05:22+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "74eca47ceede9bf4",
+    "title": "1. FC Kaiserslautern - VfL Bochum - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBvTEp0MGdrbWRXVl9RVXp2eGxvXzk1WXBNRHFocWZMNW9mWWFaSmg4RzhhZk9oQmJyM3l3MW1VMlI2QlY0T0pkQzE5T3BaX096MHJQR3ZRTzJ1U2xzcGhneDVFMA?oc=5",
+    "summary": "1. FC Kaiserslautern - VfL Bochum&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-17T15:03:25+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "55a12f5fd582af70",
+    "title": "Die Grippesaison steht bevor: Wo sich Bochumer jetzt impfen lassen können - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQTdWV2c0c2JpaGI4S2Z2YXlKbkpBYzRUQUVvWUpWUDNFX1I0eHJ1RldmWEdwczZvZWRWUFZITzlEanFhQmVRZDdfYVBKYWNFZlY0el8zc1U2anpEUTRlXzJDcnEyUkhqamNuV1ZFRlhXOFhFdjJ4U1dvTmFHWEFNZ2I2ZDdtZUVva0VjSjMwT0lmS1d0c1ZWcW5yOTRtdGJtMjlhcXoyNER4SEFfTnlhSU9wS2RaQTkwWkFzUHA2MDFYaS15VmZqeA?oc=5",
+    "summary": "Die Grippesaison steht bevor: Wo sich Bochumer jetzt impfen lassen können&nbsp;&nbsp;WAZ",
+    "published": "2026-10-17T15:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "3ee8d20a67aac8b0",
+    "title": "\"Ganz klares Foul\" - Rösler hadert mit Schiri und spricht über Torflaute - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeDN6WFRYVTdadnBhWnljZWplQmY0NEFONVp0TWRZUF8wV0Z0bjNkdnNjVHdHXzl3VEZXZzllcGc3Vzhvb3J0WUhHTHRsaEQ2TWgwOE52eHpmUUo0eXU0dUdwcTd6Q1M1V05fb0ZUX181dlpzUnowLTJKZWZPLWJqYzFyU3RoNm9ucTNMQm5YbmMydm00SHM5QWthbXkya0V3UXd5ZklVZUY5UWsyWjR4Zm1CdWcxZ05sVzNwSUxyS19FazZXWl9JWG4wb2hrRS1EYVE?oc=5",
+    "summary": "\"Ganz klares Foul\" - Rösler hadert mit Schiri und spricht über Torflaute&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-17T14:51:19+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "9eac8c7df33b1323",
+    "title": "2:0 gegen Bo­chum: FCK setzt Heim­se­rie fort - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWk2VF9OYkNUbG81YTJTM0JPQlpYSTNXMlpLd1FIaU5oX3N6Q09oNThmTkk5SXZvTG02b0lkaXBZekNmdTBOSUNsalFWdndEOU5WZk5FMXoyVWVoODhBZWFMcUxIbTFJTTlGSkJ2NFI1M3RnQmN6V1VWdHZrWTJvYW01YU83TFhjd2lJQ3NaSFg0eFRsZWlzY1R0NWFFdU0?oc=5",
+    "summary": "2:0 gegen Bo­chum: FCK setzt Heim­se­rie fort&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-17T14:49:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "93f5fe84dcf03159",
+    "title": "FCK gegen Bo­chum: Des­halb wurde Ivan Prta­jin nicht ein­ge­wech­selt - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNQ1dfNnZhZkNXUkgyNXYzUkZBUHpURmVuaDI1b2VhYlNCNTE3cThzaU83bXc2bzVSTTNPX1dkWkx2SktpVGNwZGUySVZ6RTJ2VG04QVhBVDZLWmpPZWpKZlk2NWpOMExocl91YWVnUk9vb25xemFEb0NFbTVSRW5hZl90XzlONFdqZmdTbGxQRkt1eGFScTA1akNkM0lnUVlZWEYwUXp3TXhYSkgwVndPbmNjNFhnUTJpUGFYdkd3?oc=5",
+    "summary": "FCK gegen Bo­chum: Des­halb wurde Ivan Prta­jin nicht ein­ge­wech­selt&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-17T14:41:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "57a1d66d35101ea8",
+    "title": "VfL Bochum: Holtmann ohne Zug, Hofmann abgemeldet – miese Noten nach Harmlos-Spiel - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUTRRRlZMX2gzYkRPbm9zSEI3TEJYRE1wUWF5UGNtU3l0SFZjWl92cVV2U0txX2EwUlpkMlFsQzZOemRDbGVpaENVNlJrTDhCdGFmR3FYXzItRk5jZUxzNTUtTm5qbExseEdQN1FKU0VHU216Slp0aXFxRlNCREZJaFVNM3FxdHctOExsQk04MW5FRjIzSHBSU1pkZklzTy10NXVBWm9yQ1ZzZC1tMDRlTnBGS19HZF80cGZ0UmVlLWlaQURVV0g2RzAxdFQ2SjVjUnc?oc=5",
+    "summary": "VfL Bochum: Holtmann ohne Zug, Hofmann abgemeldet – miese Noten nach Harmlos-Spiel&nbsp;&nbsp;WAZ",
+    "published": "2026-10-17T14:27:53+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "6e711ae312bd45c4",
+    "title": "Nach 2:0 gegen Bo­chum: „Wenn du so spielst, bist du schon ein An­wär­ter für oben“ - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR3VEbVBzOEhsRHVfekNoN2o3WWt1NmpkdTAyY00wY2I3YWRsVzcwR3pnWlllMko2T3hEd2lGQkJHWTd6ck01WDdqSWhLaVhmQl95RzhoaTdFVTFOTS1xQ2VjR1BkLTdQWmE3X0xRVzVnZzNZQWJEVk9ralVHZDA4OUpjUFd1WUpMTkFQNWNoNFFMNGFyMEJpNTloZThPUDJIR0xLdHNfLXctZ3Bkc2tPV18wRHJjVjR5YXdGbXY2VzN3cDVoMTVPSlNCUDhwZ2RTaE5EQXdLa3JCWWs?oc=5",
+    "summary": "Nach 2:0 gegen Bo­chum: „Wenn du so spielst, bist du schon ein An­wär­ter für oben“&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-17T14:13:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "d15b0d45ae126255",
+    "title": "VfL Bochum: VfL in der Krise – Timo Horn findet deutliche Worte: \"Sehr ernüchternd\" - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUnJiZ3RxZFpmZFV2STJ0clhHNTNNTlQ1OWxwYjE1emdJb2o2N2l5eXhmSGNab1VpWU4zQWJBeEhQWWNwZG1WNlo1SVlnTVcxTFVieEpzZGt1UnFuZXE5TlZleG5MS20tMkR6YUxKYkdNUWR0M1l0Q1JJRG9IMTJ2UFlmMThXWW1LeG1BVjhZUlpVeGw2M2NXVVFjd0pJS2VGbGNrV2JDX3lhVzRmTlBBZWV5UEZjOVdQLVdqOGNVSDdpMDZSXzVBM3VubXNPS1k?oc=5",
+    "summary": "VfL Bochum: VfL in der Krise – Timo Horn findet deutliche Worte: \"Sehr ernüchternd\"&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-17T14:04:03+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "0f4729cdaf087a2d",
+    "title": "Heimsieg gegen Bochum: „Haben viele Sachen gut gemacht” - Treffpunkt Betze",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS01IcHhKNjRBZk80SHNUUUVWSDFvWjNqMGJ3T1AyempNdTg5UUU3U25pNlBOQnpXWUJXMHBSdVRZQ0FEMG5WeEd3VkFwRERFMFZGR2Z3WlA2Zk1fR29sbGNVRXVvYmNrTnNxT1ZjYzdqUW9BenJHcFNiZXZYOXBERmtjNUp3eG9F?oc=5",
+    "summary": "Heimsieg gegen Bochum: „Haben viele Sachen gut gemacht”&nbsp;&nbsp;Treffpunkt Betze",
+    "published": "2026-10-17T14:01:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "28ce53ea062efdd2",
+    "title": "2. Bundesliga: Harmlos am Betzenberg - Bochum unterliegt Lautern - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPT0pHdmltNU4zQXRCZnlyUlVNLUk4dkl5SmNxOHFadmR1S1NHSW00STVETGVHQWdCTDZlYTl6NlNwRUcyRUN3NXdBMzVyZXdjVXRnVEZjNE9DakdjS0xZWHdHYnlzUllGQ3NxRDVoT0ltbV8xUU4zTVhqRHpGTmxtSHJudHIxUUk3amJXS1Q4WnZPNElCc3R4WGVqa0QxcFk0M0dsdTRLREVYQnBVRWpDMDhLMnZiWHRUQmpxUDlPNkg?oc=5",
+    "summary": "2. Bundesliga: Harmlos am Betzenberg - Bochum unterliegt Lautern&nbsp;&nbsp;RevierSport online",
+    "published": "2026-10-17T13:51:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "eeacfe8861d61c59",
+    "title": "Die Null steht erneut: Heimsieg für Kaiserslautern – 2:0 gegen Bochum - Wochenblatt Reporter",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOcWlCUlF0TW41WWUyZm5oTkV2UXZCSWd2bzF3TzZfaDAxcjhvay1TMnljTmRfYzdRQkNBMlZNMjVCRC1qS1NfRTRralZjTE42MUhyd1Qxcy1LcjM3bC1Jekk4bG96MjBZTkhDcEdHT00zMW9PaUxDd1BVRmxqWm1wUWFjbzdBdHVpVVNZa2ZTTEtwWkl6SGlEalQ4Qk5qV2o4enRndXFRb1M2WWNkbXp3eVhLNzRaY0Z0OUZpN1lQT2s0a1l5YzJYRWxIZUUzZw?oc=5",
+    "summary": "Die Null steht erneut: Heimsieg für Kaiserslautern – 2:0 gegen Bochum&nbsp;&nbsp;Wochenblatt Reporter",
+    "published": "2026-10-17T13:45:34+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "2c61bf5332372d9c",
+    "title": "Sa, 17.10.2026 | 22:00 Uhr - OuterSpace - Planetarium Bochum",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcEd6OGt1ckc1cE9WX1h6eWcyMHNMRjV5T1NYdTRBb3hMSDNhbzNGUUYxTGZhQ2RMSzNXMTRyQVhyMnA1M2VQZFlsbUdLd1dETlQ3NERYSi1NZklDWVhrVUNGM2pDc2phOW9NZEh1ZlZEUllaeDJhM2t6WUx1dXhPcTlad3JTS0k5UXc?oc=5",
+    "summary": "Sa, 17.10.2026 | 22:00 Uhr - OuterSpace&nbsp;&nbsp;Planetarium Bochum",
+    "published": "2026-10-17T13:33:49+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "cc808d4f6f6fb9d3",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Heimatsport",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZi1VUm00cXludVpBLTVnODdZMWFwemV3QjYwTjJuWjMtSnVEU196R1I3QVpVZTRhRkVkU2J1amlfVS0zcUlaejBaQ2YzbjEwT3Judk5FbUF2WXJpeHhZRmtvNjJ1ajNKeHltSlZ5cmdMOC1SQ1ItUDdjODMzZzhPc1MyOUF0Skp3YmF3MFo3VlFpaVY0YllsZ3pJbkdBU2RhQ2ZpRXpQX0ZxQnB6a1E?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Heimatsport",
+    "published": "2026-10-17T13:21:13+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "1af855bfdb96da0c",
+    "title": "Rösler-Serie gerissen: VfL Bochum bleibt bei 0:2 in Kaiserslautern zu harmlos - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSkJ0U09QZ2hRX1AydG50c0o1QWVFUWRpSUNidDlZaGdfYk1jQ3B5SFU3N2lnVVgxdHdtNkZGLVY3bWVkSnlPa3lsVUVrS1dUVHQ2aTdTZ1lrYjNIcE9hVGwzS01WRUVnVVNuVDhRazVDbE1SMDY5c1BiUTFPNU5RQUJoT25SbU41LWJGaklTMHlOX045cE1EQkxIcnphc1Z0Sk56ejNVbUdxb3NKOWk2ZHNYU0x4UlVxYXJWQWk5YTFwVDZWNVpaYUs4a2FCLVN0amF3TXl3?oc=5",
+    "summary": "Rösler-Serie gerissen: VfL Bochum bleibt bei 0:2 in Kaiserslautern zu harmlos&nbsp;&nbsp;WAZ",
+    "published": "2026-10-17T13:20:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "d4b0aae4d126ba8b",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Pnp.de",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbUtJZE9TM2J2STdsNnhFLUtVVEt1bnRWWm9VczFnOGhfOEM5TFlsTWN2cTd6cEE5REpQYnl1TkZzeE1hSndyQk4yQVhLY00zY0J4LUEyRFB2ZFlDeWpvWHVBVzhGZHpWOHY5SmlIZkhUcGkzQUpoUDlrMHJfOER5ejh0YktRcG9BbS1ENUIzNTV5cjEwR09iQnJ3NjBUUlZZRUExc0JZSQ?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Pnp.de",
+    "published": "2026-10-17T13:10:54+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "4645f3ba638144f6",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Aachener Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRnVVUVVuNXh2QnRHNkh4NVJwclNyc2NhZHR4RnVYTk12TE5MTmN5ZDNKZWIwVk5kZ1NPTnVmS0dESjhyWUhhMUxpN3R6Q21lZHczdDU3SnNwU1M2MkpNSVBpbHVSVXJZRHFzZVB2c1F2QUxoMkJLOHBmUUNZWmhxQlIzM2FTNWNZU1NOOTNkb3RaQ1oyOHRUM011X2dpMGhGV2pLbW16Uk0tVjM1Q0Q3aUlwSW4ybEU?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Aachener Zeitung",
+    "published": "2026-10-17T13:10:22+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "a06c8fee6df58e1a",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - WELT",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQc0NGMUwxVkZRbGliZ2JsdlpObTRFMWlrNXNBYy05czBZR3NPQXhvRnFCY3ZSdHN1YmVvcEt2eEdJQmxZN3Q0ZGF4dUZuWVdndjM4V0RLbWlYc0hvaGZHeGRpUnRiZGhOTmRZdGRvcmdDYnQ2MHh1ZGo0VmNwZTNaOVNvR2dCb3ZXLU5YTDRSWXkwcjl5eW1EZ0h4MTBBRmN0SnF3STQyck14X3ZkWUNxdWNCdjZNdjJsdHRTVldrVlVuTFE5NWUtTndB?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;WELT",
+    "published": "2026-10-17T13:09:26+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "be796d26f02b08f5",
+    "title": "Kaiserslautern erkämpft Sieg gegen Bochum - die Audio-Highlights - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPcnB2Qk1VYy03M3dyN2lRQkFKZ2lydHFaeVhQajhCR0c0QTVjRXdaY25kLVZqX3UwZ2xBbmg4Sm8tX1dseVZDcGFnTU05alhDeVZOTzB1dUJYV2k3MTNZd2lJOUpUOHBMaFZ3OUpaTko4aHJueG11VnJrYkxadGNiWVFBUFc3bWhlNV9kREhxeEVfamhnZ3g0VlRSWmxXajFwUVdsWWRuWHl5c2dkZDNjZVZWbUQ3blNXOTF6U1pLd1NXMHBfOUF3cUNTaVZCenNfemhzMEVJZGoxeTk2VlZoVWstZEJOM3JfWHJnNEFB?oc=5",
+    "summary": "Kaiserslautern erkämpft Sieg gegen Bochum - die Audio-Highlights&nbsp;&nbsp;sportschau.de",
+    "published": "2026-10-17T13:06:50+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "ae440aa16574a4ee",
+    "title": "2. Fußball-Bundesliga: Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Frankenpost",
+    "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQZExsVEtsR3ZoTTRMTW5yNm9OLUUxRWRPMmlHZXIyUExLMlN0SXVudF9ueXZfTDVpTTBRdmRxb2EzQjBXelFxNzNjb0gwYVVXX0ZGZ205bFJRd1pjc2FkSjV2X0hOWlkya204eDFfV0RTclcwSVZvRXFHM3NFdmQ1cTl2cWZKSlk0OU9XYUhLQnRTSkx2ZncxWHd0R2VFRzVOeHJ6ajh6dE5vQlFRYmdhcWFoODNNdXUzTXpMNUpjdjlZc3RVWHJlQ1J4azNtVktVRmkyazh2Q1F2Z1ZKM1FUUThmeERWOV95VDA1UQ?oc=5",
+    "summary": "2. Fußball-Bundesliga: Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Frankenpost",
+    "published": "2026-10-17T13:00:48+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "261fd8fa1df13e9c",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Onetz",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVkc2MjJ6NF8tOTViU3BTWS1vaWlKT296ajZvUGRqRHVHb3lTVldWOERDREJDal9keHdlNnhGUXpEd0VnUlU4NFRiY2I3RjJiWDh6bzNUSW1tTjRBdjVZdS1oVEUzLWtyeHdFOXkzZjZJSnA4SThicnNLOWhfTk9qVHJ0NFBPTnBVa0cyQ21iUWxmNklVeXhQMGhEOUc?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Onetz",
+    "published": "2026-10-17T13:00:06+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "b05737b6595d3f3b",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Goslarsche.de",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ210VXZZOXhfR2VOUk1vcjJmT01FcnZUUDBtTE4xT3BOWWFsaDJCT0puckVOUHZzcHk2Tnc2WERQT3RDS1dveXBObW1yTVhaRmpDMVhya29jaFhOMXMtZktuQnRWWlVIWS0wVEp4OEhoM3JmUnFiNUtDc3NIR2hHZm5mOEV6c0Z6aEVZOE9ma2l0bng3VG1mTTNtN2ZSQy1HZ2M2Zm56MUgwaE1h?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Goslarsche.de",
+    "published": "2026-10-17T13:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "f9c9dde6a9477d3b",
+    "title": "2. Fußball-Bundesliga: Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Rhein-Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNWRyS0ladkJvZkxMb0ZBQ2lNUnpUS2VzWFNWMGNyNENWZjQzb0hrUE5SaGJZRmx6OXY1ei1uenV5dldLTGlGcHFDUlJ4a0JXbWdJdVQ1SHhqd1o4WC1Ldl9yNXp2VHcyejhLSzMwRlpYNjQxX2p2RHQ0eU1rb2ZNTVg4UlR2VVRMOVlmSEdTUG5vWWdwRGxESWZydnRZWjA4RExiOV9qSmJWTDNHV25lSG5OMUpEM0VwZ3EyTGNB?oc=5",
+    "summary": "2. Fußball-Bundesliga: Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Rhein-Zeitung",
+    "published": "2026-10-17T13:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "43ea8e89645e29ce",
+    "title": "Kai­sers­lau­tern siegt gegen Bo­chum und fes­tigt Spit­zen­platz - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWDRJSE1mR1pqX3VVeVhpY1ljTXZDbTN0OG1VaUxDV1BxbVppSjM1X01DV01GVFp6SmpDN1ZwNFptOTAwSkctR21JdHNnNjRBRVlseGwtODdPZ1Zhb3hBcjUwci1yNXFWSUVJNjFiRDl1ZHAtWkNpeUlDMnJ0X29vdVltcld1OXBnM1NWSEtnM3huLV9WaE9Fc2MyVEYzWWtKZktITE5IN3hzdUJPam9uLXZ4ZlZlMTRfaGlNMUpmUGRSNTNRYm1n?oc=5",
+    "summary": "Kai­sers­lau­tern siegt gegen Bo­chum und fes­tigt Spit­zen­platz&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-17T13:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "9fb4c7841c0b59ab",
+    "title": "Bochum in der Krise: VfL Wolfsburg gewinnt wildes Absteigerduell und klettert - n-tv.de",
+    "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONUdWWVlVeGtaWXdwMENlRDZfMWlCTTZzUFZySjVDUTZHMzN5anJGbm5YLXVubU5FSHJ3QnJUOEhERG1RMWlWZGRsc1hIVC13a2pidC1uZU9QMmNVZVFXeU92Zm5rM3lQTkZFam03ZXRsMVRIcjFTdWdYVER4MFhJb0o4RWpuLTc5cEFZOWpQYnN0a084bm5wbDNnYWJ1QVF0STN1WW96REJ3d25PY2IwSjl1YkZqZFNlRDFN?oc=5",
+    "summary": "Bochum in der Krise: VfL Wolfsburg gewinnt wildes Absteigerduell und klettert&nbsp;&nbsp;n-tv.de",
+    "published": "2026-10-17T12:59:44+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "3d94026480c21efd",
+    "title": "2. Fußball-Bundesliga: Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Tagesspiegel",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcUlfai1wTW1xbC1mdFdBNC04RmtGdVRBZHBtVWxLS3YzRWtlV29tYmF4VTQ5UTA3VGdnRWd2elRHaTNjTlVNV19oQUYtTXM5Wm5UZFFXTDNKVVVKMG1pVkRQV0dwYmo0Vk5Ud1NsUEZjOFB5V3pTZ1VPdW1TYjU0bVhIZ0ZMVlhNSzI0QWpBcDh4LTlEdUJpSzM3c0I1NlhQQ00zY19NVk9yRXBuV1ViMUFLOG1fYUZTS3NpVTk0VlA0U2V3MkFlSjVxd0U?oc=5",
+    "summary": "2. Fußball-Bundesliga: Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Tagesspiegel",
+    "published": "2026-10-17T12:59:39+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "e5228db2951ae738",
+    "title": "2. Fußball-Bundesliga - Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Sport - SZ.de - SZ.de",
+    "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxORkRlX0pCN0JqcHpYWUdGQ2FDTDVFZ2t4YkJmYjRlRmN5ODNIWjBtMnlCRVhaeDVMWU9HaDluamQ1VUdlVlFQbEJvbjAzeHhJSzJ1bS1USnZHUl9NandlZ2FaajdjbTN4RzBIVzV3bF9VRTdjTzMzNTBBYXlvRUwtQVhSTzV0NmtPNk5abFp2QnhGLXhGZXUtUHl4bkZhUlNpRHpZemJPUnozY2d2Z1cyQjJzWXl3Xzc1UDRCRTFLZXlqbHRPN04yMXB1VkRoRGhKQ3B0eFpvYndHLXFtcm91Z0c1ZzlMS1Z5RmJXZ1YzVmFuTVhoRWw0?oc=5",
+    "summary": "2. Fußball-Bundesliga - Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Sport - SZ.de&nbsp;&nbsp;SZ.de",
+    "published": "2026-10-17T12:58:40+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "47f499beedfd5210",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd0pmWjNIcXE4bUJMZEZ2TTA2cXYxVnJHMWVMcU5zc2JKRU1wUm1PSThEdVpEU3dsQnphb2l6b0lqbUo0X1lrbUJfb25kU0EzNWxWXzZjVEkzekowT3QtaDFoZ3ptWUt0Uk5BVGd3UXhxUnFublVSWDN3WUdGUjJHSFFfR0s3QlFtbFVtUkFZSzViaW1Za3RtSS1hVkpWMGdQSGF6S3FqR0NIdw?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-10-17T12:58:40+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "a68f66113424cd9f",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Mindener Tageblatt",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNa1ZiTXdNR3hIU19rdk8yV3VLVnlkZGVVcG50enZEQzNuOE9oNEI1QldVcGo3U3VidjktbHJrTXd2T09rWW4tWnFhUUZZS3pWQlNka09TM1gxZVZIc1RHLW9nVVRxNk9qbF91Y09DTXpUYXF3N29sZ3hMSklMOGx5N3RTNWRWOThycEtscVlZWllYLWNPcms4ZzdiRklCQnRoT3I5NjB2cE8?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Mindener Tageblatt",
+    "published": "2026-10-17T12:58:40+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "ab42b10217127f5d",
+    "title": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz - Westdeutsche Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZjBNLTNqOTBIOE40ckF5V1RIVUV5dEVKMU8waF8yYmRuMzBsSUtvUkMzQzNZU0VtSW9IWnZjalJ4UVdSRGFmZFp1RFpkbHIyMC1MQ1pXQmJ6a2RvMWtkNTBmSmVKc2VRWmU2VDBxcjgwcFM5RnFUa2VsOTVqUk81RVNwOEZhRlM5ZHhwMmthV3lSU0NCSHBYTFZ3?oc=5",
+    "summary": "Kaiserslautern siegt gegen Bochum und festigt Spitzenplatz&nbsp;&nbsp;Westdeutsche Zeitung",
+    "published": "2026-10-17T12:58:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "b8fb941fadc3e8e7",
+    "title": "Fast kein Torschuss, ein böser Patzer: VfL Bochum spielt sich in die Krise - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSVoyR2RNcnFaODVSazZyeW1peGx0ZC1BbTBfY00wQlU1elc4V3JMM1dqN05nTER5RGVfN0FQMWVIVXBtNHJqbWlDT2hmOC1sQ0lHNndBa21aM0ZSM0gwQTdBcVh3OHViVEljYV9KRl81X1VlQmI2dGlPdDE5aHRveHdSeGN4WEptcTQzWHBwUm9LZXNsUHVWbDJzU19aWUc0cjctcWdYWm82cmJxdkZ5cUplN013bmpfYW9BMXlkLXRtckxhck1jYm5aYw?oc=5",
+    "summary": "Fast kein Torschuss, ein böser Patzer: VfL Bochum spielt sich in die Krise&nbsp;&nbsp;WAZ",
+    "published": "2026-10-17T12:57:57+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "c8a0970ba22bc246",
+    "title": "1. FC Kaiserslautern gewinnt in der 2. Bundesliga gegen Bochum - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9oXzFwb2ZRS0VEQkNMeGJUWVliRXdxX2tMZi1lZXpMVGZFak1PR3lqOHdPOXhSM2o5djUwRlUxSmNHQzJPNTFSNjRsRWJEaWhpMTZHcm44NDNJT056X0dCNzhWZ0NTcVpCblhkTXByZWplQjF0T0dpZFZtUmVNa3c?oc=5",
+    "summary": "1. FC Kaiserslautern gewinnt in der 2. Bundesliga gegen Bochum&nbsp;&nbsp;Sky.de",
+    "published": "2026-10-17T12:56:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "a8ec187258172614",
+    "title": "Bei Lieberknechts Jubiläum: Kaiserslautern bleibt oben dran - SPORT1",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMzdacHlpQ04yMUtMc3piYTV1cGpmazAtMU1OOFp3NXhFSFhPX3hBWmVDYWlSN2I4ekpVT0ZMeExZeEVQd3pIRnd0Y0MtSEVRckJDR1hvdThwd2p2TDdBVW1yaTRiN0Z2WXVKTDF0RGNkUldaRE1ZbmRvYklERlNzYk01bU5HOE5RbHVQbklfTFQ1bTExMzlzQW1Bb0tWdFBkZDhiaGpyS25OWWYyYkxN?oc=5",
+    "summary": "Bei Lieberknechts Jubiläum: Kaiserslautern bleibt oben dran&nbsp;&nbsp;SPORT1",
+    "published": "2026-10-17T12:54:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "7fc4e45c22dbfa33",
+    "title": "KAISERSLAUTERN 2:0 Bochum - Sahin (75' 11m) - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFU5RGJ0WWpJR082VVVnZmxQdThtM2pNRUZwc0s1ZVE1eEFLZVhYZlhJcUZFd3dkdThEb19Ybzk4dDJHcFpPczFzTDQzYWNJSlpEZ01paWhoU2Z2N3ZQc2libGZDYl9PRWdRMElCUjlseEVTM0hKZk5NeE9lSTFYMnNSRWdGRXBidnlQd3ViZ0Q5YlpJOWc?oc=5",
+    "summary": "KAISERSLAUTERN 2:0 Bochum - Sahin (75' 11m)&nbsp;&nbsp;Sky.de",
+    "published": "2026-10-17T12:43:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "eac7491fb7154148",
+    "title": "Kaiserslautern vs. Bochum Tipp, KI Prognose & Quoten 17.10.2026 – 2. Bundesliga - Wettbasis",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbDZ1ejRaWC13ZFdqajUxU0ZvNG1nd2Jtby1tM29XWUNVWGhIb19sUjFnUWkxWnlhd25WWWJ4WGNkVWNVS3JtTDl1cllBdnc1azJtTTZKTDAwMVNKSDRMWjJjQWI5S0R5bFoySXVsT2luNnN4MGhhUEo4ZEpWZ012UHRuZS1PWTdNbDVGN01VenVZVk1IdFpSTmlfSXFZTjl5SmtWVTJ3?oc=5",
+    "summary": "Kaiserslautern vs. Bochum Tipp, KI Prognose & Quoten 17.10.2026 – 2. Bundesliga&nbsp;&nbsp;Wettbasis",
+    "published": "2026-10-17T12:07:58+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "66cf29c28e184a57",
+    "title": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZFVVSHJCX0ZtdHE5NXRTY1FaaGJ3SVdBSU5QaFlVay1RQUk4WnNMNEJRWUdpZFhTckpTQkk5RnlnRThKNDZyZF9GX2VaUFJOOElXbWNvb0kyQU1fOWdEYzRIRkhiYWNhb0RLay05cU0zaDRNcXROd2FlU2p3TDZMbU5YZTVza0U?oc=5",
+    "summary": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an&nbsp;&nbsp;Kicker",
+    "published": "2026-10-17T12:03:14+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "23cd9d5a7f23ca81",
+    "title": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWVHcThhckMtV3pvUWZSMHhYb0FGLVU0c0x6N1hNbHphN29UdmJxLXloU1F6RUVra2JadlFLR1RhZWduTUcwR2JKQ0RlYkFPWW9Rb09hOWM3RE9tZDhqX2FkNV9fMTFpX2lSNjdCd2Z4VmtqNHh5cmRlQ0ZJUFQ3NGhzT0w?oc=5",
+    "summary": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an&nbsp;&nbsp;Kicker",
+    "published": "2026-10-17T11:57:47+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "4a4852499f7199b5",
+    "title": "FCK führt - Lu­ko­vic trifft zum 1:0 gegen Bo­chum – Live­blog - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNY2JUR2xOUFJpZ3Uyd1N4OXUtSzRNM0hudmZBWTJjVXhPcE4tZk12TXoxZU9IbmRDbk1YMmtOemtocHpsQzRkRGlCQng1amhmT2JJRnhTeGx2YU1ObGkwVUxkTlItUEZDQVJTN0JiZjZETU0ybHJtc0xLcFV0cHM3Z2hSYjFSUFBXRDZJWjVweEZIR3VNR0lsWGNfelJpbVRCVGRpTU50WjR3SWlBTHlWRmk5eGt2U00?oc=5",
+    "summary": "FCK führt - Lu­ko­vic trifft zum 1:0 gegen Bo­chum – Live­blog&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-17T11:45:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "673f72a24c3e3bf1",
+    "title": "Fußball 2. Bundesliga: K'lautern gegen Bochum - Aufstellung - 8. Spieltag - 2026/2027 - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcTJRWjhNc0FwTS01MUMzWVhaRXNmZTdzMEpiSlMzem15eXVTZG5ZWmljZlpOYXRzUTZTamc2bHRlWFp1XzdrLU11T0E0SS1oQkF5emRMMC1zUDlXWTg5MF9vMUdsVUJkUllwUDVNQ2dQVzVUNUdEdE1vb2FOdU1WY0pvQnJSYjFwcXpPMU5CRzIxRnZPNlZ1UHBJaF92TnJkT2V0bzNORnlQOGZCTkFROVRnNUtnZlBSR18wdDVjNXlBZkh6WlpFbW9VZTk4bTVSc3VubnpXajdCeU0?oc=5",
+    "summary": "Fußball 2. Bundesliga: K'lautern gegen Bochum - Aufstellung - 8. Spieltag - 2026/2027&nbsp;&nbsp;sportschau.de",
+    "published": "2026-10-17T11:31:45+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "cab7baaf019149d8",
+    "title": "Riesenstimmung beim Oktoberfest bei Glas Strack - WAZ",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWFhERkt4U1hqMk5Dd25kWkpZbF9tMVVTTjBxandUSFA4c0ZFd1VzN3dWMmdKVU9kWmdtTWtnX0lPd1FCNFR1N1R3aVpFX1RYc3BqdTRIWGpWWmFDYVBIWW5VTW9TMFRPNGhDa1k4UkZEUGpsV29YeDd0bk9XcVZKdmtHQ2Jfa0F5bnNHU2VsMzRTR1RJMXBWYkJkNmRwNkxzRFZadkxR?oc=5",
+    "summary": "Riesenstimmung beim Oktoberfest bei Glas Strack&nbsp;&nbsp;WAZ",
+    "published": "2026-10-17T11:23:12+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "6426431a99453ccf",
+    "title": "Hier läuft Kaiserslautern gegen Bochum jetzt live - sport.de",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPSndqaXpuZDMyMTVvR2FVSkpFS2hKaWNhbDlvMElnUzk5SE1sSzhTTnladTF3LXZhWHExaHE1THpKR2JVemtSWWNZTFd2QjhhaWFUa2Z4bXAwV0J1V09icEQ2aGh1V1ZUTUQzY09uQ1AtbWlCWFFNMnRzVmtfdGJWaFd2LXEySjVjNkM2bmNRdnFGZDhtQm5EOGdlczBvUF95YjY2RXpDcm5YRUFvNWZXVUhwT0tCU0cwa0lRWlU5WDNqaTg?oc=5",
+    "summary": "Hier läuft Kaiserslautern gegen Bochum jetzt live&nbsp;&nbsp;sport.de",
+    "published": "2026-10-17T11:12:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "df130a226023964d",
+    "title": "2. Bundesliga - 1. FC Kaiserslautern 2-0 VfL Bochum 1848 - OneFootball",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPekZWU2tIdHVMYkh3NG9fYWxCbGhZbEs5UURWNUJiaTBnSXQ5Z3VLV1pMNElZV0g4YzdyNk93cnZtdzR1Y0U5dGNRVlYyNC1aUnlhLXZtX2tmbGFYak9ySHFHSG5lVm9HUEN2LXo1LWZfeXU2Slo3OWZ0QldmSWpNeVkxYkttX1JCamtpaTkwMEMxZHhaVXdMbDNR?oc=5",
+    "summary": "2. Bundesliga - 1. FC Kaiserslautern 2-0 VfL Bochum 1848&nbsp;&nbsp;OneFootball",
+    "published": "2026-10-17T11:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "92fee894eed31cec",
+    "title": "Aufstellung 1. FC Kaiserslautern - VfL Bochum 2:0 | 8. Spieltag, 2. Bundesliga 2026/2027 - sport.de",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYTRVNnRFOGcyVW04VFZvX1pPNGRwR0EtaU02dFo1UjdWeEJydmFKODBPcFNRZG1JdTdIaDFpR0Y5anlGLUQwNHVjTEx5b29qU29KdzhOeTdDcjhhNnU3RGJyVXU1VmtLQTBpOWIyMl9iQmVuSk9kdWE0YUdWZXgySGtuRzh1WTdvNnN2cVU4a2MtaGhIRFpHUzFnRXhGellGclRSNl9TbVFOTU1FUHc?oc=5",
+    "summary": "Aufstellung 1. FC Kaiserslautern - VfL Bochum 2:0 | 8. Spieltag, 2. Bundesliga 2026/2027&nbsp;&nbsp;sport.de",
+    "published": "2026-10-17T11:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "48d4292b3c943ae3",
+    "title": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5FT1V2Y3hBNkx4SWt3eFktSkZCZmp6SVI3R3dYaUhwMUZQY0tNdkQzU25pbkFxRDB3ZENVMnJuRDVZcU56cE90NWJRV05PZ0ZLaTAxRE5DVjBXLWU5dlhMVmxBV0M5czNkaE5IVzhESVBGNTN2eDVDX1RJVnZVd00?oc=5",
+    "summary": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an&nbsp;&nbsp;Kicker",
+    "published": "2026-10-17T10:42:10+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "a7e1e251466f3eb6",
+    "title": "Ver­dien­ter 2:0-Sieg gegen Bo­chum: FCK rückt auf den vier­ten Platz vor - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnBKTHVYVkJzbDItdXV2SzZWOG9wdWNVSmRfQkZkMjdLSFFqTm9PRGxKdm45MXA2YkQwa2R6OEsxNW5KQWFPSENyRFFoQVQ4VDF6NGdZUUhDU2VyVlhmemRUS3A2NmpvZG9OdkMwblNaZkpkR3BqZi1MYzFBeDROUENVbWRRaWE0cjNmWTI4d2pYQ2FKTmdpVFNJS0ZoSzl2Z3BtSUVFM3pHblk3N3U1aWl4M01PTFNjem5rX2FhOFBzck9ncEhZWkln?oc=5",
+    "summary": "Ver­dien­ter 2:0-Sieg gegen Bo­chum: FCK rückt auf den vier­ten Platz vor&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-17T10:30:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "ef31379f2a27cc24",
+    "title": "FCK kon­tert, Lu­ko­vic trifft zum 1:0 gegen Bo­chum – Live­blog - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQWF5dXpCRThjRUphOEY2eDF2d3h0TTZ0RzZ2bjk1ZGNyblpNWTdSaXNSZFBDYWJEV2lTcExZbXRYYjBVMXVxQW5xbGlGdGo1c0RYNjZZZGktN1k2RDdQaTdDTjFZX3V2U2JVMXNYbnBkLXhicFZlZUpQbFRCVlRrdzZpdzJIbXIxRnRjLW85RmtTeWpfREtISW51bWVJQzNEWGlPeng0OS02cEpFWWxHOXUwOA?oc=5",
+    "summary": "FCK kon­tert, Lu­ko­vic trifft zum 1:0 gegen Bo­chum – Live­blog&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-10-17T10:30:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "c54c42f88e69ff4b",
+    "title": "Liveticker - 1.FC Kaiserslautern : VfL Bochum - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nVUZPZGRqQWU5bGdscnVsX3JwTmhMR1JoOTR2cFlNc0Z6M1pYLXVLSVVHemh3TDFmZVoyM3M5QU5DWVYxYUNYcG4wN0FZdjA3N185b0RuU2dIS3BWaHc0SFlESVlpbGhXZFE?oc=5",
+    "summary": "Liveticker - 1.FC Kaiserslautern : VfL Bochum&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-17T10:27:09+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "a1570b6fec505d71",
+    "title": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFMDFocGh0Zy1RMkpmUnFrZ0lMaEpFUEl2YmZ6aDd6ZVFNVTVfU1Fzc1dkU2RZMTgwQ3R4Y0Q3YUlKaXVpT2pNVDZEUjUwR1gzWmhiVHk0ZFZ1SnJhTWRQcy0xbW5LRmo5cTZaSWhJbXYwbHhCYVVzVVlyQXlsSUk?oc=5",
+    "summary": "Per Doppeltunnel zu Lukovics Premiere: FCK klopft oben an&nbsp;&nbsp;Kicker",
+    "published": "2026-10-17T10:12:36+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "bbc0b68422e0bd47",
+    "title": "1. FC Kaiserslautern gegen VfL Bochum im Datenvergleich | 8. Spieltag | 2. Bundesliga 2026/27 - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZkpWRTByVndPMnRDb3RybF9zQTYyWEQ4NXFDMFM3bkt3SXNtbDQ4Z2FsTllid2UwTFhjbU53WlYxUEFCdE41bFo5X2dzY2w1Mi1aNDR1NERabWdhTEtRV2g2VEMwc3Fhd2dGaGpzOV9adUViU2hGeGNYaHozZzRJOFZ3NVEyTmhYTU5Ba0ZmNTJtZHZoSUNZWA?oc=5",
+    "summary": "1. FC Kaiserslautern gegen VfL Bochum im Datenvergleich | 8. Spieltag | 2. Bundesliga 2026/27&nbsp;&nbsp;Kicker",
+    "published": "2026-10-17T09:37:11+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "69d3f27376a01072",
+    "title": "Kaiserslautern schickt Bochum tiefer in den Keller - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQOUVicU9MTzNTdHV4SDJyZDk0RWU1OG5SenFOU2hucmV5alFnQ2dRYnV4VUx2Ry1BTVd5ekxkOTNCRTBWckZVRTNOendfemJaai02Mk9ZdV82OWl2MGNHWm5jWjRyNFFkbjRldTlUNjY2Y2pJaGhkblh3NXJzaXVPaXVDcjNWT1Z6QUs0eERyMzg2ZUhINjhpbU1QUWdYNzVxVkc3bEd0NExpMHlaTlB0WXhMWDZxbklvbzJlb1lQMG1JODduYTBHVWt5Smp6TDA?oc=5",
+    "summary": "Kaiserslautern schickt Bochum tiefer in den Keller&nbsp;&nbsp;sportschau.de",
+    "published": "2026-10-17T08:01:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
     "id": "ff43ce84b5a53cd0",
     "title": "2. Bundesliga heute: Lautern – Bochum LIVE im TV, Liveticker & Livestream - SPORT1",
     "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWW1mWU1sOW1EaU02WXdYTF9nQkx2M2tEYldCaVFkemxEV3Jhc0puNDlzMXN6aDJYSHYzeFNBU2txVl9yM0JCN2JCSjg5WVZ2dlJFcHRkTzZCbFlWVjNmeFYxVUJBWmNLaUozTGJJeHlXUGNsMnJyazZuNUZLdXhkdlJWYUI2V3pZQ2hwQl9PSVpEYjB1enpWaWNyNm5LNVVjWWtRRFhmRHNqdXFISjJQU0lzYWpTendhNzI3bnlMT1o0Ym8?oc=5",
@@ -250,6 +790,16 @@
     "first_seen": "2026-10-16T18:36:30.986843+00:00"
   },
   {
+    "id": "9bbe4af13f5cac54",
+    "title": "Juristischer Streit um Steuer: Viel Streit um Grundsteuer: OVG verhandelt Klage aus Bochum - STERN.de",
+    "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONzAwNVRlaUpXdGpvR3hERWRKVXgtX2Vnblo3Ny1qeTU2cGliSmZzVllmZHN1a0c4T01FeEpvRi0xSHV6WUFBWkVFd012VVdMWnJKMkRFcVhUREJhUklGTWFaeVlFWk5sUUg3VUdZa3lyM2psbmQtZlRiWWRieUdKN0F4X3VxLXJHSDlXRlZIUjV0YzBKLWhuQ25OUE9ackFSMGMzX2tUUWpZUW9zR3lmOTduOWpUMGRsQU9rbkRXb1JFNW9OYXJMcl9sUGtiVkxuM2ZPNFd3Zm9Eenk2UzlsLVphQzZMYXBjMjliOGNPcWVhVGNFWmwyRlRRMA?oc=5",
+    "summary": "Juristischer Streit um Steuer: Viel Streit um Grundsteuer: OVG verhandelt Klage aus Bochum&nbsp;&nbsp;STERN.de",
+    "published": "2026-10-16T13:32:21+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
     "id": "3961af2e9381b3df",
     "title": "Jubiläumsbäume am RuhrtalRadweg in Bochum gepflanzt - Radio Bochum",
     "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPd2FRdmQyb1hHajZfNVlhYU9aelpmNnhVOGMyRGd1ZXplNFVObFRKb19wRVBablltVHY3YUx0UzViaW05Z0hiOER4VkE4c0Jwa2E3TW91d3FoRTg5d3RQcUYyRWlTSlJabzdzQ0M5MHVWWFgzSUJZUG1rVWVJY0JvWW5VNVRwNDhCQU9mSnRWMFNqZnlybHFFdjNucUw?oc=5",
@@ -348,6 +898,56 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-10-17T08:59:53.058208+00:00"
+  },
+  {
+    "id": "454e8fe95958875d",
+    "title": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 11 - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTG0xeW5Yc0s3ak4xYWY5WDhoSDhqc2drSGxSN0tsdGRESl9HRXQyeUZEb3ZWaEgtbFhRSC1xVlYzZGpjWXdZSUdjdzBOSXBTRVptSGRwN3JnRGNLMHliUmIwWGVteFFXR042Rno2YklzSmR3cGRoS2xEcEFLbGFYeXVGQWFLNmRieGd3X1BNTjI1NTAxY1B5ZGkzMGQ5bjJKb2NFOG5VNkJIdFpkUjlz?oc=5",
+    "summary": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 11&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-16T07:05:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "919e303c2483bbc1",
+    "title": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 10 - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdE1jbnpuaFhYRk9VUnRmcHpxWEMzSU52a1RLVW14Q0IwLWxsbXhWT1pYaThmelVxOTE5Q3JxN3did0wzMEZ1SEVVNnVnX0Q1LTc4eUNRZDZWaFVXRUNyMHVqWmJiWXdPWU8ycmZDQWpTTVI1TzNkbEZyUW9QZzVENUJvMkszVURYTFpQQjFOcUdMVHdHQzdBLUlBVlh1Qmh4TW5KSzlzZHI5cmpkaTMw?oc=5",
+    "summary": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 10&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-16T07:05:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "2c4c47f29c19b58f",
+    "title": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 7 - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMFlXdnhENW1LVmpoX3pxSUtxQ1lNWUZVTTk1a0RGck1MYmFkZmpKT29hN21vR0dTVUR6MHd6NUVwbi05enVxeU93c240SUdzNG0zR2RyclJqZFlNbEVwX2o0QW16c3B0aTdZbkdBZlZjb1daUFpaTzhyU1NTci1XRl81N3N2U2FYYW9BbXZUSFQ3Tnk0WHdLZ244SlZYNW04bHp6MzNtOVF4TE9VX2c?oc=5",
+    "summary": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 7&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-16T07:05:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "ec395d9408f1bcbc",
+    "title": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 8 - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRFdKOEljNUoxbmRtc2t5Z052a2pLeHd6cmtVU0s2YlJzQng2ZkpsTmpJSC1pMEtDMTI1cjlUZTdGLVFZVHpsUzB3dkJ3LVNIRWw5b2RIZVp1dVU3VWpWOEE3dURhcERJNFdlNHdHY1pxM2tBVWhEbHhFN1M4SktMbGpta1J0TXQxT1Iwd1ZENk5hQTgxRl8zRzVmVDRYQTNXLTRmemhRZmZYSFU5Mmc?oc=5",
+    "summary": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 8&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-16T07:05:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
+  },
+  {
+    "id": "8ad2a4bca1470290",
+    "title": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 5 - Transfermarkt",
+    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTmpHMDZrRXJtV1lCcmo2clVvYUtpX0h6SU1TU1ZyQ3pRbjVKWVVOX2hCNEk4cDQzeWFQUlNYcEY1LWwtRVdDSWlQV1NReHZ2OEdLMHh6UWZCa0RjUVFzVlExRjdKVFYwYjFrTGREQW1Dd2tOQlFoUXBTVFd1YVRUa1RxM0V2bV9VeU1iYzRjekIyVHF3Y2diSG45YU1PLS04SlRrQklXa3Q4X0pZTmc?oc=5",
+    "summary": "8. Spieltag: 1.FC Kaiserslautern - VfL Bochum - VfL Bochum - Forum | Seite 5&nbsp;&nbsp;Transfermarkt",
+    "published": "2026-10-16T07:05:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-10-17T17:45:14.419467+00:00"
   },
   {
     "id": "609a0d72cd92dfbb",
@@ -598,605 +1198,5 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "de0dc46366855383",
-    "title": "Brand mit drei Toten in Bochum: Sicherheitsdienst warnte vor Zuständen in den Häusern - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZGNUdXdENlA1ek05SzdJNW5nS3dEc1N4emJqbklQTWh2TU5OYzlaZ05DMWtidHE4U0NIVXozMXloRXBxM1hJSWxIaXhJZHJEc2EycDN2Tmg0dnJBMkpnc296RWRYZWFYZERDYWZDUmdKNWdvVGU3dVdZMi1Ia0MtS1hCTDBPWHhFcklyaFZjZFBTQ3Y1ekxsWDk1T1hXbzJsY2xHVWExaXNQLWdrMzBfSE9PQV91Ung1OXpva3lBSEJSc080MTFnTFZyTzc1TDEwaElwY2t0VWRKdw?oc=5",
-    "summary": "Brand mit drei Toten in Bochum: Sicherheitsdienst warnte vor Zuständen in den Häusern&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T15:26:26+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "9fb43c0fb5ebd3ac",
-    "title": "Kaiserslautern vor Heimspiel gegen Bochum - mit Prtajin im Kader? - SWR",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVzNpREljQ2tseWEyM2lPUkhONk40VktuUllIMzExLTlTdjNLZmtubDF6Sm84T2FVRVM2SF9jS19kNXg0S0VVZjFRajIwYUl3SkJzcVNvYU9KZWtVS04xaWNkY2xHNUQ3bS04V2ZQS0FsM1IwZDNFem9INm5nZWJMSk04SnhZU00?oc=5",
-    "summary": "Kaiserslautern vor Heimspiel gegen Bochum - mit Prtajin im Kader?&nbsp;&nbsp;SWR",
-    "published": "2026-10-15T15:15:31+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "5ef48cf5fb994ccd",
-    "title": "Nordrhein-Westfalen: Ruhr-Uni Bochum muss spürbar sparen - tagesschau.de",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNTFmWGdvbXlRNjFGdGctVlJtWVNOWjNIVzVGQWZWMEZKQkNqVXhFb0xXdEo0M05ZTzBaTGZkUjl5Z05jOTlpRE04Vmp1Vy1MWHFqaGJTUlpkMmdwS2hXeFhocjJtRWY4b2dLTlBkRlNIcUZmQjZZNEs5TUoySVVSdk5Ya0ZvUGhvOWoxUzVvVDFiYW9PSTYwMHFWaXVQVFZWSWxQcnRVUlFMNThkemVLeWpJVmQwYzRyeTVLamRjVDNRcDFH?oc=5",
-    "summary": "Nordrhein-Westfalen: Ruhr-Uni Bochum muss spürbar sparen&nbsp;&nbsp;tagesschau.de",
-    "published": "2026-10-15T15:12:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "58f2154f0ea28f70",
-    "title": "Ticket-Verkauf für drei Spiele: So kämpft der VfL Bochum gegen die Fan-Flucht an - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPNmQtaklVM00wRGpISS1FWUFqV0pwOGNVRXRUWkhRR2hrVFBBWDNOVXNhWmY3T2tvby1IMWR0WnlrVmlMeksxd0RzSlp5bExLLVZZdUMxMkpibm5NdlRfTllrRTdlZ21zSG5Md0s2bmJObDlCaDNPUlFNUWJfdzFWak1nQ0docEtqcC03ZDJsZmZoS0pERE91dUhlTUY2bF8zSWFYS2V1XzZlTlZCYmk4TEZuUVBSTUdrZzhrS2xPdmMweDNHam5OTVBMTFhQcTRTTnA4VVln?oc=5",
-    "summary": "Ticket-Verkauf für drei Spiele: So kämpft der VfL Bochum gegen die Fan-Flucht an&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T14:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "d491e32bd7643266",
-    "title": "Ruhrpark Bochum baut neue Imbiss-Meile: Diese Gastro-Betriebe sind dabei - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY1k3MGNXXzJsanp0UXZ0cjhaT1ZtRm9LMDRkTXZoLVM3VHotWmwyc0wtU3JZdF9HOEVxdnl2OW54aUx1aVlYcmF4OE9SWUEtbEhUaGpKVlBCaEhqb2ZqaFhjb182WUxWTHc5M0pxTXBrRTM4RTNiLWNhQXlMYUU5LWduTjZWcVlXWk1TS215VlNwVXpLeVVsaFJfelFpcmhRcHpnRXlkTUdsYXZkZWVVVkJnMUFLeTM4RVptMzcxUTByYzU2SldkUGozeW5ORXpM?oc=5",
-    "summary": "Ruhrpark Bochum baut neue Imbiss-Meile: Diese Gastro-Betriebe sind dabei&nbsp;&nbsp;WAZ",
-    "published": "2026-10-15T12:48:36+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "9fd7cef3b90f0a22",
-    "title": "Bochumer überfallen: Polizei sucht Zeugen - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN1JHR1JmVWlaRWVHa25lQWp4SnZfdGM4MXZiXy1QUUpYTkZTVVVIUFU2bHNibTlUS1V2M0JBRjAwYURFNHo0T21PanN5bnhXTjRuMzNsdkVRRk9mcHEzVHpCdy1nY0lBaWFUUHVndG1ETzZVdnBWdDNpVldvc3BnZGdRY2hrYzlkS29ZXw?oc=5",
-    "summary": "Bochumer überfallen: Polizei sucht Zeugen&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-15T12:12:00+00:00",
-    "source": "Google News: Bochum Innenstadt",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "3f5305abf4850620",
-    "title": "Aus­fäl­le und TV-​Übertragung: Alle Infos vor dem Spiel des FCK gegen Bo­chum - Die Rheinpfalz",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNUjVwYnY4UVhHelpQb1lTRWxvcmRxSzNFN3Zoa2hsUGZHM2hobG03MGJkYUN6VmR0R0R4Rkp5SGdTMm5QbzVGeFhJTE5PaVR6WWtqVTNFd25sWnBOakg0ZUhzVWhXZGx0aVhkQ0dRWkppNHliNUpvWlpiT0VMVzlXaDFYdmRKWkdrVElKSEdLUi1xVEQ0TjBqSGpuWkZ0c3kwLXVPQ0NSaWhVSDhSTTZoUFprMEk3YnhSSG5BeGczc2Y1V2lXZmFlcHBENW1PaG9LdWQ2ZE1lTlk?oc=5",
-    "summary": "Aus­fäl­le und TV-​Übertragung: Alle Infos vor dem Spiel des FCK gegen Bo­chum&nbsp;&nbsp;Die Rheinpfalz",
-    "published": "2026-10-15T12:07:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "113114b21ae20f7c",
-    "title": "Bochum - gefährliche Körperverletzung - Polizei NRW",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9RSXYzWDdSNFM3cmZMYWJGdjNQaDI3S0NtWXgwcVZXcHBGT1JKMm1USFBQTS11cEs3WENERGJKX2kwVEZieDNHajNGQQ?oc=5",
-    "summary": "Bochum - gefährliche Körperverletzung&nbsp;&nbsp;Polizei NRW",
-    "published": "2026-10-15T12:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "f3d60299c5c54b76",
-    "title": "Tödlicher Brand in Bochum: Bewohner (41) in U-Haft – das sagt sein Anwalt - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd3N4MlA2ZGhQbjNvdXlPWUUzNzdMc09zMnVmOWcwVVZ1TlBtM2dQVUdyeGtMZmpUYjgwNndKclRMTWhkZUNGVkFSN3ZiTDVjdkU5b1lhMEduM1pXN3hxVnF0UEhuVWdkMnB1UnFWeVI4V3p4QkpWdjJ4cUFqX2JfR2NzSXpsbG8tZ0dza0psMll1WWstdDZfNTJ4LWhGVmtrNzYwN1RCZjNtM05pT2YwNGx3VWRwTDVSYnU5UWMybWM5b2c?oc=5",
-    "summary": "Tödlicher Brand in Bochum: Bewohner (41) in U-Haft – das sagt sein Anwalt&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T11:48:15+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "cd6a68355636c161",
-    "title": "VfL Bochum: Rösler kämpferisch: \"Was ich spüre, was ich sehe, was ich fühle: Wir sind bereit\" - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR0hJemFQSkVtTGR4cWJLcXBSWG5NcVloQkNzSENORWhLamlOWXg5bEg4NXBqMTZSdzFrbXdza2FWY0RvUTJtSURaMHJXQkFWcGtKdGx0ZlFXNXI0MlZYc1ZUZF9vVUN3bHI3VUZNeHBoTUNNem8xTE9yLXhZbnA0UHN1N2lPaWRibXdZckh4d1VaSHltZHNJUC05dmNmUFNMdmRMR2RlcGxLNV9KV29KazhLVHJIN1lGMjJPeURXVjBtVmVXb2hfZGwwb0FfSWtSUS1yMXVhdUs?oc=5",
-    "summary": "VfL Bochum: Rösler kämpferisch: \"Was ich spüre, was ich sehe, was ich fühle: Wir sind bereit\"&nbsp;&nbsp;RevierSport online",
-    "published": "2026-10-15T11:23:39+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "f11a4c2da4f06637",
-    "title": "Abriss der A45-Brücke in Dortmund stoppt 2027 auch Züge Strecke nach Bochum 14 Wochen dicht - Ruhr Nachrichten",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPN1gxLWswSjBpU3ctbmQxTEZtMVdpbkhMbzA4VjNxbXAzWHZ3RmNsbXplQllEc09TTWZUUmR6WERyZTRYRGYtYzBSQVdhNTFHSy1lRHJfWXJ3eThSZkt3NGJjNmxEamY1Z0k3RzdUVlp5NUlMdUQxSFJNNnA0ZW44QzdHRVMwUzVDekF5ZU5Oc2QyTUZLZTNaMGRnM25DampfTHNUNHdTbmJHb2hQWVVCU2FqbkxHRUdySnlnU0xEYUliTlN2X3J4Q0FqeVRITE9FLS1BS2NR?oc=5",
-    "summary": "Abriss der A45-Brücke in Dortmund stoppt 2027 auch Züge Strecke nach Bochum 14 Wochen dicht&nbsp;&nbsp;Ruhr Nachrichten",
-    "published": "2026-10-15T10:35:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T18:36:30.986843+00:00"
-  },
-  {
-    "id": "f03cae206e075b47",
-    "title": "PK beim VfL Bochum live: So will Rösler das Betzenberg-Bollwerk knacken - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPV1FUYW9tQ1l0UTFoWE81QlNWbUhuYlc3SzY0MWR4aWljOElVWVBpUFA5VzFNeXZhYXRMM01FYWJCSDM4SlVQWDc1VUZ1M1oxNTVjelNVdE1GVjhMZkRCeU1iUEY2dzZVMTl6V0VNUkxxSTRHZDlWYl9HNzVWNnNmYzR3X2gzSFEyMkhTX3hkYkExS0FQTlNQVjNKcm5VVWJKWkFlT1NzZ1hQR3BKYXY1X3ZWandLZnNqaS1KQXNZV3p2MlhfR1BxYw?oc=5",
-    "summary": "PK beim VfL Bochum live: So will Rösler das Betzenberg-Bollwerk knacken&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T08:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "6fbf106bca50e7d2",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Aachener Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOd2w4T1BFZDV4dmp3MnJfTFVZTDQ3M2Jhc0pGdGJUU25WVlBxR0JPdTQ0d0VYTTBtWXdUQUFvcXNEWWpkMW5ITElqdWlTNUd4YlhLejhyMWdDOVBvc0FkZTBqdEx4T3MxeGpDaGNkaWhxUHhfTnhvQUU5amhNMmtkVlY2c296UE03M1VNRHF3b3llT3liOERhRUtWa0Fmb3VtZjl2QXlZUWNuY0cxYlBaWkMwRUdhbDA?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;Aachener Zeitung",
-    "published": "2026-10-15T08:14:05+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "bdf8c2a3383a1c08",
-    "title": "Spektakel im Bochumer Kreispokal: Blankenstein - Türkiyemspor geht ins Elfmeterschießen - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOWWgxNXBrNW1meFpMZDFpbVBaRlE3Wjhvckt0UktjMnhvUk5Ja2NGM29mRm5wRDM2bWE5SnJzaEg1bnZjYUhDSkZ2NmY3WDFlRzk1NzNlRWVhQzEtSEMydW41dmgzMHk4TXNHYUotamNocE5ZRkQ3eUhJMWdmWDZhUmt0amxieG9vZE5rNTUtT3JhTkNCUU9oUlFnZGdyY1RlT2R6cUNmWDdYdkIxaVJ5bGhXQ1c2Q0R2b1BtTEpObE5uZE5xWW9HcUc3YklYNmpLWDgtd2VtQ1ZZa3M?oc=5",
-    "summary": "Spektakel im Bochumer Kreispokal: Blankenstein - Türkiyemspor geht ins Elfmeterschießen&nbsp;&nbsp;WAZ",
-    "published": "2026-10-15T08:03:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-17T08:59:53.058208+00:00"
-  },
-  {
-    "id": "5a3819495c61de5f",
-    "title": "Verkehrsunfall am Steinring: Mädchen (11) leicht verletzt - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQam05eVBKRE9wSXg4OXQ4SjVnZFNyXzlOSjRuTzBSVG5lMk95WjFpSXdiZTZuZlpmR3E0bWdSM1FsbXJCTVQ5VWcxalhiak1wUGU4Yl9tdWo5Qk51MkRSSVdaXzBHZ2RtaHVWOS1lVFEyQy1fLWZYRHlPd1J3X1BQWUVBSVRSTGQwbjhJQ1VXS0hhLVNIT2VJSmFDY3hEYnM?oc=5",
-    "summary": "Verkehrsunfall am Steinring: Mädchen (11) leicht verletzt&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-15T07:44:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "8c06893f56d73cea",
-    "title": "Zusammenstoß mit E-Scooter: Zehnjähriger kommt ins Krankenhaus - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQXBMUkVFYklNZ2RZREVRMnVXU25GZURwcElTUlM2d0ZKMGFSbGpSekFqWFZHVjdqYnJCdDBOVHFHYjY4aEZZZWdJc0ZSNDdPSWJBS2dfanYxM2pXVVc5QjROY1ZMejB3UFFTbmJkN24teXhwaWJlcEVRRWRxYTR3c20xcWJXbzlOTkhlQUtXVHRtWkxwNV9MYlVn?oc=5",
-    "summary": "Zusammenstoß mit E-Scooter: Zehnjähriger kommt ins Krankenhaus&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-15T07:35:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "322f87b27f37977e",
-    "title": "Rödinghausen nach denkwürdiger Bochum-Partie: \"Wie im falschen Film\" - Kicker",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPclJHUVNWTmNOa2Y3Yng5ZWRJSjl4TEs4OWVYazRlcUpnOHZ0eEV5Skt4bDdfSDhpRVAwcGtUeUU4bVVrMmVmaGVfWEsyRXVBODM0bG5mcWNkMmozb2Z6RUZQZjZfbGJ4WDBsamlILWF3VTR2Rm9NUkdLTVktRmFvcG05SXNERFZhbHVzaHFlMDgzeXdGcWdNOHp4ZTJONVhMSEFTc05tVXk?oc=5",
-    "summary": "Rödinghausen nach denkwürdiger Bochum-Partie: \"Wie im falschen Film\"&nbsp;&nbsp;Kicker",
-    "published": "2026-10-15T07:34:15+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "3b38f83dc42535f6",
-    "title": "Arminia Bielefeld im Taktikcheck: Wie der DSC in Bochum triumphierte - Neue Westfälische",
-    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQaldEWllJUXZDUVJObW9zV3d1WVBnbmhzUWdlUDFwYU11MEl1UzBHZnlhYTlHZHVXNEJ3YnZHeHZrZDc2ZGNBM191REQ2NjV6V1JHQmpvSWtWeFZBQUF1aDN3U3htRHFCdV9DSndIblduUXBXaE1hcDdkYi1DdS04NnBKUnA3SGxEdE5sYkFCYnVpbHZ3NUk0YzFRSDhxckh0T21Ia1lPbjNzczUxZ3lzNmt5RVNRU2d3d1otZ3NXT3hSYWhLQkNyM0tBaHJCbGQtY3c?oc=5",
-    "summary": "Arminia Bielefeld im Taktikcheck: Wie der DSC in Bochum triumphierte&nbsp;&nbsp;Neue Westfälische",
-    "published": "2026-10-15T07:06:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "ab86caf367f6ec9b",
-    "title": "Wohnungseinbruch: Polizei fahndet nach mindestens einem Täter - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORmlKQkZuUUtYZnZ5TG1uMHlpSFZ3Q1ZLVHNpRk9YTzFKSUg0OG5WbFloX3JLZUlQNnVyS3hiYk1yRlFYN0NmcVVRaS0yZjE1M0lUQmNHM1Vwa3lkcDlITXNCQlhyVEctRlA4MDltSDRXcE5EZkcwMmNJSUpaTU1rYzZnQ3hFMHJJZWlnSEJuVlRPOFFIM0VsQzNsM21wUQ?oc=5",
-    "summary": "Wohnungseinbruch: Polizei fahndet nach mindestens einem Täter&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-15T07:04:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "37e638422644cdde",
-    "title": "Neuer Edeka in Bochum-Langendreer: Eröffnungstermin weiterhin unklar – das sind die Gründe - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNzlRN1pOdWcxOEJMS3N1U1E0dEtrYXVIcGl6ekU0dEN4YkR6WVotd1h2RkRja1B4QjlXc2J4ZVVJUlFpTHcxTVZvLUQtalh2eU5lY1dTeklMR2tlUDNvZVZjb1pEdk9PaC1aejZjbjVMcnN2Wk5hODJTVWY4MkVpWDJGMkN5R1RJRm9sbndIdndlVmpkZE43dGdJeTlZY1J4QUg1ZDhQLUhoTFIzZ0dCaDFaUWZ5dzROZHNHdk9ULTFISHRJY2U5UGd0UTN1QVVjOGttZHVuOA?oc=5",
-    "summary": "Neuer Edeka in Bochum-Langendreer: Eröffnungstermin weiterhin unklar – das sind die Gründe&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T06:54:10+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "574e6c7c97c0ac1a",
-    "title": "Wohl kein Unfall: Tödlicher Wohnhausbrand in Bochum soll Verbrechen gewesen sein - noz.de",
-    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNemYxWlR3eVVEbklPYlUxS3ZDVmpUQVUxTnFvRGsyVUVjN1RZeEZNMHhudTI1Rm1YcFRzRk1NODRjV0FpQjJfZ0pDSnVSMmZKaV9FMXpKTnVHblg1dHJYWFJwUkVrNHRYYUN5enpxeFRMLTJOempLZGtiQ3lQbjZFV1RjZjYybk1oZkhUMjNHYTdEMWloZDlucldpT0lJSktPNmFMRjA5TXk3allGVnJGNjl3NkNKNTNTOHFaamRhQW1EalBmYUJ1VWN6X01pLWs?oc=5",
-    "summary": "Wohl kein Unfall: Tödlicher Wohnhausbrand in Bochum soll Verbrechen gewesen sein&nbsp;&nbsp;noz.de",
-    "published": "2026-10-15T06:09:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "e392bb186edf962a",
-    "title": "VfL Bochum: Besteht schon seit drei Spielen - hält diese kuriose \"Serie\" gegen den 1. FCK? - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOOU9SOWZxcVo4Tk1YaWtQVVZVQ1lrREdhb0JTT09aSTRxQmU3NEpMdXotMkt2UngzajFVVjdqNlNoZXIzbmFEMUY1OVlfMHJhQS1VeGJBT2hvQjNlbXl2WFNWN1I1Q2Zfa19lMkJJMlVFSHJFV3hDclFURlVWeFRVaGc1ZlFwSnJuR3FSTlZzMW1aNDlPUXZlbzZQVjIycnZwTTJkUVEyaFlzZmt1aks2aEd4bndZa1VfaFg1dUxuZ3BPX09CZFhQbkdSVjJ4d0Q1b296WGEtMXYzX1E?oc=5",
-    "summary": "VfL Bochum: Besteht schon seit drei Spielen - hält diese kuriose \"Serie\" gegen den 1. FCK?&nbsp;&nbsp;RevierSport online",
-    "published": "2026-10-15T06:07:45+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "d11180f0e53f634b",
-    "title": "VfL Bochum: Schlechteste Offensive der Liga - so will Hofmann das ändern - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVnpfLURGX0Z2MmlGeG9zQm9xYTlyZmIxWFFsXzhEb25uZUVEeDBDU2lCYUxUcUtkLVZVelFTMlBMaTl2Z0otUGhTeThNRjRuUGtDU3pQbmZoRjNkdUNjNlRHazZScXlCS2x1V2JLRlJFT1RRVE1zSVk3MWNvdzJVODRJWVgyMF9RWlZsWmg4SWZHb3ZvVUNWOTczWk50aXRtWU1JNGRwclhLSlNFRXBPZnFtRzdadVdJZzR5Z3dkNA?oc=5",
-    "summary": "VfL Bochum: Schlechteste Offensive der Liga - so will Hofmann das ändern&nbsp;&nbsp;RevierSport online",
-    "published": "2026-10-15T06:03:28+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "37b00f1697f12a9d",
-    "title": "Ruhrstadion in Bochum: 15 Bäume müssen für Umbau weichen - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQTVFR2xkbk5sSVItMWRVMGd4REhqdzR2MktkZVZIYjhBOXBHWTEtazRzM25uTFpkN052MENIQ3RSWW82U0RxUTVPWHY0VXhCUTZjT2plVlNndTUxRWpGdFBucnh0V0dxalFWTExDY1RVQTVvbkpfTVMtOGJIay1BWWN4Sl9BWkV0d19wSTJVbk13cnV3NDVOTG93czVUYVlVSGlkUF8tblQtZ0Fnd0F4QWNObXE?oc=5",
-    "summary": "Ruhrstadion in Bochum: 15 Bäume müssen für Umbau weichen&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T06:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "754be71b7ce9895a",
-    "title": "Drei Tote bei Brand von Wohnhaus: Polizei mit schrecklichem Verdacht - inFranken.de",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa3REQ1JIUEhVNHAwcWxCbWZWUFA5c3Zhc1BadnVaV3Q1ZmZCanViRm14SnQ0MkZkcVNkSXQ1OWFZWkpORERKQzV1dTNsY2RLcWFYV1gyT1M2LW85TVNMMmlTRURNR3JpNnpWbGdYUmhqQnUwTmFTMTdJVG9sNHFoRXJ1Q0ZKcmpZeXA2WU5Xbm1RNVZZdEl3dk81ZVFlZGpFNXdzbV9kazJBQU42ekF0UkFn?oc=5",
-    "summary": "Drei Tote bei Brand von Wohnhaus: Polizei mit schrecklichem Verdacht&nbsp;&nbsp;inFranken.de",
-    "published": "2026-10-15T05:56:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "e6edd4f7861f5013",
-    "title": "Drei Tote bei Brand in Bochum – zwei Tage zuvor gab es Streit! - RTL.de",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcnU4V1dqUndKdzd0VDZ1el90TDhzVDV1MzRwd3pMRVVWaVFJODRSUlFxYXpVN0diWmFENWxBTS1XV0I5X0w1Z0pqOGZBa1RvWEs5QnFqM0JLOGUtQjV4NUc2Sk03T3JySkFrV1VnSnJsUjNYTnRJVnhvZTNzYjFpQW4tb3V4VVMzX0RPa3BUY3MtdS1xX1E?oc=5",
-    "summary": "Drei Tote bei Brand in Bochum – zwei Tage zuvor gab es Streit!&nbsp;&nbsp;RTL.de",
-    "published": "2026-10-15T05:40:48+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "85ea16934f6afb87",
-    "title": "Herner Straße in Bochum muss voll gesperrt werden: Was auf Autofahrer zukommt - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQzNaaG9oYkRXU2ZoYzA5N2NjNVAxSjd4TXB6SElTUFJ6RmdTYU56LU9SR3kzS2NUcVZsTG1vRHFLVzRGdGF3SUVGb19iaUEzWkxHLXdCVHdPOTZvTmZzQnNCeFpCNk5ZOVNPLW1ZVDBwcmd6Rng1NzZmY1dKRzNUN29CcjJMOXFTam1EaEJPOWZzajlJQlZRa2xSWkNzS2xvcFV4dzBxNlByaGNFaU4xYnZNZ2s3UkZtX2VLOEpGeDdKWV9xa00wdVFVdjhwQQ?oc=5",
-    "summary": "Herner Straße in Bochum muss voll gesperrt werden: Was auf Autofahrer zukommt&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T05:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "b6f771f33f4b2589",
-    "title": "Karneval in Wattenscheid: Umzüge, Biwak, Partys – Diese Termine stehen schon fest - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQa2hXbUxyZWRzZHJFRlNIdnBXNTZnS3preTJPZ01iS01PLUpTb1AyRGtuLU1HTFFiWmM3T1lPUFAzMW81cC1HYkgtcGI3b2FYTFhIbXRuX0tlUXdsLWd4aC1QU3V6aUVWZjRmNmRlZ2lLUjBPR3Jxa3drU2tab2lnekZTOU5BRnBOLS05ZUh3N2RtVnlreG1uVEFXZUJGM2J3aEdjUjdxZ01RVTRrVXF6MEVsNGhscWRGUVpwemN2VHRHbld0OVE?oc=5",
-    "summary": "Karneval in Wattenscheid: Umzüge, Biwak, Partys – Diese Termine stehen schon fest&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T05:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "d0d710f3f4880f8f",
-    "title": "Spende für Spielplatz in Bochum-Riemke - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMnRiajkzOWp2MElNZjhKbjNLVjFWS3VPWThJb1A4VG4yV05Jc3lhZ05TYnNQNFk4MXRocG9CUC1vMGQ2YVlaYy1FM1Faa0VTX2Z0OEJ4cjJ6N2lSRjlha1k5d2ZrSUp6UXVtOER4S3RNSEdiREFHMGNBeUlvdE0yYng0amh1bWU0TWc?oc=5",
-    "summary": "Spende für Spielplatz in Bochum-Riemke&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-15T04:34:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "cda0c4e8b19967e8",
-    "title": "BOGESTRA bringt E-Mobilität in Bochum voran - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYmRhbXM4LVNHYjJKSXhRaXY4Zjc3WjVPNm1ab296dnJmUGV0X0hJbDh2M3lfbXhQYmRtVzVseTFNVjZDVkFxc1VyWTdGZTBiVHllOXpzRU5BZXNRNGxkVDBvMGltQ3RBelhtOHFpVUNUTm5WSFhNMVY1RjJ6M3VMdFNRaXVYMmM2eGVQNG9zZ2U?oc=5",
-    "summary": "BOGESTRA bringt E-Mobilität in Bochum voran&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-15T04:34:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "03e8a318ca2432fc",
-    "title": "Zwölf Stunden Jagd im Netz: Europas beste Hacker treffen sich in Bochum - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNdTJ0dkRPWlVlNjh6b1IwZTVhMEVBUjROclkzUEtOeXlPY3d0R3lmcFczWDFuZGlvbUppWU9oUzhXNU9aZTJNWHlYVWQ5cENnd1h3QVRENGlZckhEV0ZhbzBQejhqUVBJNDduOGJ1cTNoNTFlTlpZNjhDX1FsaDB5ZWpHRTNwVmlBakdmak96SjhBYTlsa0Q3QmlZUlU5TEFiTjJjV1lscFJfRFhlVzlNT3JVdVoteDBYU2ZLWTlCOXhPN1l3OEE?oc=5",
-    "summary": "Zwölf Stunden Jagd im Netz: Europas beste Hacker treffen sich in Bochum&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T03:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "c06631957e456f3e",
-    "title": "„Steuereintreiber für die Stadt“: Bochumer Hotels sind sauer - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeFRDZFB0Ymk1OUtyRnJueXEtbWtLamtiNy1uZWxkbVNJRWFYY2l5R3haM1B1VFE2VHJqa1dNV0U1QWlfWENpTWY1cER5cWhxSGhKWlhkaHA3YVF4SzN2c2NEcGpuVW9ZUHVwS1VMZzl1NEJjajRSX2JEU255YjBnc0J6enBVWndaVGlWWWdseVVHM1lzbHl2cjY2elNwbWwzOU95dzQ1TGxrREhWSDBWTlMwZDA?oc=5",
-    "summary": "„Steuereintreiber für die Stadt“: Bochumer Hotels sind sauer&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-15T03:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "0325792b81e908b7",
-    "title": "Ein Anruf veränderte alles: Wie Bochums Wasserballerinnen zu einem neuen Trainer kamen - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOTktzQTE2RWNzS0VWd0dDT2lHVjlkVWRxeVRNcVpNOWNHUjh1ZGZ5c0ptaEZ4TFNqVzV5c1pUUmYyM3loUThzOXZZMThPY2J3TUdUcmRja2wySGhmSElGeTFpdHpwQzZPWjNsenRoSHA5c1VVVjB0SXBIWnNYdFdfQzcxbWloRWxKVUtUanFBSDlOb0xWc3JEWFhxQ19UbEt4LXJ1TS1lTnJYZzFnSDN2a3VHMnR2ZjRFdlZlVUw4b1dHUmFPVW9rc2gxbGtNXzZtdVhRVG5ZcFcyQ0txdmkwbFFmNDZhdw?oc=5",
-    "summary": "Ein Anruf veränderte alles: Wie Bochums Wasserballerinnen zu einem neuen Trainer kamen&nbsp;&nbsp;WAZ",
-    "published": "2026-10-15T02:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "e38be0e801ea213e",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - WELT",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNWkFwcl9RUlh0VFVnaTZoSWx1U1pTNHpPbC1aN3ZqR0p4THh0MWdLNkh5SmU2MU1MNnZlbElRM3U2ajlsOEw5aGxGZ1hGX2RpLWNjNlJnM0RBYU1lSkdiQWdPLUxCN1EwaFZkR3F5Qjd1M0pWMGZldDREUmp6T1Z0aGtfRDY2dHZqeUdKWjlBbGt5SlVXZzV5TFNBQTZKUzlVQm5ZM2stbjhKU2N4d0JMLTdwQlpFaDRwUlNpX0FDTjA2ZzVpNHF0c01n?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;WELT",
-    "published": "2026-10-15T02:08:02+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "07fa3142ff5c293f",
-    "title": "Nordrhein-Westfalen: Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - n-tv.de",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYTFRN0FMZE9xN2J0SVdRaGhPUEp2TjcxbUEzY0F1REs3TVZnVFZWYTllSlhSbHFfRDNEVTNIb1NubGNCR1VVMG1sTnJWd1J2alVWUTh4aERvMzBFR0U1VUJOWWhjTndKN0o0bzZfZWNjQ0ZLRWc0aHctVWd2V1dKWDBwVDBHQU5XNi1yaklrekQ2XzM4R3E5M3RrVklKTjl2ZEtPTnNlQkJQLXROWnFiYm03QjhpWlNXUzlwb1hJQnBxTkU?oc=5",
-    "summary": "Nordrhein-Westfalen: Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;n-tv.de",
-    "published": "2026-10-15T02:04:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "e07a4ac38c5fe154",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Mindener Tageblatt",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVnVPRkQtTVAyazVTRkVNdU9TX2NUTkk2alQ4R2JEQ1BFRHhwMUNlbDA1RXdTNWhLTTBPYXFXTUx2SE5pbmpSLVdXTEdQNWVHdlNyZ1V3TFNnaGlhWFczRWV1b0xhc21BclN6alNsdFJxaFNhQW9jX3hwS1dFUmpPa04zZk1ONDBQbVBNbEpNVnA2eFg3dElIdW5XeXBfN3JsZkt6cHB6ak4?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;Mindener Tageblatt",
-    "published": "2026-10-15T02:00:48+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "679a74d121e2942e",
-    "title": "Mordkommission ermittelt: Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - DIE ZEIT",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPS2FKQnNERXpKQy1HT2ZaTkFtd243QmZndzZ4YVJoVEpreDdqRlF6aXY1bi02aVBFbkNoWmI4dktyVmNCYmM3ZWoycENrWWNRRnhna1ZySXFnXzNJWnVpU2pqSTRLNTEyLWljUGhXMk5VblhtMlRNUjAzdG1XY3o0X01oUGZNM3pFLUZUVWRzX2NZc3VBemtuM0dB?oc=5",
-    "summary": "Mordkommission ermittelt: Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;DIE ZEIT",
-    "published": "2026-10-15T02:00:48+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "05df219ac1d0b754",
-    "title": "Mordkommission ermittelt - Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Panorama - SZ.de - SZ.de",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdGhIcTdSQTVfQW9lS3JXMHVHbzI2MUNzbVZuWW9HdE1kQVp6MFVuTjdMd1dlazBCbVFCRmNQek9TOW1RUlpQVjFQSk93VnpFb1AwejFScTF3RXN3WGllVDZwTHFwVmk4d0RkWnp2ZDh4WUtoX2FaYmhIRWczdTl6WS1LOVM0Um40ZDJRTElkbzFnRTBJcDRHZnBxaGpGZmE2OVIyanpXVzRmcVBQbGp3MWhVWmpuQTZXWk5uS21KemRrYlM5VG1rMWRtNHdkNE5qT1Z3cXplcldZWm9TSEFPOUc5R2pabkhRVWhGREREbDYtaktQUWpKVHh6U3B6NXM?oc=5",
-    "summary": "Mordkommission ermittelt - Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Panorama - SZ.de&nbsp;&nbsp;SZ.de",
-    "published": "2026-10-15T02:00:48+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "f199203c6e53d089",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Westdeutsche Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTUp6cDg0cEs3cTlsaGh2cURCZFhnXzdEMUlLM1hFeTd6UVVEZW5INkVWUzBhLVRNd05MSVR4NHVaZ0JSc1YtUmFITGwwSzVmQjRMcEMwVlB2S09qWnpxWVpQUE5qQTFaaDRwY3FuQndQUXV0aE9hT1ZLS1R0OENYTEJFWUdCVnMzRmRkcW1QVnNuVVRPNk9qTDBR?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;Westdeutsche Zeitung",
-    "published": "2026-10-15T02:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "5498298343243944",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Neue Westfälische",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOR0FnS2gwUy1LNnlZclRxZ29VN0l1YnBJbFJoZERHQW5ubVZxbXlFU0F0WGZTSUtWYUtOdmRuem10OGZscC1JQUJGRERyZUdwb3hRTWlLZTc2WlR3ZmZsTktjR1RvWXlIczBsblVuLVpXVG8xbF9DLXp0WWlJb2tjbTZLSVdrV0xzZDJKVXFpOUIzTWRsWlRXZHNubEhLUy0xZzh2OWNuc0NNUQ?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;Neue Westfälische",
-    "published": "2026-10-15T02:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "4d900dc72b3fbf7c",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Westdeutsche Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPRkdUZkNfTm84ZF82c1U1VUdoZU9DczJ4Uk1aWlpNb29TMUR4clZuV3hDem9YYVR2RTVRZHNsMlRqSWdSbXpQV1BFTy1Cc0VNQUhaTDJneHZUdVJwVnpWM1dfdnNJYlV2S01rVXpqVWFVdUl4eWNNM05kT1p5UDY2Qld4NVZpdWpFaDI1RUxES3pER1VZa2dZTHR3?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;Westdeutsche Zeitung",
-    "published": "2026-10-15T02:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "0e10bfde66bd13d0",
-    "title": "Zoff um Parkgebühr in Bochum: Porsche-Fahrer soll Parkwächter attackiert haben - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdmNFZE9lLXlVbDFEUW9HZXdYS25wOS1MakVCdGlJS09xaWptbkxCVUU1UWJEa096aGd1QlZTbEJvV1dQSTZqcE9nN0gwdnBrdXdaRkU3Rkd0SnpXb1VYU0FkLXlkMy1uZWNhTEUtTEFqbEI0aTA4SldYMGRWUXZjZzNOQW1vNUJNUVhLWXRvQWU0Y0VBQW81b0FlSFZlMUJVUDNTQTJtbVI4WUhwcVF2WTRjYWljVHQxZVBQekdaaTF4XzNTZTRYc3ppSmdBLTlM?oc=5",
-    "summary": "Zoff um Parkgebühr in Bochum: Porsche-Fahrer soll Parkwächter attackiert haben&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-10-14T22:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "4033cee19e6afc4f",
-    "title": "Hüpfverbot nur die Spitze: Stadion-Chaos in Bochum wird immer skurriler - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOU1M3YkpkNzBKQ2RrOGF6aVdYVnVJdjRQX19zNG4zZU1UcUFoZDMxdHAwdzV5Y01QSGYtZnp3bG83ZXN6OEFWbW9LV04wQ29fNTByTk9PMUFjNFV6Tkx2NGUwSzJuQ0xibXpJVDZSaWNpVXJNNmlDeVlSRmtTYlVEZ09MMXBtNVZxYVBsa2pUSFlGcVlOOXZnVzR6dXZzdno4MzgtUHFxWWlOQ1gydDFfQ1NpU1RCZw?oc=5",
-    "summary": "Hüpfverbot nur die Spitze: Stadion-Chaos in Bochum wird immer skurriler&nbsp;&nbsp;DerWesten",
-    "published": "2026-10-14T20:17:17+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "7e4c33ae71cd46df",
-    "title": "Aufstellung | 1. FC Kaiserslautern - VfL Bochum : | 8. Spieltag | 2. Bundesliga 2026/27 - Kicker",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOQ193X0FGaXZvTlgzWG5LRUNJWXhwbUh4anNrVWZvdWNQRXN1ZHhsWUFQbEROOElhbWNmbExNNWd1YjhHQ2Y4SkpuelZmMzRzQnhYSFo2VlpNRmNTUTFqZ1JTcU1UelVxV294VkFRbTVabFhVdTF6amQxTTFPWlltbTk1TDY4QQ?oc=5",
-    "summary": "Aufstellung | 1. FC Kaiserslautern - VfL Bochum : | 8. Spieltag | 2. Bundesliga 2026/27&nbsp;&nbsp;Kicker",
-    "published": "2026-10-14T19:55:47+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-16T09:28:50.687817+00:00"
-  },
-  {
-    "id": "62a4f74afedc44c8",
-    "title": "Sparprogramm kurz nach Auszeichnung: Exzellenz-Uni Bochum in Finanznot - RP Online",
-    "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb2JfLWZwZ0lfVmM3aTRjaVlFdmNiamh4dk5LNDZyb2NzejRyT2E3RVBlNmlBTFNUTVowN252RHRKd2h0ZTIzRkE3V1AwdV9QS2tjTmF4MUl0cE03M1ZLczFKbE5tOGFSMy10N3ByVDh4YVR1aVI2VHFOVF9wbHV2djBtRTRHQ0FZX01fOF82NlB3SUFXOHdRSVVyS2NoNi1UdFFPdmR3UF9qQlRYQV9wVkZFZDdFSDc4bFg2b01vRTF6UQ?oc=5",
-    "summary": "Sparprogramm kurz nach Auszeichnung: Exzellenz-Uni Bochum in Finanznot&nbsp;&nbsp;RP Online",
-    "published": "2026-10-14T18:26:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "7cd23aa12cd67b9c",
-    "title": "Nachwuchs-Treffen in Bochum: Wer sind die besten Hacker Europas? - WDR",
-    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcWwxYlRwNkNEUlo0MndhRVpVVW5mb0xXSUFlU2xiY3Bobk85MHBaZWRNVVZLZXVncV80WTVJbmc1TzlRMDdvZUllN1FiNmx1M1Vrb2JlUm9KRFNKaG9kZnQzN1ZLNW9IdzlQQ2FOOTZLR2p6RTBtZ1hZb0VjOU9LRXhZRlVtNkhpWXZxU0k3Z1VLdTMwbTltcU9vVHhPazl4ZGl2UWREcFFoWE4yTHNWRjF1aE5JLTDSAbYBQVVfeXFMTjRua1VfSXZwNXR6UEt4b1FtTE1KdTBzdy01cFRTWGhvUm9oaG9EeVl0bTF1VG1XOFpsSy04b0swdXhQdUk4U1JlMm5yaEdOekc3MjhfNS1oVVNhSzRqNzA5XzAzS2tHYUVKWjBjcmlySGlaN2NzS2RGNDA0a2JzVHRDRHFNamRVQWhaNHM4R0NBbGRZODkzRHlZRlJpLTQ5X0FQRmNTS0hyZ24yVTVNeS1QelFzQmc?oc=5",
-    "summary": "Nachwuchs-Treffen in Bochum: Wer sind die besten Hacker Europas?&nbsp;&nbsp;WDR",
-    "published": "2026-10-14T18:12:13+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "5f6bf81651702b68",
-    "title": "Neue Erkenntnisse nach Brand in Mehrfamilienhaus in Bochum Hofstede - WDR",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZFlxNW1xS0NkNS1NV0pmb1E4Q0hkMjRGVHRNY1lyMHQyX0N6eC1JZUQ1UWNPRDNFSlFCdXlINGRGSXl0anpvQnZoZDNQR05wMTdieWwwLWdNTXl2elFYVzRvSkRWcTRiUVZ1ZDd4elczR0FTV0Z6dVMxRFl3YXFEWjVJeDhtVFdWQnFEX1VfUHNJTm4zX2VCSkN3cUF1SGppOWthdlJaVkowaWJZQ29mc193eTN1Tm9IRUd4SEZFeFBkSFZsMnVrTEhPeVNOM1BwaTRmaNIB0wFBVV95cUxQRmVhSkRiSDNjS2pGSFlUWDhILW12clJtSUN0TmgwLVpTcjB1UEhOLU5FMDIxNGVTclRxanJ3ZFV6bTdWREZkbEQzV01iSEc1cEFVWUExWWplRUpUbzllb2Nfd0h4d2NhX1UwbV80YXZ1T0ZjeUloSUoxMDRjOHFDMDZJVENyaXhlaVBYaWoxVHFjOG9oamRzMUhOeVdJNVVSZUZFWVdjTFRBY2tTQUtvZUpPMUczak15dVU3RGZwb2hFVFdLUHJfbzh2Y3lqOTZGMFY4?oc=5",
-    "summary": "Neue Erkenntnisse nach Brand in Mehrfamilienhaus in Bochum Hofstede&nbsp;&nbsp;WDR",
-    "published": "2026-10-14T17:42:51+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "8c410efe4ffabd2a",
-    "title": "Bochum: Weniger Parkplätze an der Rottstraße? - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQzR4OExsVEZQZ0RpS3d0RC1IU1JzaE8zSDRQemdaTUpXZ1l0M1ZJSWExV1BnMXVzM2kxejNtby1vZVlnYW5wbVlETkV4OU9WT0daQ2U0MEdwWFRnLThUUTFTN2oyZkY1S3NJUmdqYm9iV2JLT1JfZDVTa2Q1Wk53SnZQZnAtZVB5dXZCNGtJT2lWdw?oc=5",
-    "summary": "Bochum: Weniger Parkplätze an der Rottstraße?&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-14T17:33:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "5ee36d07ee1c1331",
-    "title": "Bewohner des Hauses in Bochum festgenommen - WDR",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5ZQXF2UjVESncwOXVrVy1JbGNITEVJUnZuLVRSRWRNTEVLdlVNRmxfLW1ESExvelltc19SSkNYYlBaSmVnQlpvZUwxaHpzaThSWHRoOEdWQTdPTWlYbXdIX2RjZkNnU2RZSF9XWUNlNFk3REpQTE1PUDBfXznSAXtBVV95cUxOU1FYRzRvckRaeVgzR1ozNmNJSGY0MlIxN3o3RWhqLW9DbHB4amxHVEZPcHJlamJIZk0wVFlWMFFwRjNLT2t2NVg0WXdSUFZnZXg5aDYzdkMwVFA4b3RpaFJKSXhsNFRVS1pNMkdIR0VKT2x0Y01XRlNYTTA?oc=5",
-    "summary": "Bewohner des Hauses in Bochum festgenommen&nbsp;&nbsp;WDR",
-    "published": "2026-10-14T17:13:37+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "b08678db5423ac0c",
-    "title": "Westfalenpokal in Bochum im Livestream: TuS Harpen gegen BSV Schüren - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQT0ludTFILXkzU2x3Rk9GZ2l2X2tlc19yendXN0hjaUtDcFQ4SjhiLXNXRHdEcU80UW5UME10WFZYSHVENGktV3E3aVFVMHdHZlMtQ3ZrUkZjZW04OE5KbXlEa3k2bXhxWGxBN2hKZURUSkk4ZEs2V3JRb0NlRDNuNHdwaVdnSnZDdGhvenQ3UzRENGZiV2xNcENtTERFVnR5dUVWck8zQ3g4V05ZU094emJlcVZ0LW1qMkxxZHJtai1VekkzX2ZwYXNrdFc5NU5MMDZRMA?oc=5",
-    "summary": "Westfalenpokal in Bochum im Livestream: TuS Harpen gegen BSV Schüren&nbsp;&nbsp;WAZ",
-    "published": "2026-10-14T16:51:12+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "2b87a4ca84e9484b",
-    "title": "Mitgliederversammlung des VfL Bochum: Brisanter Antrag bleibt liegen – noch - WAZ",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZzJFZnJsLUZvTkhxTFUwM05QekZoTkl6VUl2VllfQmx1cVI5Z2VhMTVRYkRiYW8yOXhmVTN6Vk9LY1F6RHhZNTdSS0Uwc0llc0JfcFloQmZ0OW1TN0o4dXFEYXpzRkcwNlpleUt6SWZQZHJFb0Vfblg1OGl5NGRMVnQwbzVnQ19nSlRiYWxDeDdqVm1zMVk4eVpTMThlTEEteFhZYWdpTUpIOERBYjZuVXVxbzRMdzBSdFlDOVB3a2JWZ2xCX1dqNEx3?oc=5",
-    "summary": "Mitgliederversammlung des VfL Bochum: Brisanter Antrag bleibt liegen – noch&nbsp;&nbsp;WAZ",
-    "published": "2026-10-14T16:48:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "a11cd23c2a85a0ef",
-    "title": "Tödliches Feuer - Festnahme nach Brand in Bochum: Was bisher bekannt ist - Panorama - SZ.de - SZ.de",
-    "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNjRGZnNzRnp6Z3ZpLWdnczItazNqWHJXQWZLTGlkVkdaQ2NBUXFmUHg0X0xNel8xZjFSY0twVG90RFVUMmlYS1F4M25aakVMd3dqdEs2TXpYSXpqeE1iVjBuZzJIOWpuSjIzZFpocnhxTWRyVGNab2E2UUtfdGxnZW5wLThNMTB3a1FTUWZzazFKMXZGM2hHTjE5RkRoaWM4WE5iVTU3TjNCRUYyRnNNTjcwQjM2dXp5UTRvUjNpMGEzWGhnVlRWTXNVQ2oyRTlUQjl4cmVOaHBIa21VMnhrZDFfcjBNdHYyOHdGZ0dB?oc=5",
-    "summary": "Tödliches Feuer - Festnahme nach Brand in Bochum: Was bisher bekannt ist - Panorama - SZ.de&nbsp;&nbsp;SZ.de",
-    "published": "2026-10-14T16:26:39+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "41488f56e95adbe4",
-    "title": "Tödliches Feuer: Festnahme nach Brand in Bochum: Was bisher bekannt ist - STERN.de",
-    "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQzd0YWpfMF8yMzZudzBZR1NLUTNDQWJQbndxOC16OE0wcmVuVnBiNWpQUHJwTnRneE5SWU03RzNJS2I2OFhCMkZ5dk9tZ3lURUNDLUY4a3ZsUXQ0bDJOLWhpQzVZa2pVakZiQkpMZEQzR2gxVWtzNlhVTE9NZkxoTzZXdURwUzRWdkQ2X3ZpYTZKOEpsZnpWcHNaaFVlbHNQNTdJSlhBcDZXRjdKZjBSbGhRYWtsQVJaN3JVNE85dVU0MmlSNnNJcFFhbGtzT2NES3AtNkZOVUhQbE9Yd2gtaHhqQQ?oc=5",
-    "summary": "Tödliches Feuer: Festnahme nach Brand in Bochum: Was bisher bekannt ist&nbsp;&nbsp;STERN.de",
-    "published": "2026-10-14T16:26:39+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "c6a83d6a7108f085",
-    "title": "Festnahme nach Brand in Bochum: Was bisher bekannt ist - Mindener Tageblatt",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQUUEyQ3JnVG53UnBVVm4tN1BQWXZHbUxEMkdOX2JmRXlrR20yN2NZbWc1OXQxVHhvellFTXEtQWNRaUV5Q0owaGNSVHBzdExobUpIb2pNZDl5VjJxMzJabGdxRk95czhmeFpnbDZnMW9NWGJSNHhvMDFoTHpjQkNvTzFDb1p4TGlQUTdULXBKdWdaOUtJdEl0M1dWMC13cnFQTGc?oc=5",
-    "summary": "Festnahme nach Brand in Bochum: Was bisher bekannt ist&nbsp;&nbsp;Mindener Tageblatt",
-    "published": "2026-10-14T16:26:39+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "25cfd7a0fcf60fa9",
-    "title": "Tödliches Feuer: Festnahme nach Brand in Bochum: Was bisher bekannt ist - DIE ZEIT",
-    "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWS1sanA5OUVOckhwMC1PUVc1R0YySks4MXZucWhzVHJ1emRTcEczOXVCTlpWVHR3T1F0SHd4Znc2SjB2X092SkhzWTNoSFZTdFZycUx2eVRBVXFZOVdSSDV1RmMwdEVnQUlIMm8tZWpyMjEyRXpFcUxFMTlJSkEzbllUX3FjZW5CcHZ5ek43VUhqY3M?oc=5",
-    "summary": "Tödliches Feuer: Festnahme nach Brand in Bochum: Was bisher bekannt ist&nbsp;&nbsp;DIE ZEIT",
-    "published": "2026-10-14T16:26:39+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "f11117f70acbce82",
-    "title": "Hochschulen sichern Milliarden-Förderung - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbGNIZE9xckxXOTFJT0V0MkM0aUxpMDVrcHRheHVhUURFVUptNWZIX0dFNXZLd3ZLSWdoQjk0NVA0ZHp3R2w2MG5KcFp1bEU0bEx5VVU5X09sVXdTYzZERjZwWnJnUG5vQ2pGZml0SU5lQ0Q3dVp3ZC1xTWVUMWgxR2pId1ByRV9iZl9V?oc=5",
-    "summary": "Hochschulen sichern Milliarden-Förderung&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-10-14T16:22:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "0033db3b867bb94e",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Neue Westfälische",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNFBzaGZvbUFCZ1NfbDlnd3RXb3NaTDM5ME1FZzJtdVBqd2djSFl6Z1pEcDhEb004ZHZ4ZUtqSEJFb0QxdkF2eUlmVnBlenhjY3IyNG41MnIzMjBNQmVHakZNdVhqTjJJYnIwenNpb3pQS0RjTnhUQS1aMGdLd0JwUDB3TTNaRDlYelEtQXM2S2NQNXhPbHpsS1pnLVdSZXFxMFhUcnpRdW1CaXZXNjhSNw?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;Neue Westfälische",
-    "published": "2026-10-14T16:11:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-15T09:36:17.128449+00:00"
-  },
-  {
-    "id": "6e20371808f30bd6",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - OP Online",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOaTRZOU5TMl9td2hVTHk1ZlRsYmgxZ25EWmFNa1V6MEpHZVg2bXV1NE9mVWJ6MHE2RXBOZ1FNbHZ2YnRUQWRMaXNsc2R1SVE3b1VEQ09Lbi1xMGxyV0N1OHFXUVl5bk5kU3d0RG1kS3dua3puM3JIOGJvTnlZbnBIRDROXzVYYXE0WENEZk1yTTVUMkltNm14N0JoUkNqUEY4R0tEVURzR2Q?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;OP Online",
-    "published": "2026-10-14T16:10:12+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "2f0a7662a01ff479",
-    "title": "Mordkommission ermittelt - Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Panorama - SZ.de - SZ.de",
-    "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQZGt2ZFpsYjJlaHFWWlpqNHo4S2JIT1lUVmJOWlVkSE1Id3ExcnozbTk1TXRuY0VUR2xDRXdHWjd4NDZpZzlBbW9WeElFQnlnQ1ZwaUFJdkxEaGVTbUVxWDA3UDB2RGVTVlRSQnVxWmlISE10YlBHMDVrTThfU25vV1J3NVd2Qm9wQklZSktxWFJSczlkUF9sVUNDQmV6NU5VQW93QkN3bV9HU0g0d201WXJ6UlJNWmE3d3JXU0thUjNQR0U5ZjlXTUdITGZqTkZobzVoZTdrNFB1bk9zUWViQnd1bXdaOTN6ZGNQbkotRmtVajRIQTRaRF9QZWlQREk?oc=5",
-    "summary": "Mordkommission ermittelt - Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Panorama - SZ.de&nbsp;&nbsp;SZ.de",
-    "published": "2026-10-14T16:08:40+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
-  },
-  {
-    "id": "523a96ff97cf025d",
-    "title": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht - Mindener Tageblatt",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMlJUdWxOWFU0Sld5YzV5djZVUFROcmx3MXlIUUFGcy11SlUyb25ZMXA5Q0RqNkh5d0ZEYlVrcjVMUEh3el90YkVnWEZibkJ5bEJOVVpxZnE2QmlxajU1UlpfV3Q5QklmY3hQNUF3QVZTaFN0b0xSWjZ3Sm5yY2NyMXlxSkItcldXMTdOZTJadXg4c1RqQVRZZUUzendLa0p3Q2JUQTlrbzhZUUo4?oc=5",
-    "summary": "Feuer mit drei Toten in Bochum: Bewohner unter Mordverdacht&nbsp;&nbsp;Mindener Tageblatt",
-    "published": "2026-10-14T16:08:40+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-10-14T19:09:49.283024+00:00"
   }
 ]

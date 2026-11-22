@@ -1,5 +1,625 @@
 [
   {
+    "id": "8b3228123839e037",
+    "title": "Sieg hochverdient? Das sagen die Statistiken zum St. Pauli-Erfolg - StPauli24",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSHZxMmwzb3dNNTZUamNxZDQ0OTAtSnZJUW5reHdkQksyaXhqRzRYX09Hc2ZmMVVuQXk3T2VxTWs0ZTU4ZmxjUEZMc3h6UUNVakY3TElLWVdkNkpJc2lnZ2FBd3o5VFN5SVlQblQ4Y211cF9aWnhnS052MXc2ZGZxcE1VZTlzZms4WENPakx4OHJ5MmlIUDJJU05rRHA2cmhtam0xRklqUzg?oc=5",
+    "summary": "Sieg hochverdient? Das sagen die Statistiken zum St. Pauli-Erfolg&nbsp;&nbsp;StPauli24",
+    "published": "2026-11-22T12:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "62fb06d6c184b607",
+    "title": "FC St. Pauli vs. VfL Bochum 2:0 – Der frühe Vogel fängt den Heimsieg - MillernTon",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQakpwMldsVzlaT1R5MmhfOWVqUHI5aW5Vb05UVzBWcFhKVHVldF9uU0VnRl9kd2Q0TURPQ2d3bXFvVE5hSTFDZXAzQ3dLWk51WDkwanNmTmRQU0p2dS1GVl95enpuY0pGcWZ4bFVid0xmUERoLUJfLTFQQU5tOEhSNVVRRlJTQkU0cjJ1WXpmLW1FZ0FEUEtXU3BpMmZJNGhr?oc=5",
+    "summary": "FC St. Pauli vs. VfL Bochum 2:0 – Der frühe Vogel fängt den Heimsieg&nbsp;&nbsp;MillernTon",
+    "published": "2026-11-22T11:00:03+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "0ed23fc525f309b2",
+    "title": "Angriff auf Fans des VfL Bochum: Ultras stellten Support auf St. Pauli ein - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMWRUUFFtajJGNjliNFItNU9oTnF6LUtCREdyZkNpWTM1dm9BcFZValBjY0xoOTBJV3dSU283QmF6SWtvQTNWX0VkTmE5d0N4SUZZOENsODM5T3FPS0pXOXROQ25FazZaZEw4Tlp2YllKVnNCckRHWVVZbnBPMm40RWt1RzRjUjBTcF9YMkczelByX19ud3h2MXVkWnNDejNHOUxrUEEwLTFqalpNRHhjR0FVQmQwRkxBSUJQMnBDNjJHQV9rQkV1Q2pn?oc=5",
+    "summary": "Angriff auf Fans des VfL Bochum: Ultras stellten Support auf St. Pauli ein&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-22T11:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "17376f0045ed13be",
+    "title": "Erster Samstag auf dem Weihnachtsmarkt Bochum: Hier sind 60 schöne Fotos - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcjNWZjgyZEJTV3NrZFo2c2VDNXBrdjZVY0pkREJ5MkpiWngtUmJqSEFZb1F3QjBnZUFBQnRzb2dVczRVemF6bGpGeXlJYloxSmQ3RGV5bklxaGRlYVJNeXBlR0g3UTN0ZFNCZGl1dmd3dHcxWllEQUdmd2hBcGZMcXlwSlJwSGdzOElhWG9yZkIwZ0wxdlVpSVplODhROU5BaER4TElHRTVkUnBxdDhxalBxRlNXQWc?oc=5",
+    "summary": "Erster Samstag auf dem Weihnachtsmarkt Bochum: Hier sind 60 schöne Fotos&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-22T10:55:22+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "50bdf6c2f652bc29",
+    "title": "Sieg gegen Bochum: Der FC St. Pauli hat wieder „den Punch“ - WELT",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOTFNBWXJYWVJGZmphbUpTb2dQUVdhQUlzQk9iSFd6Mkp2WUlmamFrSnNPOWlySFRmMTl6TUpma21lNDFuZndnLXFpV1gxTnZrOXg4V0FHNG1iYjliMGo4Smx5NGd6V1dpTE5Za3FONndRVndWbXhOdDdMY2RNRmtiR1cxSU1hMXliNm42ME0zVm5BeHdZMGVGN21HaGg3bkNaTVg5cmpZUGpiMVdNU1BuTkc3S08yVnp2NnV6YzNtT3YtYWNSbDZFZy1R?oc=5",
+    "summary": "Sieg gegen Bochum: Der FC St. Pauli hat wieder „den Punch“&nbsp;&nbsp;WELT",
+    "published": "2026-11-22T10:44:17+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "c6d2ff60a6d0db5a",
+    "title": "Geschäftsführer rechnet mit Bochums Basketballern ab: „Das darf nicht nochmal vorkommen!“ - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOc0REb1FaWk5pWnlnQXRxRjZrTXFEdW5fN1R5X05qU0FLRTZXclJ2RWwtTW5LdXRiWm44aWk0eVM4STMzcU9VZS1YaWxleE1xdk5zbEVlWnNFMzFzWkdMbjd4M2ZaLTQxOXpEZTdFWXJITkZnUUtlczI4bUZRazRtekVBYUNzRFVSd1BWY0k5dkpIYnFlU1d6NGtwSWg4Uy1QNk5mOEZtb2dzVnFxd0FvWndqX19yZVRZaXc0blFRanc5bF9GREk2MkhVT1lUc3dpYkNkNmd3TVFab2J1Q2tmcDZta2lzYndqNnc?oc=5",
+    "summary": "Geschäftsführer rechnet mit Bochums Basketballern ab: „Das darf nicht nochmal vorkommen!“&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-22T10:14:04+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "c1ea2e96d02ec14b",
+    "title": "VfL Bochum: Rösler nach 0:2 bei St. Pauli: \"Leistungsschwankungen, come on\" - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRWxJUUtoaUtVcTV1WERsd3l1Wl9mRHpaOTJaZXJSSERMdFZUYmx4ODIxNzc5U0J2cDBFdC02VVA4d3ViREN3SGlKRHJTR2V0MWpWdEI0RThEYXZFYTE3S0MydFluajRXUGxVVkczOGdpTjQ0MFJVQ3BidF8wd3JDR29WWGdsVHBZNDJUWUlvNXRVN3Rnd2JTUXJUMkdOV2sxN2haaTFPSFhWT2xRblR5S20wZjRVU29veS1hY1MyQ0tZUHJvdURj?oc=5",
+    "summary": "VfL Bochum: Rösler nach 0:2 bei St. Pauli: \"Leistungsschwankungen, come on\"&nbsp;&nbsp;RevierSport online",
+    "published": "2026-11-22T09:50:56+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "aba17ac9e7a4da26",
+    "title": "„Unter einen Bus geraten!“ Karol Mets spricht über seine emotionale St. Pauli-Rückkehr - MOPO",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRXFXbFZRdjdfNk1uVV9PRnNFYjVKZGhGalVKUF9EZjJqNUdEdVBIQno2MW5pa2kydldkNzRTUzFEVnp4U3pacm9BcXozdWxCLTNROXV0eThPTnVKTG42bnBzZnIxSGYzMHc3OHhVMmRKU0RCN0Q1UmlibGFjMW5SRGJSS19ESGpvekNHaU5CSEFzeFlNd21yOEoxdWxnWjdoZEd2VGg2V29MSm1RdThXcDl3WTZFMU9kTUxSVzkzS2k3ajZjYzdpME1n?oc=5",
+    "summary": "„Unter einen Bus geraten!“ Karol Mets spricht über seine emotionale St. Pauli-Rückkehr&nbsp;&nbsp;MOPO",
+    "published": "2026-11-22T09:44:21+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "9f643a891ec6f1ce",
+    "title": "Warum St. Paulis Rapp großen Anteil am Sieg gegen Bochum hat - StPauli24",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTlZMOUNTSmFzdkc5el9HMnNIOVNpMlJBMXdKOHlGdzF0WFlhY1IxeVYwYTBUN3hmWm5lY094NzlPTkM3R1J3WVFNYkRZZ09jZlpGblpoRWtxUkVXUHNtM3pjaVZNSUM4cTJrSmZZdC04VmdKZkJpTkc0UXVsYmwxQUpvdVdja0JiSEEwZ2o2RGZhekhqMXNPbkE1TDZROXVWT1lVWQ?oc=5",
+    "summary": "Warum St. Paulis Rapp großen Anteil am Sieg gegen Bochum hat&nbsp;&nbsp;StPauli24",
+    "published": "2026-11-22T09:22:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "0037343b4430a1f2",
+    "title": "Weihnachtsmarkt Bochum 2026: Öffnungszeiten, Eisstockbahn und mehr - Ruhr Nachrichten",
+    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPMnNoSTFZeUplajAzMmVxUkRmbTMtcWRVc1FpLXhLYWtjSmdWVDBZNVI2SFVoeWtkWU5ZanBBQS1YX1REdF9MdFpEQVdrLWhRa2tiRy1ubWxDNFR5YmNhcXpOdUFaXzB3UkNGUG8xSmI5Q2FQUWRKeWRWUU5ZWU9tRDJRZWdad3FxRzlRaFRPaDQ4R3hYRm9zOWVkYlJpVVJGY01HeEJ3SHhZX1hkVC1jVEU1ZWhZSXViY0cxNU9heFcxb3JCc3ZOMkdxb09ycFp5NlptQl9xMXhSTWZzZk5YNGIwZWkwNHc?oc=5",
+    "summary": "Weihnachtsmarkt Bochum 2026: Öffnungszeiten, Eisstockbahn und mehr&nbsp;&nbsp;Ruhr Nachrichten",
+    "published": "2026-11-22T09:15:54+00:00",
+    "source": "Google News: Bochum Innenstadt",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "245cace5a294c19c",
+    "title": "St. Pauli - VfL Bochum - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9mTm04c3ByYjB6R1hCb1FWVDFZRTBhWHBGYm8yNGw3M1FlZzFURWpDVWpCSXpEVmJoWTlVcU5wc3VjbGJSNXh2NnMzbHFuRTRULUE1QlpTaTdya1hiUE9IdGFWUQ?oc=5",
+    "summary": "St. Pauli - VfL Bochum&nbsp;&nbsp;RevierSport online",
+    "published": "2026-11-22T09:06:31+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "198fdb7728fc3044",
+    "title": "Einmal Glück, einmal Pech: Welcher Schiri-Pfiff Bochums Rösler richtig ärgert - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQeUE1QmpFbHFSTEJjQUJZTHU3LXROaGFpdWx1ekxMS3hnZGZYeU9kN1kyYVhsQTgyN0pNMXFRTXJHWXo0VUJSVzd1aXhrbWFtbGhydndVRmRPNG0zajN4MUZYcG9zZVM2NjJvYmJVM0swdmpYdlNxaVNfbGVMQXBhMVVJX0szN2lSS2lVSzU1cDdNbWl5djN1UTQwRjRVeE92Z184ZkFMMU5aTFdhamdJNUJQVm90Z0tubTJ1bHdRRnNQYWt0TTNka1ZhWTVXTnE4ZGc?oc=5",
+    "summary": "Einmal Glück, einmal Pech: Welcher Schiri-Pfiff Bochums Rösler richtig ärgert&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-22T08:30:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "41e628cb14c87826",
+    "title": "VfL Bochum: Timo Horn spricht Klartext - \"... dann bist du wieder in der Verlosung drin\" - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQRG82MGFhOWhWTUc1RDBJNmZhWUxBc0pHVXB5UUl0WmtHSHBXeV94a29hbXdpS2NNYWRfUHlDRDRmVXJid0ZJYTB0RFZmbUd4QWxaREh4dkJyRlJqeWt3bGU4bndfQXlyajd4dk05R0JoenNwWWxtTS1BWVRrUXh5OEw4eTgtSUczNVdUTFBVTEdBT2V4WUJmTURsWXhmWlQzZVVzakxNLWswUzVoMXhWdXd1NlhGMUxUUTVYcTVtdWRfb0dvbk94UU0tQUJkLWln?oc=5",
+    "summary": "VfL Bochum: Timo Horn spricht Klartext - \"... dann bist du wieder in der Verlosung drin\"&nbsp;&nbsp;RevierSport online",
+    "published": "2026-11-22T08:01:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "b97668884582b400",
+    "title": "Anwohner entsetzt: Stadt Bochum plant plötzlich Baustraße mitten über eine Schafswiese - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTUhCMl9yOFpGS0JpRHJJcWswTC01LXM3dTFZQ3JuQm5IMDVYY0RpZ3BtbVZPd2t2Nk1aZEcwSkZnZjIwU2hHMlQ3dmZsODhSQVQ4OGxKTHE1b3RaTmQxc1RvallzU1dkNzJ6bWwydG1ua0JrOTBza0ZVUHdaT09HSndGYlBxbVVyWlFXNUFncFVudXd6bFRQc3Y2NUxKWm83NjBpYVRxeVJ2dnB4MmlvN20wXzNjaWYyRHpkV1YycmExVjV5VHZXTzBhQkNpeHZ4QXp3Mk5GUlFBTEJX?oc=5",
+    "summary": "Anwohner entsetzt: Stadt Bochum plant plötzlich Baustraße mitten über eine Schafswiese&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-22T08:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "3ffa8eaec876965d",
+    "title": "Erst Skepsis, dann Jubel: „Die kleine Hexe“ wirbelt durchs Schauspielhaus Bochum - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUkFDTDV5djNqWk1BbmQ2QVZKbjRlX1hDZThPQi1ycVViY2xXY01HcDlwOHplN01LdVVzYUZTY3FnZkhNdmQybXRDQ0dGM2QwRXh2ZVNZNndCdDQybmh1SmUyZno3QVROanZhU3FzcVhpMkdUbW55ZGZwWHNGREZrSHBHaThHWGppQVhuRzhaNWhQbXpDOWpySmVNQ1dkblpiMG02aElWRDFzYTl6U0dUS2J1SUxsR2JIalMwYmxnMXRuSWw5YndSWHlpTmx6dw?oc=5",
+    "summary": "Erst Skepsis, dann Jubel: „Die kleine Hexe“ wirbelt durchs Schauspielhaus Bochum&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-22T07:00:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "ec31e8c7c44d9a35",
+    "title": "Nach Hymnen-Check: Starkes St. Pauli feiert eine Debütanten-Party – auch dank Rapp - MOPO",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYlpVSWZCbTREaEprWEZKc1hnNE5CVmhkb0hKNnIxTUFkeWFjU1hzQzJfWEFqZnRBaWhGbmtLay1HYS1kR0VPV2h1eEVndkNjcXhrM09vQnQyUmFFSEFVblNSeFA2LVp0Wkp0V2tUdzYydS01OFJia0E0cTR4OGw5LTF5VlUxTWlfWkh4aDdSTTdWNkdUVVBsRmRCNkc2Y3VHcjdqSTVxQnVaNTJCdnBodTFPeTVzWnJ6NGVJZ3pVSXhMSVk?oc=5",
+    "summary": "Nach Hymnen-Check: Starkes St. Pauli feiert eine Debütanten-Party – auch dank Rapp&nbsp;&nbsp;MOPO",
+    "published": "2026-11-22T06:54:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "813d4ead1680c7df",
+    "title": "Aus für beliebten Deko-Laden in Bochum und Köln – Ende Januar ist Schluss - DerWesten",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZXI5NlB5T2tWRXFfbGVJbk9FMjBzaVdSeUxsVFM0TkNsalBlMnN3dkdDZ2Vud3ZiVVZoSlB3cGpBdFFXSTJZaXEyR0RBTG92dUpUazQxd0lPVVlOa1I3X2hSNkQ1QlpRTWxLSnMyWkxja2pHOHRZcl81Tk42eFN3S0U0S2FaMnJBSWNNVW9DNGJjWGlPa2hUU3BucGRGZFdQX3FsZnhOZEEtU1dycDI3T0t2QVdfbmhuR2xXQ1pn?oc=5",
+    "summary": "Aus für beliebten Deko-Laden in Bochum und Köln – Ende Januar ist Schluss&nbsp;&nbsp;DerWesten",
+    "published": "2026-11-22T06:38:15+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "f5c8d290af890e61",
+    "title": "St. Pauli-Noten gegen Bochum: Starkes Kollektiv, aber drei Kiezkicker ragen heraus - MOPO",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbmFsYjR5YlFualNUbjhJXzVyYWZmRjJ5Q3FfMHFRSkZBMXRzaU1sUTJTM2o3QnZHN1ZyQWViclJ4QzdHRmV3S2I3R2hNWHB3dGtFYkZPRVUxdVMyYmN2MmFnRWxzQzZ2TnFab0VCYVNOMV9nS0ZkZHhOMVEyc0ptWEx0RkFRbHBGWEZ4bFVUNzA4MjNQcTZ3a1o0NHFMc0JoR2lUc1FVUDJheW9FLUNWNnl2a2FYYmRURnl0YTlWelNEdlk?oc=5",
+    "summary": "St. Pauli-Noten gegen Bochum: Starkes Kollektiv, aber drei Kiezkicker ragen heraus&nbsp;&nbsp;MOPO",
+    "published": "2026-11-22T05:41:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "4644570182873fff",
+    "title": "„Ging für einige zu schnell“: So erklären die Profis des VfL Bochum die Pleite - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdXpycUlYM3JWS3lXcHdaU2NUQnFNQ0xkMnZyZDdXd1paN3VtOVg3VENpQ3AwT3pZQnNtcUFYUFBnNHZzZ2lZT3A4VFhidlpIaWc3SzRxaFdzTkF4T3J3eEFCRm1PckVjTHpyU0xDR2RHQ0hnM3M0UDVGSEVvanRQQUhVM0FzTkRLTmtXZEwtR1NTcjJ4UDhRckFsM3d0MXp4bUZDNGY0RktFRHFiQmsyRlFmbHBwN0RvWjhlbHlBdm1uQlplRy1kV2Q1N3hlY0JTZWpvdGhn?oc=5",
+    "summary": "„Ging für einige zu schnell“: So erklären die Profis des VfL Bochum die Pleite&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-21T23:11:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "318026c2d9dcd1bf",
+    "title": "(k+) Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxORGhTbXQ1NW9jdEVTUkV0QjE2c2o0dm1STkhOWlhHWnVfR2Z5RmM3Qm42T0V4MjJTWk1lYTRJQTEtc2FnY2xUbE5DUWJZblhsQ2NuLWEybUZBQzRaRXRRbU5sb3h1NURlUVppTzl3RG9vRWs3ck96aDNSdFdtOVRma0hyaFdGbDA?oc=5",
+    "summary": "(k+) Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg&nbsp;&nbsp;Kicker",
+    "published": "2026-11-21T22:54:31+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "1069daa5410f5e9b",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Aachener Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOemg4QW9LbWRzYXJhUTI4LU1OWlpFZ0tteVJRcVljR3FSTWpDcFNDSXpGbEZDSFU5djBFMkowak9rZkV2bGs5UXJpZW1acmhNdUduMWQ2RlZfc0E0OVNuX0E0UXNNeDMtMjcxSWx1U1MtSGFPUUJtVTRQeDI3Y3lLLThsd3lZcTBjQ0lWemxrUnNwVHM4TWN3Z2RwOWduWWtRNDNuMU1DbFRvX0U?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Aachener Zeitung",
+    "published": "2026-11-21T22:29:42+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "848900e620d3bd12",
+    "title": "VfL Bochum: Schwarzer Tag für Wittek und Meyer – mehrere Fünfen bei Pauli-Pleite - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSHhJNERUSHZLemcyT0dndktUS0lZWVU4WS01TzF2NzAwUC1tMVJxRUtRLXVrZmpOMW9KWnN3em84aWwzZ3VHcnY5eXg2Tzd0UU5KUjlsLVREZ1BsVnA5amh0aDJJaUhXWVFVWGtxUWRlNkdiT0FsM0NmaVd6TGZHblhwOVZ3VWhEdWtQM2w5QVVibEpEUVBpQnQ1cmJCZzVuZ0RaWktPRDJGM1VLWWViaGVTWXc0d1pOWEt5NTh4TVREeHVhT29hSF9KU01Rbm1lbmtV?oc=5",
+    "summary": "VfL Bochum: Schwarzer Tag für Wittek und Meyer – mehrere Fünfen bei Pauli-Pleite&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-21T22:24:04+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "a5ec03088699df11",
+    "title": "St. Pauli beendet Negativserie: Wichtiger Befreiungsschlag gegen Bochum - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5USW8zNzJ5VHNTal95R1VZdHdldXF2TW9QVVNtb0x0Mk4teThUOFpZQUtsOW9iaHlPTXItUF80dzdPY2MzU2JLQVowMGpaNE44RlVid1plc1lLQUtaTENtRHZudUppeW1xUmtBNi05Zzl5Y3JidjFV?oc=5",
+    "summary": "St. Pauli beendet Negativserie: Wichtiger Befreiungsschlag gegen Bochum&nbsp;&nbsp;Sky.de",
+    "published": "2026-11-21T22:22:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "5aeed805a0e9837b",
+    "title": "Negativserie beendet: St. Pauli schlägt Bochum - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaDZVMVJuVG1YTjB4R2hDWVlZeHpaU3hEbUh3MkVWSlBGUU5UWkk4VVBhYXZOY1NySHdxd01iLWVGaHpmaTdocXZFTllheHV4ZmFDNV9KcERETTQ2cXpEdkpMVGJoOEM4UjhndHVxRXhneVhtbEJ3OV9CY0hSeXZybWJIcVRYb2hwUFpsdEZiLXNqLU9tZHNuYTdFcF9UODA?oc=5",
+    "summary": "Negativserie beendet: St. Pauli schlägt Bochum&nbsp;&nbsp;Sky.de",
+    "published": "2026-11-21T22:21:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "75a653bf275d9cd1",
+    "title": "Pleite auf St. Pauli: VfL Bochum pennt, patzt und trifft das Tor nicht - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSXoxdzhuNlN0bkRYUUNST2lQM1RwMGwtQktha3FKMDZoWWV4cFZoZVFSMW8ycERrbHhkdXlyamlUdVBBcUpFaHFsYi02N1dkN21qb1JscXpWYm5HWFdSR0Y0dlpRQkt6SzhLTTlabGxyZHplSUJaUW9YT3FETnZ4dkZ5dnJwaVpHRHNCVml4dTUyUUllenBCTF8yRXAzQl8wVXpSdFQzWExBekFDV1VMR25oYXZ6ZExIR3dUTjBGdzU4X1U?oc=5",
+    "summary": "Pleite auf St. Pauli: VfL Bochum pennt, patzt und trifft das Tor nicht&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-21T22:04:14+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "5480c95090e7b967",
+    "title": "Premiere gegen Ex-Kölner: FC-Profi entscheidet Zweitliga-Topspiel - Express",
+    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQSUprZ0RnVHlqMmtDXzBBWFNHVXBwZE16STBoYXVNOE9hQnZ4RXhIWEZhS0QtT3lSd29MVkxYU296YVVtX0JDUFRxclE0QzdjQ3hBR3psbWJXSldsZy1Sa0xFLWpLS1pFRDBhNHgxeW85YXY5SE9lVzRwcGxmUEJYZG51Wmd4cDFrZWVnenlUaEt1eHY4YWloQ2FNTVlLSlR3NndHNTAzYVFtZlpodUZjZ005NA?oc=5",
+    "summary": "Premiere gegen Ex-Kölner: FC-Profi entscheidet Zweitliga-Topspiel&nbsp;&nbsp;Express",
+    "published": "2026-11-21T21:53:32+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "17dedb9cea2ae3e0",
+    "title": "Fußball 2. Bundesliga: St. Pauli gegen Bochum - Aufstellung - 12. Spieltag - 2026/2027 - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb1AzdF90bU5tTi0yMzlLUGZyNUR1eUQ3dHRVZWxmQmNCVWJBOThEQ25oTTNEMmpndk1kYnp3aUcyMDRDSE9FdlRLeXdTeE1KQ3g3M3lHWVVuQVFYQlBUTEM5Mmw2OGcyT09abDlXVldxTlBLbEFoY0pDVl9KZGltSXBudGhsS0NzbllwSXBKQnV0ck9zSmhieTBPNTJIMVZQbW44TFkycG9qLVR6VmFqdkthMVFEdVdnclc1UG9SVjlUaks1dzFIbl95eFlUYUpS?oc=5",
+    "summary": "Fußball 2. Bundesliga: St. Pauli gegen Bochum - Aufstellung - 12. Spieltag - 2026/2027&nbsp;&nbsp;sportschau.de",
+    "published": "2026-11-21T21:43:59+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "47479d2ec2dfad5d",
+    "title": "2. Bundesliga: St. Pauli siegt mit 2:0 gegen VfL Bochum - die Audio Highlights - sportschau.de",
+    "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWDRLWUhQRFlSRzg3dU1obTBucG1TZWw5UnRISGZZWDVGckdVMmFGUVlwekNtOXozX1pza3Fob2VMNTk5VXpjYWlxMkE4RmJYa241S1hpMU9RZXcyM1Rva2xJUVpJUjg3c1RadkZoV3lVaERtUFBxaDAyR0JIWF9PUXdRRGl0NDB6STRNX1AyVDdLUHhUeUY1by1HbXpIZVBGRHhyZm1KeE13Zmo1Q05sTjhxeDZJRUZxUHJ3cHpHM3pxWm4tTjNMb2RFOW1TSGpmLW83N3hkXzFfQQ?oc=5",
+    "summary": "2. Bundesliga: St. Pauli siegt mit 2:0 gegen VfL Bochum - die Audio Highlights&nbsp;&nbsp;sportschau.de",
+    "published": "2026-11-21T21:39:27+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "89885ca46593529c",
+    "title": "Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbDRHWkFUTzdFZzRlQ2tEZGh6Vm1qVkMxLW1lcWRTZDVLckRuN2NJWUlrYWgzbFlEdHdzX1JDcWdyVVRjUTA0S09lWm40cDJoWWo0ekZITTFWUjhDTUJaYllDRTYzTUJKWGhHb1NqbF81czJLQ20xMGU0Wl8zWm9mN0lJTHV2akU?oc=5",
+    "summary": "Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg&nbsp;&nbsp;Kicker",
+    "published": "2026-11-21T21:39:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "135d9c804f7a544c",
+    "title": "FC St. Pauli - VfL Bochum 1848 | 12. Spieltag | Spielbericht | Highlights - Bundesliga | official website",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNQkU4M0tUekRSdU54dXp1NGxzOWF6aktxUENQS1RNaGhPZnN4LThfR3VFQUozVVc4Mldhc0FUTDVLdUpXdGsybmJmRGY1dlYxMHRVdDBsemVCX1FEOXc0MEF0TmxEa0QxRFhueDYxVkw1bmNlVmpKSnV0Sko3aklkNWNHZnZqZTAzMVFqNW85RlNmeFVfbFBHUzF5enlBbU9qem5XRHBsRkdOdXU2ekVwdUVhMnJYdnM?oc=5",
+    "summary": "FC St. Pauli - VfL Bochum 1848 | 12. Spieltag | Spielbericht | Highlights&nbsp;&nbsp;Bundesliga | official website",
+    "published": "2026-11-21T21:36:41+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "efcd920757f3fa3e",
+    "title": "VfL Bochum: 0:2-Niederlage gegen Blitzstarter des FC St. Pauli - \"Das ist extrem schlecht\" - RevierSport online",
+    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdHVwc1k3ejhYaVlSOFBnQWlLVzgzMFAzN01mV1hYY0QxeWtFZV90QlNsOEU2WDg3SV8zZVM5Nmt5YzR2cHROUVFwelA1enpUajV0TUF0QW5PWEVlaXV5eERnYW1wUWU1VzViTjl2TVlWeHJuTENueEQ0blpFdWRCZkkzMjBPNHlyN0ZacHpjLXEzQmlOUl9TS1ZXY2FKeUpMUzA5OGZJVVZNU1lhWk1MOFRVejE0YjNha2FiM0pNSkRFS2dhelVVM1JMT0ZPV2Yy?oc=5",
+    "summary": "VfL Bochum: 0:2-Niederlage gegen Blitzstarter des FC St. Pauli - \"Das ist extrem schlecht\"&nbsp;&nbsp;RevierSport online",
+    "published": "2026-11-21T21:36:27+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "5047e1e40f27666b",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart – St. Pauli schlägt Bochum 2 –0 - Frankenpost",
+    "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQS09xR2QzY1R1ZWt4eFNWOEtjZDQyam13ek1FTGNqMnRva05sdHFyWGRTLVlaUVIyS0ctcEcySFVlbDY1T2k5LV9xZmdwZWthUVJVdkkxQ1JieDRqWEMwdjlTaXBGd2c0LVpZOWcxenVBYWV6RXV1cWh6WXpmZlJ0NnNJN2hFMnNjSk5idHBOb1NaRHhGV1JHMmFMYjhLRU9LY1VDZmt6R2hwMEtiVlVweW9feTR0Y1JEalpWZjlSR0pjcWR6bk5UcnpxbVpza00yTEVMREExTDFKN3E2cGtV?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart – St. Pauli schlägt Bochum 2 –0&nbsp;&nbsp;Frankenpost",
+    "published": "2026-11-21T21:35:48+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "7f83d92aa5b719b7",
+    "title": "Zweite Bundesliga: FC St. Pauli gewinnt 2:0 gegen VfL Bochum - FAZ",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGtLVHJFLU12dGNSMVRwRjdJZFkzMmZJa0dhOU13M01PWktmaXhwVFJsT3RkZGdoaXZUWUhranRLOWwyR3NUU0hlaUh2b2FEVTVjSzJhN093TFNBUmdMYUIzWjVicnk4MEJ2ZGFIRjhMaEtMa3lGMlZQV053NG82cGJ1ZlZiczFENDU3VkdGd1g2OS1mR3RJU1JPMFQzbEd0X0FiYnRCWExHcnZsbGxnT191dy01OGlPUFZIeTBKcjBLQmdMeUE?oc=5",
+    "summary": "Zweite Bundesliga: FC St. Pauli gewinnt 2:0 gegen VfL Bochum&nbsp;&nbsp;FAZ",
+    "published": "2026-11-21T21:35:10+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "8aaa57cf1b198359",
+    "title": "Liveticker 2. Bundesliga: St. Pauli gewinnt gegen Bochum dank Blitzstart – 2:0 - T-Online",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQZmx4U2pTYlEzOXMyV2FvbE5rNlpNdjF5WFhlZ2xnZTc0RG5YbWFKc2ZKY2REeXdLVWU4dXZLOFVPX0g5MF94RHJtTG5ZS0VhREM2NlRfczdtZWlpRW1kUFhIbDBMNVdIS09JdDZvcHQxTzVwMHowWDNpRF9vWW9wYUpNdGhvcFlhVzV5ZnZKWm5kSEtRUXcxWTRWMFJ1UWpKN29Ob0JKc013eEhhRUlyU1l0ZDBWV1VIMEpEWlR6VUMxSXVZaGh1bElkelRwel9RYTZUYl82allHcE9jbjBDYXBnLUxzOC1meHpB?oc=5",
+    "summary": "Liveticker 2. Bundesliga: St. Pauli gewinnt gegen Bochum dank Blitzstart – 2:0&nbsp;&nbsp;T-Online",
+    "published": "2026-11-21T21:34:56+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "40d51caaa373a4d5",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - WELT",
+    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUTlhVW1IWTBRaHlnNFRfVnVMMXYwM3pqT1lUeUtfN1d3dGtlM1NFSW9lSl9HcjRQUkxaalhHRm5KY3E3WjVNVXlZel9yOWZSQ0o1Ymtrd1ZjYjhhYUs2Q2FDZmdIZjhsOXFhSE1PYXFTamVRWjdTR0lDRS0xWGxsY0xER2M4QlBxbHFyTWtmN0hHS2xuNUVQX21ITnk1MmxiTDNUbkxBVGVZdDRBMnJJVExDMUdsNnV0bkVwcXN2TUppY0U?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;WELT",
+    "published": "2026-11-21T21:34:06+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "46c8c7c4ee92cca4",
+    "title": "VfL kassiert zwei Blitz-Treffer: St. Pauli siegt schlechte Stimmung weg - n-tv.de",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX0h3WkFVQ3F2cjZRaWtxWDUtNEVENmVYSUx3UnNZdGNHamVSM01kUXBVbkpmclpIazRvRlNUbHpKcUhNUGJqOWxGX1NBZzZhUldHb2lRbHZTTGhLb2h4TU1PNndoMnlId01uUFllbjR3M0hvYV9kTW5QSXJoR2pWY1Y0UWFnVXU1bDM4empkeHBFZw?oc=5",
+    "summary": "VfL kassiert zwei Blitz-Treffer: St. Pauli siegt schlechte Stimmung weg&nbsp;&nbsp;n-tv.de",
+    "published": "2026-11-21T21:32:50+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "ac4104d6c70d8d40",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Tageblatt",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPOGNMX25OTlktQkI1RXVRX3dTbGdkN2k2TTZoNjJJX2ppRmxndlRUNC1nckZDTXdRZnNyRlQ4U24zU1otU3ltUXVIMkxsQndISEhhTjZNSWl1Qk5XQnNTY0lhM2hOYU9sWEdRYmRITmJkXzEzZHF2Z3FHV0sxSFloNGJyTjdKUjNHRTNteEJSSlNrZ0JmOUEwQ05YR0Z3dw?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Tageblatt",
+    "published": "2026-11-21T21:32:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "ea9cd76d19ebd75b",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Onetz",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWFRVOF9nVXptYkxqUjhQcU5HV1VoTmM2RGR4dXdycVU3TXZGOEtuc2k2aFRDNnhiaFJ2NkNVZ0pjTy1KeUlMMUhJTHpNOU9EcDdqWGM5Wmo2ZDNLekJyLU5aSXMwLUJxQXg2aHNGaGI2ck1vWUlJeGlWdUtkQ1BJdjNSQzVpX3pQcFJSa0R6WXVOcnZS?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Onetz",
+    "published": "2026-11-21T21:31:15+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "09154d301b646c1d",
+    "title": "Dop­pel­ter Blitz­start: St. Pauli schlägt Bo­chum 2:0 - Die Rheinpfalz",
+    "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOT2wxTGdOZTdxNERpM2pWeEVjQjh3ZkZ4NmJ4NFZIbUxNVW9QVW9GMXdxdkRPRkRLbWE5VGFzRmpiZllUbnp4eEotbUFZTjFjUmNzZHhZWUdVN0swMC1LY2hJanFlTXd2aXFOak1tdWw4QkxFejA4cTY1bUREVElWYzR0VVI0RUZtNVFzX19MdjZ3RGxKZ29rcmRKOGp2V01KNlBVdTRmWVNrV0RMczFvVGF5SHpTOXRWMWdXNl95UV9mOFpUS09VZEp2YW1fbGc?oc=5",
+    "summary": "Dop­pel­ter Blitz­start: St. Pauli schlägt Bo­chum 2:0&nbsp;&nbsp;Die Rheinpfalz",
+    "published": "2026-11-21T21:31:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "b9a3807236fa456a",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Zwei Bundesliga - Nachrichten und Aktuelles - Rhein-Neckar-Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNZ0JBd1Z4REZjMmRUc1NwQzdTc3pNMjlaUDh0U3UyWENEQ3J5YnZ0dGtnWlNtMld1QkhOVnhOczRreTJjcVhZZkpnYU9WWGRjNUVWb0pTTmJySkFnYjRyOXQyWlNCY1Y1Q2c1Y0RYcGxWOXROdEhHZGMta1RZUk5FbVhVeUtlSUw3WjR5MW9ZZXZVSkZ0YUV2MXBiSDN5ODBpY2dqRnZjVVN0SC0tSU05elVJaE1KU0FxM3Jubll3dVRDMXRRQlV2OTFhQjN4Nlc0NHlwejZibGVWWHdmYVRRb0F3cGdBOHloV0dF?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Zwei Bundesliga - Nachrichten und Aktuelles&nbsp;&nbsp;Rhein-Neckar-Zeitung",
+    "published": "2026-11-21T21:31:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "a113f0a8dea313f2",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Tagesspiegel",
+    "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPR09JRDg5ZEMyQzQtZmZzaGNrWWVlRmFUSWkwMEd0OUJJbDBscTVhZU9GRlJEUlktR2JiWF9SWThrMnVfX2dzRjhEVjhib2xxNm9ITUU2OXEtRl8xbU9zd3FLOURaZDBIbUhTMnpDWmx0VDZUamFvOWMwYV94OWNtalBHTkpDbkZOQ3JSdzFBX29Sc0w1VVdLQmllbTRhOU5Wdi1xaFdZeVI3aGRfeGJvbXdCUXR4TkgzRXlFZ0t3?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Tagesspiegel",
+    "published": "2026-11-21T21:30:46+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "b43825672736f72a",
+    "title": "2. Fußball-Bundesliga - Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Sport - SZ.de - SZ.de",
+    "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPT3NJc2FTSVRWWldwd2Z2U1JJUU9RWFZWNFFzeWt1MEZfY2V5cjM3bEtzV0FaQU4xWmkxUGwyNnJzNWVVdFM5aHRBNmxLbkE2LW1BYkxocDM0YXVaVHFHc3hHZ3I0emphZ1R4bFRfOFRheE0ydnJJR0JaRkU4dWJLYm9qT1BpWkI5cWRQSldzVDZQYTlkOXdlUXlCRll5dVZiQ1gzVkE1RUViLUJmWkZCeFJSSVhwcU5DZG9DemVlVjBEMi1HUFhKNWswdm9mWmI5ZHQ5bTl2M0FMTldLeWxELUZ3SGVSaDVaa1E?oc=5",
+    "summary": "2. Fußball-Bundesliga - Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Sport - SZ.de&nbsp;&nbsp;SZ.de",
+    "published": "2026-11-21T21:29:42+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "19c397e5d85fd150",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - STERN.de",
+    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZHJici1oMGUtcGZqbDdfeHRycy1nMnR3ZDFmOFJxMnpVcm9GMmQ2ZW93ZHBQUnhUbGNYOU5LcUR2X0d1bDgzUUtGUTJmOG1YZDNoOXJJM29xaUswb2pvRUgybTlkSnpRYmgxbWowYWZNLVVJZFp1bXNsT0MxWHpHZHdkajlkcTdjMWMycVM5X2xNdDd0c21qQUlRTU5BQVUtaDd5WHJuRWlwM3VoNTlsSHFwV0pkanN3Sk1aa3pDSWoxYk1fV3U1ajA2UU9RLW54Y2dvb2FEZkJNVy1WY3pQXzVIMVVmYWZkbDAweXhvWTc?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;STERN.de",
+    "published": "2026-11-21T21:29:42+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "51d5b0ff69f14914",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - DIE ZEIT",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmFyd2oweG5XOWM4V1JXSHNxV1c3cG11Tko5QVpKOTdHVU9pTnZGN3FzQ2w3SUNqUlFVUWsybDJDY2J3Y1RVeFRKM1k1U2tTQkZwVEhuYlhoakE3X0tDa0lpY0VMRzloa1FqTklwNGg5YjRHVnR4TnFGNVlzTnRWQnZDZXhmNEZuQXZYbEZ3?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;DIE ZEIT",
+    "published": "2026-11-21T21:29:42+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "61021b7ba294f6c9",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Mindener Tageblatt",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOelZZRXRmYUV6Z0J1Zm9wRVh3LWdZczNZaTZ2aWNwYmNveGNmUTE1S3VPb05zR0FYVHJMN245b0F2Q0M4dVZNS2k5NTZTS0ptczlCdGdHQWMzdjhLSEt5UFg2NG1tUko0blJPVzhUTV9WQ3FCM0pUX0ZuVmt0ODFkanlXQ3VtS3h3dHhxTHRRNXdmLW96cmtheGdyWGZBUQ?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Mindener Tageblatt",
+    "published": "2026-11-21T21:29:42+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "38eca1213c1cf0c8",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Neue Westfälische",
+    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxONjdMcDAtYW9fcHJ1RkpYZ3NKVGszR04zM3BGcUhCbWI1Q21raHBrQ2I5c2k3V0pvUGZpSThkMm1icDc5SUdYYldRRlpKZG55Z1VLcnJXWXQ3Nk5DN0Z2TDRsbF84eDl0aElhbDdSNmZkM04yUnkwS2xwUG1xajljUE1vcERseEc1d0ZTQUxXaS1FQXJ2V3ZRSU9vZ25JXzQ?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Neue Westfälische",
+    "published": "2026-11-21T21:29:42+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "41d443948fa46feb",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Saarbrücker Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdTB1V2lQUkUxUmdPQ0pjeTZPaVE4U1NmS19MZWkwQmtsYkp5Y2lGSUNDaGZ0c1ZvSTMtdEdzRm05NXJUbHVIY1RuNGpNaXhyNXVKbHdpeWpyck1kRDh6bTY2QnRfVk1hdTNNbXdXUlpSR0ZpemRraDRXOVdDWHBtRWdpd1pUQjkyMUxwdWVEbUEzY1hwSDY3Zy1aUW5TZS1aUENFZmc0VHQxSmotUzloR1RrMzZmWG5NSUkySld2YWs1dGlVdmM1MjhHdnQ?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Saarbrücker Zeitung",
+    "published": "2026-11-21T21:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "255796d655c77b3d",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Saarbrücker Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRktNNjFFNVZmODIxaERjQ0dCY3Z6R3pOcjZTZ0NaYUktZ3RySGx3dkdmODJWY1ZIS3FzZHhEVk5wSFZHbEktR3BRbGZydUtTRjY3cUNuOWhvQUY2WFJwc3EzZk1VbEptbGZEOGlQNGFtMjB0enJYSmNGWXU0OGJVYU5ZbXU5dUlwZklibGZaMGRDSUxsN0YzSWQ5QmV1Tk5rQWpuRVVla2NqRm1mUzV3VlZmTG1aOGVTQWsxUnphbXRuLW1WX3JFM25VRkg?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Saarbrücker Zeitung",
+    "published": "2026-11-21T21:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "95e82530d1a6e41d",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - noz.de",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaTZrOW13OUhQbHFyQUJ6eXE1OGpPSE5qR0JMRDdhTUQtc1ZZZ3pfVzg3b1haM0xzTjRPb0gzcmZMS1FBVEk4RUNfaUViVGRWdDNSX29ZVXhnbTQwNldGSjNlZ241WVp5Q2VqTE5hYWN0cFBEZlkwYjBLMVRZYi1Wb3FQa0stdThJbS1ZY1dfMEhzWXRrV2duSFBPa1RhZGludnc?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;noz.de",
+    "published": "2026-11-21T21:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "273832f28a26a035",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Westdeutsche Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUERPOFVqUlpjVjhVT0JlTHRyWW4zdFdpMTFheWpXQzBaeVFwc2pmdndTOEJXb1R0SGhrNlNuRms2bmQ3N09uLXpDUTNGTnQxTnlNMkY4UDJxQTNkc21iUUpINnRfaTRSQmNhVFNVRjlrTWtYOWZGQ01ENnhRYmQ5V0JVMWdyQ1pEOFQyQWNB?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Westdeutsche Zeitung",
+    "published": "2026-11-21T21:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "927a492d9d03cad7",
+    "title": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Volksfreund",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNUTNQMkI4bEptMFJwbkxKdVhnSWdzcS1FZXJsUG5VWGNoYTFZM3ltSWZ0cEtTTTE5MkZZSGVDNXIydml2c2x0SE53UVBPNUM2WEtId01QQk1jMG9MbjdlejlJLUVNN3ZyWWlfdTZnOTF5VmpCNUpIRnZVQW8zX3M2ejFWbi1VN3NoVHhoZ2N1YXZjX3BGdnA3UFVoS1dJYzl4SXZzd0l0N01iZ1pVRFlPUFdjMnI4ODRLS0E?oc=5",
+    "summary": "2. Fußball-Bundesliga: Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Volksfreund",
+    "published": "2026-11-21T21:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "6076cdd24425ac0e",
+    "title": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0 - Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUE9BMmRweDNheDhjM0FabGx4azJfWkowbnBYbmtmZ1lnU0dXWEo5MHNaZkRpSTViczhZOE5kTFVtRDVKbmNuWU9xVndHd1VxcG1tX2h4M3QtYjdzakhpd3hmY2FMZFBHdEpkV2JOZzhBSzRpWTVhNi1lT0lubEtadU5pZktEQUJqeDdlbGtFa0lkSnhBa2NsN1hWYTRoSkF6MXgxbVVtVnE2UmppYVBiZXZ0eWRsMmo5cXdjZmZBWGVuWEJwR1BHQ2VBSG4?oc=5",
+    "summary": "Doppelter Blitzstart: St. Pauli schlägt Bochum 2:0&nbsp;&nbsp;Allgemeine Zeitung",
+    "published": "2026-11-21T21:29:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "dbbe93dfad04aeb4",
+    "title": "2:0 gegen Bochum! St. Pauli stoppt den Abwärtstrend - StPauli24",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOU1dUXzdnOFg4X3p6dEJDMGZCSFdVVF9Tck9PUm5QV3V4Wkh4WDVkM1IzMkt1X0k3RG1VUmhReXNNQWI0LXBnMFZxQ1YtVDVwa3haelNodEhsWnpiWElzVE1Ya1owRVZ5SS1xM2Y1THFoVUJ1NmdvY09fUmc1ZnlGRkdwLXNab1loemxQa0Ftb3hUd181M2c?oc=5",
+    "summary": "2:0 gegen Bochum! St. Pauli stoppt den Abwärtstrend&nbsp;&nbsp;StPauli24",
+    "published": "2026-11-21T21:27:53+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "2409485d4a03f8bc",
+    "title": "FC St. Pauli – VfL Bochum: Der Liveticker zum Nachlesen - MOPO",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdFlSQ2FsNkZhdUxGSTZ6eC1semRITE9EaWthVElpQmVKSW8xRUU4ejRXb011TWgtb2RobVpiQWRPaXRBRkxNSlBxQjRkQm14eUxKYy1DTjNMaEZQYjBXbW1jbW5FUnYwN01icTd5cF9xczlWU3B2akdjb254YlQ0QzZPX3pHZ0FUMVJmalU0NWNzRU5qNkFxaS1vcm1IQ2E2Q0xqNWY1TGJuYjFmSEZtSnNaUWxoSS0tVXpUVDRrRks0ampPZTdVX2ZR?oc=5",
+    "summary": "FC St. Pauli – VfL Bochum: Der Liveticker zum Nachlesen&nbsp;&nbsp;MOPO",
+    "published": "2026-11-21T21:27:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "f78e2d197a77b0c5",
+    "title": "Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE93a2dscHZXemlnMVd6b09GZmdFVU9scEhudGhyYldFcnZjYW1felQxaWUyLUFGUjdGVHdpaG9ValBpbk5mbEJ4SXBpbHI1OUdfc0d0V2NvYms3RXZtTll1bmY2b05YaVZITU5zV1pQMUI2VXJ2VzE2OE9qaFhxMlU?oc=5",
+    "summary": "Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg&nbsp;&nbsp;Kicker",
+    "published": "2026-11-21T21:25:44+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "18a2269c0734fca6",
+    "title": "Blitz-Tore in jeder Halbzeit: St. Pauli schlägt Bochum | 2. Bundesliga - T-Online",
+    "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxORVE1RzJRZWtxaVdnMFJQOUxsb1N4V21Td2c2bUM5NGdqUENDaDRxQ0ViSWdIZDYwaVVLdFYzRUxDX2VrUGVkNWhhZ0JPRDRjd3doZ2ZUbzlQU011emlabFZZaGRWQl9JNlVPOWt4bThSLXdEa1k4cHJzWHpnOEhDYWx2M0t4MFRWZ3MwRmJsMjdSWTd5cWVsbTI5QzU0clcyM2pJTVBNY3R6aUJ6aUcwaHRTRlV6OFZnQ3NDbXpfbXN1ajEtNGc?oc=5",
+    "summary": "Blitz-Tore in jeder Halbzeit: St. Pauli schlägt Bochum | 2. Bundesliga&nbsp;&nbsp;T-Online",
+    "published": "2026-11-21T21:25:24+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "d3b9aca3feac38e7",
+    "title": "Negativserie beendet: St. Paulis Blitzstarter schlagen Bochum - SPORT1",
+    "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNmlZaFBLODk1dVpzY2VLRGxzYWF3R3lkVHF6NUgyQnhCcVBkSXZBOUZKYjhqT2JOTGdIMGV5aXhIbTFGcXBiV1E1dFBLVW5fbnk1QmlGeENCMk1QQzdSMWJpanhwSWUyTVJRUjYxaHVSRndnTkk2bWJxNWFDMUYyYm9nRXpfYjlWUjROTUQ5czlxbmNCakxoUTJjWGVabG9DMFVCTWlEMEJPWV9hVmNZMkJHa19OZnc?oc=5",
+    "summary": "Negativserie beendet: St. Paulis Blitzstarter schlagen Bochum&nbsp;&nbsp;SPORT1",
+    "published": "2026-11-21T21:25:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "c5f0837abe3e434f",
+    "title": "VfL Bochum wird beim FC St. Pauli eiskalt erwischt: Ticker zum Nachlesen - WAZ | Westdeutsche Allgemeine Zeitung",
+    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOGRDQ3BUcW9BMTZ3b2MwV3UxNlg4NmhfaXJZa0wwZklyMDJfajNiV0lmWWVzNklyaUViTmpsT1JWRjV0aVMzWXBLVkJBNjA2MHJKOGlrdmtrVGc5SWh5eHlieDQ0aXY0MzNYWnJZMFZoNHFzUHp5Uk92WGx5MjJYRUh5OW85ZVdLU0htdFA5d1BqTlRqSlVtOC1xTHJjTTVyYWJ5TGE1SUpnaDNQclBrOEZwREphQjZVbi1Fb09aQ3JKTkxhSjBV?oc=5",
+    "summary": "VfL Bochum wird beim FC St. Pauli eiskalt erwischt: Ticker zum Nachlesen&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
+    "published": "2026-11-21T21:25:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "11dde4788ee320a1",
+    "title": "2. Bundesliga - FC St. Pauli 2-0 VfL Bochum 1848 - OneFootball",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGc4MzN3d1daWGQ2Y2QtV245R3k3UjFOVmJTVWJjZzFXSDhCVmd3Zy1sbGJIdjA3aUxhQkt5QmdCT1ctejFZS0ZxZmwtQjQ4MzZfWFdabG9aR2x3ZlV5NGR0ZDB2UG80SkJyb3FoVW5lZGk2cnYtLXY1TmlDRmVzVDF2OW9OaFg5Q1YwRE94RQ?oc=5",
+    "summary": "2. Bundesliga - FC St. Pauli 2-0 VfL Bochum 1848&nbsp;&nbsp;OneFootball",
+    "published": "2026-11-21T21:16:20+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "eb60ec04a3e72aaa",
+    "title": "St. Pauli - Bochum - FC St. Pauli",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YdUxTVVVsQ0Vsb2tDX2RyRDNyM1VWMDYxc25oeE9pekxGMm9peWdlc1Q2UXp6RHlCLVJhNjR4VTlyaW9yS1liZTZkZ3RBRjdFbkxB?oc=5",
+    "summary": "St. Pauli - Bochum&nbsp;&nbsp;FC St. Pauli",
+    "published": "2026-11-21T20:49:41+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "0c860833a5305d7c",
+    "title": "ST. PAULI 2:0 Bochum - Ando (47') - Sky.de",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbFZGYzZHV09yemNTaTRCbHR5ZzZGNUtfTmFnanRNWktvRFk1N09NY19qeFQ1TC1paW9vSjNVVV9JSGJrV0NJblVPUnRHWVNuMXRjS3g0dUZUYXB1OGk5NjBBUm12bkdXNXVJUjBOMmkwalVvblFiMmd3QnZJNDVPb1ZiU3BKZzA?oc=5",
+    "summary": "ST. PAULI 2:0 Bochum - Ando (47')&nbsp;&nbsp;Sky.de",
+    "published": "2026-11-21T20:45:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "2826bbd0e559f69c",
+    "title": "FC St. Pauli gegen VfL Bochum jetzt live im TV und Stream: Hier sehen Sie die 2. Bundesliga - Frankfurter Rundschau",
+    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMkl2OFY0YjllNUNhalhPdlpqRFZhTVNpckpwQWFHVTJtRllXN3pKU1dNazNydllfX25jWHpZeDJkREtEOURaUmlRRC1Cb1kzTFdiODBPeEdIWDhMbGprS3JkY0tNaXd3ZGRoM0xKeVdkdnU0TERmcW1SSzJsUW93a0lFdER2SEZyN2s2MnRTZXVYQUlSVFlwOVVEM3Z0azNEclRNNkVKQmgwbjA3VVo5dWZhTVpIQm9FTkt0VUktRExDaWpk?oc=5",
+    "summary": "FC St. Pauli gegen VfL Bochum jetzt live im TV und Stream: Hier sehen Sie die 2. Bundesliga&nbsp;&nbsp;Frankfurter Rundschau",
+    "published": "2026-11-21T20:38:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
     "id": "881147e9b86bb16e",
     "title": "FC St. Pauli – VfL Bochum: Liveticker zum Spiel der 2. Bundesliga - MOPO",
     "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS0lJZEUtZ3RIbWxxTUgtSU5PTHJkLVF5enNlbHM2ZXRFU1VxV2VVUldwS2kxZ19qQmlyLUhrS2xVa1Y3ckxsTTdOUi1melZ2bU1UOXRNZDZaOXpFWlRkRjdsSmFLRHN4U0E4SndsUUFLRUtGTjA4ZjJHSlBNX0lPVlJkb0c1bmdrQTlJWDFWQVk5MUZhMTQyakZ6N0RiRjJHbUYxSGhfWDdlVUc3MnNuag?oc=5",
@@ -10,6 +630,16 @@
     "first_seen": "2026-11-21T20:46:06.245296+00:00"
   },
   {
+    "id": "5337a22555b3aea3",
+    "title": "FC St. Pauli – VfL Bochum: Liveticker zum Spiel der 2. Bundesliga - MOPO",
+    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPWVQ4NFBfM0t0QVpqdU9pUHdpRTVCODNpb2VDSnpqb185NFg1UzFoOGxoODFSampEMUxyeENiNFFha2Q4WHdXWjM5YTM4UHlKWHZKNkxlczE0U0RQZVo0aHlfbDRZTlYtYXNQMmNJQ2RqOGFjNjZLMDctR1g5ek5KU1JYVnh1REtRTG1iU0ExLVlNUTZzbmdpR0JnY3hYeV9RaXdfa2Z3MmFJY0NSenpoQjZiNTdjMFVMNlE?oc=5",
+    "summary": "FC St. Pauli – VfL Bochum: Liveticker zum Spiel der 2. Bundesliga&nbsp;&nbsp;MOPO",
+    "published": "2026-11-21T20:36:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
     "id": "93b65383c691c5fe",
     "title": "Spielstatistik | PS Karlsruhe Lions - VfL SparkassenStars Bochum | 11. Spieltag | ProA 2026/27 - Kicker",
     "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2a3QxcFFPMFplaG80bEhYb3RMYzFLMEYyRnVUZGFLMWpfOHdSdV9Nc1E5ZEZMdXR5a0RTbldDNTFGMVlSbWdTRUV4NldXc19Ha0J1RTJoUHBuSWNxemR0MENJWEI5REd4UTVrd2ZhVHZ0emVmd2J4NmUxUW5PWk0?oc=5",
@@ -18,6 +648,26 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-11-21T20:46:06.245296+00:00"
+  },
+  {
+    "id": "fdb5e6346bf30032",
+    "title": "Braunschweig siegt in Nürnberg: Wolfsburg hält Anschluss an die Aufstiegsplätze – Bochum verliert - RP Online",
+    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOeVMySFNMcHNISllCM0NBckZBS1pNaWdzVFNvcld1QTZOWWJUaVdXZ1FsVVNaTHJnYV9ORGxweXRuQUJjSzg2Z1hIYVVOYzVWbU44THRTUnFBZm5VT2pfMXM5RGNNc0xVZGJ5WGhHVV9TSW1wRGNISHdPRVNmR1ExdXgtbWZ4Q3NoS3ZIMUhVcG1wR0h6d3c3WnNtM0FIR1F3MXlOS2FSMDZaYktKQXRKT2FPQ24xenkwYVViUjd4RmZfNklaamVGNQ?oc=5",
+    "summary": "Braunschweig siegt in Nürnberg: Wolfsburg hält Anschluss an die Aufstiegsplätze – Bochum verliert&nbsp;&nbsp;RP Online",
+    "published": "2026-11-21T20:31:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
+    "id": "fecbdd779a2d8da3",
+    "title": "Spielstatistik | FC St. Pauli - VfL Bochum | 12. Spieltag | 2. Bundesliga 2026/27 - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNbFN3NTlTUFBjYTF5dTBobjB4MVlORGtGdDJGZU9RR1pSS215dGt1YTJnZk5WaHdSX0Qwc0xza25XdHpIY0RMeG5MR05rUVBxUjRpbEVVWmFtVDA1YVpQYlZlelplMm5qSmxWanBEOEVFRThjTHhoQUNwdnF4anB6S0Y5U3k?oc=5",
+    "summary": "Spielstatistik | FC St. Pauli - VfL Bochum | 12. Spieltag | 2. Bundesliga 2026/27&nbsp;&nbsp;Kicker",
+    "published": "2026-11-21T20:05:22+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
   },
   {
     "id": "7ad87b682ecd8966",
@@ -38,6 +688,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-11-21T20:46:06.245296+00:00"
+  },
+  {
+    "id": "c9f5adb30a2a696e",
+    "title": "Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg - Kicker",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8yMWZieWEyTnItRGgxaGJjQVVFOU5rVmZzQ2xEbkVPWkVmdUI3MFN3YWdUZjR6S2l3MlYzcTJHdTJzRnpqRkYxR3JIUHFPei1LWkdjN1JSUGFiOTZlYzgyWm5vS2JjTnIyemhtcm5RTmlodm1pX05KZHV4Ql9hYzA?oc=5",
+    "summary": "Ein früher Treffer in jeder Hälfte: St. Pauli holt gegen Bochum den dritten Saisonsieg&nbsp;&nbsp;Kicker",
+    "published": "2026-11-21T19:21:14+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
   },
   {
     "id": "5019d66a3837bb9b",
@@ -108,6 +768,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-11-21T20:46:06.245296+00:00"
+  },
+  {
+    "id": "657464d7494c3abb",
+    "title": "Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli - StPauli24",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNalI3YnhhV3lKQlk2UEplNlJvdDFYOUEzTnpsYTFTNFZaQTgwRmoyM1NiZFpYVjZNTXppOWdyaTU3LThkZldzQmFsQmZTeGxwTGtWNU5BN29wTm1vZFRVdk1DOEJtM1hSQ1dnaEZ4Q0xyMEZhRUxlOW5idUdiWkhISTNYMHNNR1cyZWZGQVV3TWRweGpwdGZlRVNWUTU4T3lmMzFJ?oc=5",
+    "summary": "Mit dieser Startelf beginnt Bochum im Topspiel bei St. Pauli&nbsp;&nbsp;StPauli24",
+    "published": "2026-11-21T18:32:27+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
   },
   {
     "id": "91251ab0a3027e60",
@@ -220,6 +890,16 @@
     "first_seen": "2026-11-21T20:46:06.245296+00:00"
   },
   {
+    "id": "7c4498bd14a9ed7e",
+    "title": "U19 verliert vorentscheidendes Duell - Borussia Mönchengladbach",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9rSTBQOHN0bk1ESDNmbGdrMzZ4d0JBNXNFWUxYWTh1RkNTU1FhLWtlRzFaanhvR0RhbXlUVkdlNGNQczdGWDhKMGdXR1B5X0tiNmRfX2VhVm9ycU5zOHVTSld5VXlIbVpNcktRSGdhVDBqUjQ?oc=5",
+    "summary": "U19 verliert vorentscheidendes Duell&nbsp;&nbsp;Borussia Mönchengladbach",
+    "published": "2026-11-21T14:15:34+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
+  },
+  {
     "id": "edc94c845506d4d1",
     "title": "Deutliche Ansage: Darum erwartet St. Pauli gegen Bochum ein Schicksalsspiel - StPauli24",
     "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTmhaSm5vSWNGSzRidTRmNWRMaHlpUW9KZVZtOGQzQ2tnc0VBU2NjdzdxOWJOMjZrbXdKTTdPbFBya2p2R3JSeDlVb2VmbTRXalN2WUJWcmtXenpDNFFxWWtuVGVVbnZ6QnQ5T2dQUG9hc0lCN1Nwa2Q4dTFKZlVTOXQ1WW9hcGdXOXVEN204emxJY2tUVWkxdDBtUFRkTS14bksyYVlfc2V4WHpNRU85TEc4aHNhQQ?oc=5",
@@ -248,6 +928,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-11-21T20:46:06.245296+00:00"
+  },
+  {
+    "id": "8f4e70fb982f255f",
+    "title": "Hier läuft St. Pauli gegen Bochum heute im Free-TV und Stream - sport.de",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPNHJLTmdhbE5MZzZZbDBhMENjNjlDdWFMYk9mNmdjR1RwWjN2eVVoeGhkRUMxT2YtZFhrZndNeFk1blZZdWcwWVgyd1N5VkRSMmxvaDdYNDF3Q09YZE1UMnNsaU9FM0Y3RG4tWTZaNmtZcWhXZWxmUFUwSGQ4N1BaVF90VVNTcGZXMGxGbWgwVTkyT2QtTkMzMHZUZE9wSlZj?oc=5",
+    "summary": "Hier läuft St. Pauli gegen Bochum heute im Free-TV und Stream&nbsp;&nbsp;sport.de",
+    "published": "2026-11-21T13:27:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
   },
   {
     "id": "61982dfc031fadcf",
@@ -358,6 +1048,16 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-11-21T13:14:17.720700+00:00"
+  },
+  {
+    "id": "08e6c1052d526e94",
+    "title": "St. Pauli-Kapitän zieht Bochum-Fazit nach „extrem wichtigem“ Sieg - StPauli24",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOTDU1LUM1ZlVHZ2JQUWk0TkhlWkd4MWF5UmM1WTI5cy15NFFzYVB2enNrcVRGN2xKOW54LXJMcWJwOWwzMXdnMGg5TUU2RVZCeVI3MXpaNTZ4LWdZVnB1akJOVmxGMWpmOU9kZnlhX2xSN3J1TlM0YVpKVVYyQ1N5VFFCX1ByYnpFUEs4enc1a2ptYkFPaDVIQXNPdURoWmYwczJPdkhnNVA?oc=5",
+    "summary": "St. Pauli-Kapitän zieht Bochum-Fazit nach „extrem wichtigem“ Sieg&nbsp;&nbsp;StPauli24",
+    "published": "2026-11-21T07:58:00+00:00",
+    "source": "Google News: Bochum",
+    "kind": "suche",
+    "first_seen": "2026-11-22T13:03:44.369630+00:00"
   },
   {
     "id": "6c39420dc2301a86",
@@ -498,705 +1198,5 @@
     "source": "Google News: Bochum",
     "kind": "suche",
     "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "2efa032400203604",
-    "title": "Live hören: 1. FC Nürnberg gegen VfL Bochum - 2. Bundesliga - sportschau.de",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQR05fQjVpUjB1SG5PNVRTb3J1MmxSYm55WlFnNmtUZ0NuZENxMXQwTDBmeDZsdUxsVVNvN3ZfcmpxUWI2VjRacGpaQUp3Wmc5S1E1TEhuZDhXVXFrcllzN050Zl92MUdzdmx4Y3NzS21QbUotMEI3UzhtTW1Nczhnb1A1NkFPT0JvZXEzblM0ZGpyV2t2ZlRuWVo4RGwtU2oyN1lhRkZfZG5kYUR5Wk5SNy15TE5GT1g4dzRrSXctX21TZ2JmdHhPajJtMA?oc=5",
-    "summary": "Live hören: 1. FC Nürnberg gegen VfL Bochum - 2. Bundesliga&nbsp;&nbsp;sportschau.de",
-    "published": "2026-11-20T23:02:57+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "38cf49331bce948b",
-    "title": "Bezirksligist blamiert sich, Oberligist raus: Weitere Überraschungen im Bochumer Kreispokal - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOdFI4VWpRaVBoeVhreHk3S3U0bVl5YWlQT01MZDZHV2txMnlGVzJRTUE5RlM5dnJ2ek4zOUVMcmdySlVTNUx4SVhwVk5DVl8xZk02TmVVd3hiYnNjeWlBQ0tmX3NsYXczWVVfdWZlU1BrQTM1NnhPSW1ZU013MkhoOXhlNkIzZWI5dzBJQmxMZzkxUHRHdm9SNmI5TnFGUE5oZ3EteUVyN0ZRZkt4bEdPMWZKSlpGUHJ5dVNiYTdZa0lSeHJqQ1B1bUhPXzNxUTY0S0Z2U0p5dV9JbXUxX2ZPRmkzak9QUW1sZ1Nv?oc=5",
-    "summary": "Bezirksligist blamiert sich, Oberligist raus: Weitere Überraschungen im Bochumer Kreispokal&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T21:38:06+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "9e1d34c9002375c7",
-    "title": "SC Wiedenbrück 2000 - VfL Bochum 1848 II (U23): Pick-Treffer sichert Last-Minute-Remis - Regionalliga West - WELT",
-    "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxPcjBVVnFmNXJLbE05SnRBQUgzSzdmR2V3U0lOZGh2ZTAwT09XNTFkMzNKMEJoSncxR2VuM3owRTBxdjF4RzliSHZoaDhmMEFNZnA0NUtDdExDT2Fab1FJRXBSLXVaNXBFWGVFZnVsY1FMa1BwQVJpTUE1bXlsbVVYT0o3ZjR6WTczWHJFRHBKVWtqUmppOU5zeThQY0pST0hrUTlJZExKLXJWd1FTTkpUbjlsX0xWNnVqR1R3aW1rWmZMaWVXSUxEeXZDcExMeEE2X1dBVFVuRkJyUXg5amp0T1F3c252ZmIzQ1lWVEpkYmMwT1BCdGtILTRfZG5DV1lsLU5PcE5KX0NVbmx3YWR6aWw5SXVKQzFJMkhMbXFnUklNNkd2MEtTTnRnVQ?oc=5",
-    "summary": "SC Wiedenbrück 2000 - VfL Bochum 1848 II (U23): Pick-Treffer sichert Last-Minute-Remis - Regionalliga West&nbsp;&nbsp;WELT",
-    "published": "2026-11-20T21:33:45+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "4f0278fc9640e357",
-    "title": "Video | SC Wiedenbrück - VfL Bochum II 1:1 | 17. Spieltag | Regionalliga West 2026/27 - Kicker",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQWHpNWlgxZV9QUmdSMlM3ejJBTEs3eVAyTTMtNDFBNzFLRWhNajJYdS01dUs2eTdDVXREZ01nOHZ1Y0ZIdmg5U3RfWEtJSGpuS1hKSkw2OXpGcVZsZlJNcVBGQ1IyWXJFbXpWaFpvR1N1RHhGSjJKMlczSEd3dzd1M201SkFDaFRfRUphX0VDRFlFUzN2MG1Z?oc=5",
-    "summary": "Video | SC Wiedenbrück - VfL Bochum II 1:1 | 17. Spieltag | Regionalliga West 2026/27&nbsp;&nbsp;Kicker",
-    "published": "2026-11-20T21:25:30+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "40f3a483a0e2a9a1",
-    "title": "Kein Sieg beim Kompany-Comeback: Kane und Olise verletzt - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOZm5pSDRpWC1kWU9FbzlGdFZzZWs4WVVKb0dmdnRGLVNkYVIwTUE2WTZzWHpiV0dMUW1QeGg2OGRPeEtUVGFoZk4tTkhSazJmdFlrRDFWeUk4SjJxVUFZWEpBc2dEQU92UmptS2dLRXI0YTh5TDNGRF90V3lGMVRZeUx5d3N0T2huUENQUlVvVFBVd0I1SVROZXR3?oc=5",
-    "summary": "Kein Sieg beim Kompany-Comeback: Kane und Olise verletzt&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T21:23:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "f62a467865d55d2c",
-    "title": "SC Wiedenbrück kassiert in Minute 92 bitteres Gegentor zum 1:1-Endstand - Die Glocke",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUFU1WkNVRFEzaVFDejgxVU9Ic0hrdGF6SWRqWVZRTTBTOTJiNEtXR0tScnFXUTFzdDhhWmtoMUlhYmN5ZnZuZUo1aVNYTnQwSDJZUzZPQjRpbUE0QUtQRHl1S3FLYkpBdTJiR1Vnallxci1xYXlpS0oyZkd1N1Nqd1N3S2tna19iblhORjVMbDdxcl80TEVrS1hMeEdxZ1IzTC0tQ1FTQ2hSTVNQU0FUSlZTOVNkOWo5eHpXMmZGRk8wNGIxSUsxMVk4Smg3TmhvUWZnQUlwWUV4NGQw?oc=5",
-    "summary": "SC Wiedenbrück kassiert in Minute 92 bitteres Gegentor zum 1:1-Endstand&nbsp;&nbsp;Die Glocke",
-    "published": "2026-11-20T21:22:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "8fa094d6bf35be39",
-    "title": "SC Wiedenbrück vs. VfL Bochum II | Regionalliga West by LEAGUES | Video - Kicker",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBuWG5Eb1ZoWmRZU09SMEZiRU54VW41bnNmOS1jNW96Rk5DTWVSdmRNTlJhbFhTd293MWFiQXhPMGlqNXN0ZXJOMnZBaWdqbmxSVy1BQ2VURllzMjNkWlJKSFUyN2ZYcDZEN0N3eWFpQVh1OXBBSXV3?oc=5",
-    "summary": "SC Wiedenbrück vs. VfL Bochum II | Regionalliga West by LEAGUES | Video&nbsp;&nbsp;Kicker",
-    "published": "2026-11-20T21:21:54+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "1722516ecadff342",
-    "title": "VfL Bochum II: Butscher nach Wiedenbrück-Remis - \"Da können die anderen sagen, was sie wollen\" - RevierSport online",
-    "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOa2gweXFOdnJhZVRYeDYzVEFEUEw2QnpQc19VOU5EbWl5Zl8zMHFUSnpWTXl1NVVoTFF4eEUzR1ljdVB1Ql9qWVM0eElhcWpYMFA3NkwwZVc4b2lEVWM2YW50T2ZEeFJUbXMwOUgyVUdBcDV0aVlhaEkyTFR6NXo4dVo5YkFkMXFueDNOVi0wc0o2cWRWcEF2MFdZdlJ4Mkt2c2hvSXBZdEw0WFN2elFndC1HUnFiZjNGcm1yNzhfNlpxLTY4Zkp3NEpERUFYZ1dxWXpnYnRDZ2Y?oc=5",
-    "summary": "VfL Bochum II: Butscher nach Wiedenbrück-Remis - \"Da können die anderen sagen, was sie wollen\"&nbsp;&nbsp;RevierSport online",
-    "published": "2026-11-20T21:09:48+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "65c9293cc6af3bc5",
-    "title": "BVB schlägt Lotte, Wattenscheid rettet Punkt, Bochum II trifft spät - FuPa ⚽️",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTRUUHlWdVNOZTFhbnZOQWpNcEt0UW9ER19pbnRwZW8wYkxIT083NkZxVzJVS0sxQ3VtT1pFOE9GR0hDcUJTLWowSEM5OUtVT2FwSHlVcE15S0Uzc2NIWHJPT2RqVHp4RjY3Y016RE1TdndJeUtFYzhhT3R4NmkzbW84VS01TUZOMkxpeEt3eHZnR1JRQWpaZGNrX0dUdVc4M0Zv?oc=5",
-    "summary": "BVB schlägt Lotte, Wattenscheid rettet Punkt, Bochum II trifft spät&nbsp;&nbsp;FuPa ⚽️",
-    "published": "2026-11-20T20:47:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "813515cf7daf3c22",
-    "title": "Freispruch nach Schädelfund: Warum der Tod von Anita S. aus Bochum ein Rätsel bleibt - DerWesten",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNeHhzYldjWHMyckRXeGRPR2VXUGhfUVJ5SU1NVGg0VXNrMFhtejZ3bmZON1RPYUlNMGFCN2t2cjJOX1RfTmdEakplaTNKZTZiQktqMWtxeXc3OWdXS2hwOWU1T3NRTGNNWGJXUDZhcnJOXzJPR1FoZ3ZCUWphOW1zWW9mU2c4ZWQ3ZmFBZXlXZmhoeFp5YzlnbWZFdzFuV1NN?oc=5",
-    "summary": "Freispruch nach Schädelfund: Warum der Tod von Anita S. aus Bochum ein Rätsel bleibt&nbsp;&nbsp;DerWesten",
-    "published": "2026-11-20T20:32:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "c10fb22a67aea76f",
-    "title": "Wald in Bochum zu Unrecht gerodet? - WDR",
-    "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdEQzZnhZSXMwb1BIZGNnRVJmc2hnOGFKTmFjVmx1anJ4RDBiYzdvd1h5a1JnN3lXWmxueFNFN0M0LXB4TXdNUVhaMUpxZnk3aW1jODh1azlSZXd3cUs3U0UtUms4UGRiMGJTT1JIYXVpRGV3M01VOExNcTgxX0Zmc19NYm1BR0M0MjFOX1E1ZGNRSzUxQnNvcWpJcXRkMmZWXzhrLXA0ZERzSE3SAaoBQVVfeXFMT01RRzVOVWxCNE00MzdTbHRNWjhUSnVCTEhHWmxzRFR3ejBZaGNDTXlRaUtMQ1VraFFjOU16bFUwdUoyU1J4andEYi1MeUl5NHptMmFNS0JoaWE1VWdKbTFJMU5LV1RNN0ZsbXU5YndYbHpvZ1dxRnZjbFdEa2lmanlEYUMtSDlMQTRibkZQZjAwMHNXdVlOZEk5Qlp3aGtuOUp2bS1ZVG1lQUE?oc=5",
-    "summary": "Wald in Bochum zu Unrecht gerodet?&nbsp;&nbsp;WDR",
-    "published": "2026-11-20T19:32:54+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "4c721a3e5d1f0488",
-    "title": "St. Pauli vs. VfL Bochum heute live sehen: Wer zeigt / überträgt das Spiel im TV und Livestream? - SPOX.com",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSTF3V1ZYWTRiUFNXRE5XdGF3UU1aZHhPemxLYVNSd0x5OG10Wk5pdktQOFpkZDZuS0h1RzZSN25PVWdBV0sxYzdnaFpxSWdtZWpCeXlxSTNzOG14UHVhSWtjZlU4VDNqZEpYRXFzNEh6aDlwR1J2bEJXX19vUjAyOThFVXBhYjlyZXFjNkYwRDgzX2hRZkNsamdtQkN4aG9lMlpaRFF1N1dXTS0zRUM0V2NkRWRPeTVTeVVWUm53WTJfd1lmTG9wc2hmV0Q3U1QxWnRhUWZKV3B4TVA2NFM5bkdnQXF4QXM?oc=5",
-    "summary": "St. Pauli vs. VfL Bochum heute live sehen: Wer zeigt / überträgt das Spiel im TV und Livestream?&nbsp;&nbsp;SPOX.com",
-    "published": "2026-11-20T19:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "1c98aaf687e28ff8",
-    "title": "Bochum: Sieben Jahre später keine Lösung für Anita S. - T-Online",
-    "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOeTRYYnB4Y1phZkl1ZHU5M1kwOU1pZ2p4cnVlWFdfbF9NRlJlS2Ixem9zM09CMVhqZTI4VUVJNE1SNUZsS2FPbm5CdnNFNWlIVHFDeW1ZdUkyNDFWb0JCWHRaVHZNc3ROX2cwNF9oYnJKSkhZRENCcXlJV19zYUxqZTRzd29EaUpISW4tM2VvUnpvQ2txLWdtX2JOZ2V3ODdITU4tQktqQWpRUWxWNXp4aVd4U1VOYTJER2FiejNYR3F6WGNUSGNuaTB5YUFBdlJN?oc=5",
-    "summary": "Bochum: Sieben Jahre später keine Lösung für Anita S.&nbsp;&nbsp;T-Online",
-    "published": "2026-11-20T18:57:55+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "679b4705875bc413",
-    "title": "Stich ins Herz - SC Wiedenbrück",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1yNy1rZkQwMm5kd2pPM3JHQjBsT2RGNEJxR0V1TUNTU0NCaDdmSFAxaDZNc1dyV1YwRWU0WUQzcHNlZVpST01GVXJJLUgtNG9DaGRxakpIWDJKTlJ5WWFfNVgyRGhVcjMxY1B6WkNReTB1Zw?oc=5",
-    "summary": "Stich ins Herz&nbsp;&nbsp;SC Wiedenbrück",
-    "published": "2026-11-20T18:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "143a204623b8193b",
-    "title": "Fahrer nimmt kein Bargeld mehr: Tickets für Bus und Bahn bald nur noch mit Karte zahlbar - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQVWd0d3VRRmJITjhycF9pVDlYX3BWXzF5cmZPdUFmNlFKcEJEUEZ5b1pXa3NsQmN0QzFHZXNyWDRyNU41UDRRWFg4Mnc2cWFyODF1SXhESE16ZEk4ZWVjbnYtMzgwa0lxTVRBVlEtZG5Va293MzhGaXdyVklWS0JXNWJZVy1XZU5LeE1JOUYxRTgwRmJITUVKTjVNOVVLMkc1bFJTS3MtWmNGci1JVTg3WTVldGdYeDZGQk80NkVHOXVRZ2I3NWRQV2kzejZxRU5jSkpwZkh3cmJuSWZr?oc=5",
-    "summary": "Fahrer nimmt kein Bargeld mehr: Tickets für Bus und Bahn bald nur noch mit Karte zahlbar&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T18:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "d6d605931be10070",
-    "title": "Trainerdebüt im Livestream: SG Wattenscheid 09 gegen Köln II im Livestream jetzt live - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPNjlJby1rcGUzbUZNTkhtQURjb2Q2X25QeFQ3cWgzTHJsV0dLaHJWNTFMNnBpdVVoUjJRY2xvUEVmVV9tRklvQzJ5N2FwZi1DTlFIRGtHNW9zY2dMc1dGYkJwT3JtdHluVVFxN0JLTTBoRjAtX1pid05kY3hKd3RodUR6R1laWjk4TzBjRjcyZmNwZXlGTE1TWjJ4SWlkMmxuTDVWcnNqcFBGZTBZSTB2Q0xOZ0hkWkpBNGlJMGphMkItRnRnYWFzVzNiUGFkczN3WnZGc1Z0VDg5SEZjZllIcjE3eGp5N2s?oc=5",
-    "summary": "Trainerdebüt im Livestream: SG Wattenscheid 09 gegen Köln II im Livestream jetzt live&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T17:21:57+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "e82ee156f24e0d80",
-    "title": "Bochum: Neue Anklage im Vonovia-Korruptionsfall - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONzZFVDNMQjM5c3ExUGRjTkF2TlZadEJHNXZPbVpqclV3T0VXdGxjdlpLc0Q4UDJSbDJkSzNZakhnNGUtaXNpcDBrSU9EZm8yaTk1RUdfQmppTTU4Z05BUkRxWU9SNG1wVFhZa0lBUVVmcHZqeVJCSmtBb2REVThMTzgzZXMyNGEyMHBId0l3dC1LbmVkTkJjcFdCWHBhNHNSM0hOa25icmU?oc=5",
-    "summary": "Bochum: Neue Anklage im Vonovia-Korruptionsfall&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T16:23:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "1a6455e6f70296e7",
-    "title": "St. Pauli Aufstellung gegen Bochum: Wer ersetzt den gesperrten Oppie im Topspiel? - News zur deutschen Nationalmannschaft",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObjh3Zm5uU1ZBc25jRlZRUnVRXzE0X0IyU3NfSnlXUlkzNnhSRktORGNjbm9PbG9iYkZKUHhVY1hBN1U4dlNKWHdpcHZjRVJvWHI2SFI3X2hiN0VMMC1MOW1FX3VzV2tnQjJPLUM5cWIwZFJ5MjVlYnY4alNQRzlKYkdoNFVmNGhKd1RibTZMYlVFVHN4RXZOUHFDWUJ0YWs?oc=5",
-    "summary": "St. Pauli Aufstellung gegen Bochum: Wer ersetzt den gesperrten Oppie im Topspiel?&nbsp;&nbsp;News zur deutschen Nationalmannschaft",
-    "published": "2026-11-20T16:18:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "edca276cd0d89b42",
-    "title": "Kontaktloses Bezahlen bei der Bogestra Bochum - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQM0FGQkZnUTFDZU5VNjRvbXRSNzFINW5MLTBqOUliRUlfWk5xZDZ6d2hfTmpOU2xnYVB5RDU3UnJCY0FIZkRIdHZIMDFnZlR2QXdqYWZqa0pnbURud091alNWMHFyTmR6WFlqWFp3SnhBQ2o4LTM4X253LWE3RFpUQlJiZjBNMGtBcjBacW9ib2FqZw?oc=5",
-    "summary": "Kontaktloses Bezahlen bei der Bogestra Bochum&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T16:11:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "47c494cfc100b109",
-    "title": "Tod von Anita S. aus Bochum: Gericht spricht Ex‑Freund frei – Indizien reichen nicht aus - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOUGI1aHhRZG5IN2FfbWJONTlqQVFDRW0wVUdobDB3RVZ3U054b3JsN3VaNk9yZE5IU0lZQU5adVh6cW41SEdzRXNRcDctaC1LY1NfTEh4YkZTZVM5OWxKTDhxMG5nSjkydjNScVR2azBITDNfeEFKNDl4eWp6cENTR25sMmpNTWIyYk1ObU1uQVRSZmFOcV96VlhOSDhmZUllc2QyZkdOdDZEZTFpVGdpVkIyMUJibGU1eEdPOHJ2OFdQYWlmWUtRMmk1RQ?oc=5",
-    "summary": "Tod von Anita S. aus Bochum: Gericht spricht Ex‑Freund frei – Indizien reichen nicht aus&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T16:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "2cf2902e01999c2f",
-    "title": "Urteil nach Schädelfund von Anita aus Bochum „Wir wissen nicht, wie und wo sie zu Tode kam“ - Ruhr Nachrichten",
-    "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNc2pCazM3VzBrUk04QThwVVRsUVlkbFFJWm8xeVdURXM0RWlrbW94ZzlHeld2OXRGTC13VGxjRHFvWVliQ1VUbVZERFZ1UXc5YUp4RmFsOTlwVW1BX1ByT251UWN1MkFySS1mZ1FlUjBLNHlJX0lVMTQ0WkxwbkNxZEhEeTEzTlFELThuWG9tSWdPblpnZXloMEJJam1BQUxrNkZ2NlRQNDZ5QlEyc09Cd3g5Z3ZvMms0eVRFd2NTXzNiUWdOX25wM1JUS1ZXX25hUm5USmtkWWRmZDB4aFhyNjVsdE5DMXNudzdsSjhSVGlUYk0?oc=5",
-    "summary": "Urteil nach Schädelfund von Anita aus Bochum „Wir wissen nicht, wie und wo sie zu Tode kam“&nbsp;&nbsp;Ruhr Nachrichten",
-    "published": "2026-11-20T15:40:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "24b65af56125bfd7",
-    "title": "St.-Pauli-Blog: Bochum-Trainer warnt vor der Qualität der Kiezkicker - TAG24",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZVViVUtld25TVzlmSk8tc0Z5M2lLTExDY1c3VmNYU0t3NTJfNk5jU1NRNlBhZFhCUFEyQVVOM1dSbnBkYS1yOUI4Zm90VlZsbndnOGc1R29Dc0JGelZSTGhsbVJfODk5VUtEZ09YT3luRnIxRkY2blVOUHBxR1Z4c3ZMVTI2OG9wUGxsdjZkY3JLbV9KR09PbWJwRHZ4a3JJNDJ2R1U1RXdjVGNiLTZtVVhMTTlXem1pU24ydTNTUkItbGF2LWNyZHNn?oc=5",
-    "summary": "St.-Pauli-Blog: Bochum-Trainer warnt vor der Qualität der Kiezkicker&nbsp;&nbsp;TAG24",
-    "published": "2026-11-20T15:31:20+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "79cf450cada65a0c",
-    "title": "Bochumer Fotostudio zieht um – was Kunden von dem neuen Laden erwarten können - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNczAyX0VPZS1tLVdWOEYtZWd0THdLT0xrcVJsaHBjeDBoM21lVEJuY3VMNDA0b0tfMXVFalBPQWhhYXFIR2NUcVBkM2JCcG1GUGszRzd5ejhPOVFlellOdUJERkNHbXdxYThIUGFsckUtMTExd3p2U1ptOUZtVTMzRTJuRnIyWFpwV0xuVVVZX3NXenFDY0VFLWxKSzE4dl9Uc2YzeXBJbkFpMm5nRDFpbjhjaEFoWkIxbjZvTTdJNmU5eDNlTmtQajdGakg?oc=5",
-    "summary": "Bochumer Fotostudio zieht um – was Kunden von dem neuen Laden erwarten können&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T14:36:47+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "08a6b351133f9311",
-    "title": "FC St. Pauli gegen VfL Bochum live im TV und Stream: Hier sehen Sie die 2. Bundesliga - Frankfurter Rundschau",
-    "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZ0ZFLXdYaTRWQjcyTWprREUxUl9pTGxuUzJMTFFsM2VrbGlEOVFBakRDSFBXU1JRQjlEWFRwWHFnbEw1RFF0ckRVYXFJT3RIZjFaT2ppUG5LMDEwcU1NOXpxSF8xV3huT3lMQW9OSHRXVTJjeTNlOGlmdVJmTWFtV1hLVmRfM3I2Tkd1dUdocFJCNnJUYWItQThxRDREOXZodVYzeTlueGhWNlRrQXljX2g1UVZHcU5qU3BNc05DekQ?oc=5",
-    "summary": "FC St. Pauli gegen VfL Bochum live im TV und Stream: Hier sehen Sie die 2. Bundesliga&nbsp;&nbsp;Frankfurter Rundschau",
-    "published": "2026-11-20T14:23:59+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "a21866f356a57679",
-    "title": "FC St. Pauli – VfL Bochum: Wett-Tipp, Quoten & Vorschau zur 2. Bundesliga – 21.11.2026 - fussball-wm.pro",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWVhscnBTd2x1TmgtQUV3TjRheXZMaTh2RVNmVDVpcDRJWnotS0J0emZpSlVfMFBHQ001bnVDQmF2TnU4ZGY5OEktcWszUy1LVG9wTXRGQWtaODdqWWdsVXZkQnFBT3hocmZnd3QwLXp1a3VXRlJwZmpFM0VUZXdsRURXYmtGYTNZdnQ5VW9GOTNOd1RBb094SWJXSQ?oc=5",
-    "summary": "FC St. Pauli – VfL Bochum: Wett-Tipp, Quoten & Vorschau zur 2. Bundesliga – 21.11.2026&nbsp;&nbsp;fussball-wm.pro",
-    "published": "2026-11-20T14:23:47+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "45808a27485ab409",
-    "title": "„Schwierig, mich umzustimmen“: Warum Karol Mets St. Paulis Angebot ausschlug - Hamburger Abendblatt",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeVh3OHI3bHVjUkdXR1BUOER2WVNLbEpPUGhlTEhBZVV5UUhpdGEyNkpCRkxlbTB1bHhJM0JWcTQwMVZCamlBcE8yY3lJejNROUV5NEZ5a0lzYlVEblpaLW14bEszUkJBMHBnTmdFU1ZxYnlaYjhrQm9hVHR1VE5ROGM5bWJnUmdWQ1R5MjZLV3Zfc0Vkb2hkZzI0MGwyMWxxVGFxMjFzS01UZjRmOHJqV2J1aFEta3RITE11ZUgzcmI4a2d1azNN?oc=5",
-    "summary": "„Schwierig, mich umzustimmen“: Warum Karol Mets St. Paulis Angebot ausschlug&nbsp;&nbsp;Hamburger Abendblatt",
-    "published": "2026-11-20T14:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "3fdb04160e476cbc",
-    "title": "„Es geht darum, die Anforderungen an sich zu erhöhen.“ - MillernTon",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNY1NISFZIVG1hTldzMVo2RUNtZTdCdWJIa0VMb3ZSbTZSLUdXbEw4cWJqWml2SFMxbmh3a1djbjJBcjFzMkl6M0R4Y0pRd2U4WWJQTkEyNGk5dlZ5a2JzcXlCZk5XaVhNRVZPS0xvQVV6WEhCRFBwUHZzdUhpdEdHalVaZnh2SGZuRE1rNHh3?oc=5",
-    "summary": "„Es geht darum, die Anforderungen an sich zu erhöhen.“&nbsp;&nbsp;MillernTon",
-    "published": "2026-11-20T14:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "f9c42904df58da2f",
-    "title": "VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLVAwTTdHVkVUOWdWdVVXcW9WWWM5UEZmSUV6ekhZYmlEMzhuRjN5VlU2WmFwZjlOQzE1ZjNsbGF5UU4wQTFqMjhrRE1ndTc1N2FmcTNFWUFvWDc2V3M0Smd5MGp0N0pSMnpGRmkzM3hZT3JuTHNLRWE5cWRIV19XQU1nYlM?oc=5",
-    "summary": "VfL Bochum: Mets „brauchte Tapetenwechsel“ – darum verließ er St. Pauli&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T14:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "f50aaad5536be68b",
-    "title": "FC St. Pauli vs. VfL Bochum - Vorschau & Aufstellungen - Liga-Zwei.de",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE54cXR5NnlrOVZpX29Od25ncW83QWRwa3Y4WnRPWHJFXy1mS1AwOTVRWlQ1T29ocFViejVVTmNEenpYSG9jQzQyeUt2WWVTVjRkbmc4T092LXktYUxKMFpoTjZIa01xU2lYcUlWWg?oc=5",
-    "summary": "FC St. Pauli vs. VfL Bochum - Vorschau & Aufstellungen&nbsp;&nbsp;Liga-Zwei.de",
-    "published": "2026-11-20T13:46:41+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "db122dc44e0f2a2c",
-    "title": "Wintermarkt im Ruhr Park Bochum startet heute: Weihnachtshütten, Shows & Zirkus - Ruhr Nachrichten",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNSmVXUzk2VnVKYTk5VjhrQWZLYk5kZk1zVlBrSkVKanlaMUNDdUlLRElEcGNSaHlsNVNEazhSQndTVG1NQUdFbnNNNUl5TzNyOXFMeEk0YnI2WjFHYjRMYjh5VHJDRnZDMk1tcDFsY3pjOF9xRHNkYVR4Ym9NVVRlaVpJeTktWlBzRVloRU45T3FDT0E1OWFZZHg4aVhhTU5qRFpUNU5STzIwSzdFRFdVMDRfMnc5eU5IVEhCdHVwdmI5b19SaE9TM0VLeU5qa1EtQUh2NkZEbE9CZWVqT3pGRmFvSjhoam53eVg2SVZqUQ?oc=5",
-    "summary": "Wintermarkt im Ruhr Park Bochum startet heute: Weihnachtshütten, Shows & Zirkus&nbsp;&nbsp;Ruhr Nachrichten",
-    "published": "2026-11-20T13:43:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "5970960e9449024a",
-    "title": "In Bochum hängen bald 380 Kameras und Objektive zum Ausprobieren - Photografix Magazin",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQVUV6Unk4VS1CYlpWNExvZGtxbzBuVDk5aG9USk9QSF8wQnJGd1pLMWp0WjF5Q0ZvM2lUMFhXNldnaHd4ZmJiNGZQOEdyRlEyLU9ZV1A1MDJObTVCRWcxSThTWGZkTC1hOTJIRHBYai1DU3N0SVF2LXk0ODhIZW1lUFd2RDNjMGZhWmNPelVtNFdrOTRYUDJfMENONGxSV2J6?oc=5",
-    "summary": "In Bochum hängen bald 380 Kameras und Objektive zum Ausprobieren&nbsp;&nbsp;Photografix Magazin",
-    "published": "2026-11-20T13:42:09+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "59bcd380563c5f0a",
-    "title": "Bochum: Freispruch im Prozess um Tod von Anita S. - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX1VYMTNRYlFRbVhhOWRpWmppMUFTS3JkX2RwcTNxT2NhWkxFby0wOEYxaWdaNEVsYVpWMHpOVHFpbGlNd3BNV1RMMUZLczVQUDFZbWpzVmtQS2lGQkRqNlFLSjVYaUtaSlVWSkFHY25xYzRHeFFhQ3l1SEtpVHpweDFDSnJZbkd5UG9KUHhkWHBIMkNn?oc=5",
-    "summary": "Bochum: Freispruch im Prozess um Tod von Anita S.&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T13:10:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "0dc4e64f74fb7e38",
-    "title": "\"Müssen gegen Bochum performen\": Wieso der Druck beim FC St. Pauli plötzlich steigt - NDR.de",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPaXRyTGR1Ml94NFZJdDJrc0N3V3M3VGNfQjZmc1BoRW9lMEFhUHg1bjgzNG1fV1A4SzhCa3p6U25OV2c0WGhKNlRFYXlyX1NqUjUwQ0xaSFBvNzlDWWxGUk5VYTJkVVliSnZ1MWp1WFdibzBCZzVpLUloVzh6Q21oRm9QR3dQOFYwXzB5dU9PbG5qNWNRdHp1UUhZMzZiMlZZYkE?oc=5",
-    "summary": "\"Müssen gegen Bochum performen\": Wieso der Druck beim FC St. Pauli plötzlich steigt&nbsp;&nbsp;NDR.de",
-    "published": "2026-11-20T12:35:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "0189d5bb60b29e78",
-    "title": "Pokalhit gegen Augsburg: Tausende Karten im freien Verkauf für Fans des VfL Bochum? - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNR2I1Y0I4ZkJlVUFkRVBLS0VFOUJXVVlZZlVvOHR5NzZxQmw3TXRsekxPcC1WWGF5emJJZ3dPbVBRa0p3VW5QUWlvdHJlcU1IdlY2YktCMGctNGFRUEkyR3pRaWlKVHJJOWpDcm9IM2ppX25ROTBWdXUxcmxoQTlEZzdZX09VbkJldGxBYTBveENoaFdCTDJVTVQwWnlJbmNTRndiSFZnODNOdVBEUzhMYzV1dFllb1puTUhTTWlaNzN4OXlxNXg1bWRvd3NFSmxCbTF1by1uUQ?oc=5",
-    "summary": "Pokalhit gegen Augsburg: Tausende Karten im freien Verkauf für Fans des VfL Bochum?&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T12:31:19+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "538a4e12987a74ce",
-    "title": "Bochum, Recklinghausen, Gelsenkirchen? Klarer Favorit für Fusion mit Herne steht fest - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOakVqakpCUDBfLTlsM2VuaUllSlpCZHJNdVpCZW5ibUxIZExGTDZ3S2IzRTZ4Ry1CWDVDQkhBdWlaMGh4THBkeXpzUVFmYWhmWmN2WWtZSndaelZrSnJEWDk1dHdGdGF4Vkt2NnEtOThOMGVTa3E3YWRBWmxJYUVVOUF0MnJ6MDhPcEV1bG5aa3pPOElUZFZFaF9XNEQ5Tmd5WEQ4d0ZnTG5kY3hlcHdTUWpGOTdrSDRxc1hYOWYyWklDT090c1RxQTVPMzRyc3BpMXFfQ19Yb0NDR25Fa0VRWGlsOXJlMzR2b0JXVW4zNC16Zw?oc=5",
-    "summary": "Bochum, Recklinghausen, Gelsenkirchen? Klarer Favorit für Fusion mit Herne steht fest&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T12:26:49+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "acc64d436fdaab87",
-    "title": "Neuer «Notfallwegweiser» für Patienten in dringenden Fällen - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOX0x1R2Q5UF93UHUyV3VqT3BHd295UVlLYjRjVjlJVlZ4V21LdFd5cTlSRzBhM0ZweExIZndRcERoY0dtRUVOb2M2RzRzVGxsNDRROHh4Wkhud3RmWmQwN0c1MjBUQ2ZGTUxjRy1FVzNmRkJfNmU4d0ZyU1YxVnBEUGpsUXd1bVFtMks4VzVITUVnWmVKTGFxejVLUW5vbTg?oc=5",
-    "summary": "Neuer «Notfallwegweiser» für Patienten in dringenden Fällen&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T12:17:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "2b43e585f829beff",
-    "title": "Topspiel live im Free-TV: Hier sehen Sie St. Pauli gegen den VfL Bochum - t-online – Hamburg",
-    "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQY3FpaXRxUVlseUpVRUptcjUzT0dMTTQwbVZaQnRpc0VBcEdpOXJ0TVB1LVk3Y0RDQUU5bFJXT2FFN0RJMWw1eHdHQlllTGVkaEVhTVdqS09wb0hpWGFSY3RENmF0OUk0NkRWaF95R055cmZTdklTR3ZxOTh5ZHFyYnJlb1FsUjh1RTAzbTdxNVB0TjVra3Bfc1dHbldNd0VvSVJZVDhWZ2J0UkFxYWdOWGRiR0dVQy1VWFJZcFBGY284U2dMRE13?oc=5",
-    "summary": "Topspiel live im Free-TV: Hier sehen Sie St. Pauli gegen den VfL Bochum&nbsp;&nbsp;t-online – Hamburg",
-    "published": "2026-11-20T12:16:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "7387d5a030a60c26",
-    "title": "Topspiel live im Free-TV: Hier sehen Sie St. Pauli gegen den VfL Bochum - t-online – Hamburg",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMkJFLWl6QldUbzNPcExYcnNpNndWTEktWlUxQVNJUmFBUkFoNG5IQWZqalFzdV9EWXhkdlB5V3Y2ZnAySU1jMEpOd2FRWDkyaWJ6bFUxellsUGxPXzFtczJaRVlBWUZUR0lRaUtaVVgxUGl5c3MwclZKSUkwb3RuMXF1RmRXR3g4eHJicjJaLV9WSmhtNm9LYjd4LXRnV1gwQmc4VVNRV0lpS09Ic3dlQ0d3NUZBejR3M2ZUN1ktazVaY3ZjU2ZyeQ?oc=5",
-    "summary": "Topspiel live im Free-TV: Hier sehen Sie St. Pauli gegen den VfL Bochum&nbsp;&nbsp;t-online – Hamburg",
-    "published": "2026-11-20T12:16:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "8d8751bb63d7980b",
-    "title": "Topspiel live im Free-TV: Hier sehen Sie St. Pauli gegen den VfL Bochum - t-online – Hamburg",
-    "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZjAycjZOS0hvWklBVGYtT3hTUEd1NnFwWHY0aVlER2REbkFZTUNPRWZIU3VodDRNN0N3LUo3MUw1Q0NXOEtQSG1UaUdZVEdLRHFzcVZKT3gzeDd6NlY2OHlTaXFxWGhkTmpsZVVMMDFmMWNWWl8tLWNZNXpOOHppRld5LWszXzlqRkR6ZUw0YklVOWJEcnBNSzUzU18zTGwtbmVySWZVUzg1aDl2LV96aFljSUNjMnA1WGJZZDlTajRiZTZkbUNwYQ?oc=5",
-    "summary": "Topspiel live im Free-TV: Hier sehen Sie St. Pauli gegen den VfL Bochum&nbsp;&nbsp;t-online – Hamburg",
-    "published": "2026-11-20T12:16:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T20:46:06.245296+00:00"
-  },
-  {
-    "id": "5d4ff3e92ed2f51c",
-    "title": "Bochumer Weihnachtsmarkt feierlich eröffnet, Bochum Marketing GmbH, Story - lifePR",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQzY4WWpFZ195MWlRdHlTOWNZZFN5MnBBdy1XZTU2a0JLQnZVSFlpdFZKTTk2VS1SVkN3RER4MWJhc3FuQWw3NXAwODhHMFRUQS1CRjhZem51dGowS1BkYzY1UG9IeS16RGhBY0JZSHhnMHlSVG1iRUZSdHFPQWNHSjRJeEtlN0hRQ0JjT2Q1NkJZTFNLMExFR1V3clh3RklIdUFjcUdlXzNtNHZD?oc=5",
-    "summary": "Bochumer Weihnachtsmarkt feierlich eröffnet, Bochum Marketing GmbH, Story&nbsp;&nbsp;lifePR",
-    "published": "2026-11-20T11:46:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "2cbf99512bfe21d2",
-    "title": "DFB-Elf im Viertelfinale der Nations League gegen Belgien - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPeGpzQS1IMjlHdTlONnE2MWpuUFZXanRvZU9sR25Tcnc1SFhGelV3T0VrZ3RjdXpCclBTalNPNklibEIxbEFJQWdTenFra0tRT0pGaFpTZnIyamF4by0xMVJTNzh1TEFXaVgzVnA1czZYNGpXZFZRQWpRVEZYNDdvSWpkRGV4S0JfUlNGQndDdmJlVTN3bkUzdEhtV1Y?oc=5",
-    "summary": "DFB-Elf im Viertelfinale der Nations League gegen Belgien&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T11:27:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "d201a8e4860998cc",
-    "title": "Vorgezogenes Finale im Bochumer Kreispokal? Wiemelhausen – TuS Hordel heute im Livestream - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQcnlZa1RXdENHeHdWYWFmbXE3aTZ3ZzA5YU9YWTBhLWxORGY0alEwU1Jid1dNV2tSOWZwWF84UHE5R2ZGa0FRNGtXYTZMT3hjd0RPeHg4c1NHaWlQNWd4X29QMm52WFhBNlIycUc4TmhYMDRwVmZBcUo5eVY0UHU1cTQ5cmZ6ODZ4WjRMVnZtS3c5MExoTzRwQmVZVEFRWGhOb1JxeWp4T0V3YzlzVXJ0SWV4MjZ6OWk3VE9IVzNVZ1dSRlU5dHRDVUpvWmRGaHJfUzNTSkxDRTlTUXcxSWs1VTZhLWpsUQ?oc=5",
-    "summary": "Vorgezogenes Finale im Bochumer Kreispokal? Wiemelhausen – TuS Hordel heute im Livestream&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T11:22:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "c29f226942bb889f",
-    "title": "Tickets für Bochum ab Dienstag - FC Magdeburg",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9DRWRaOWRBOXRfaEhTMmtiT2hIRjdwVjBrY0cyZVBjbjJHal9pdm5uYUs3emZHQkFaY1Z4TEc3T3JwT1N4eVplX2tQZnhPNFJoTFo0TGJXS0RkbnVLMUZ5NGNHT3g1c1VkeVFzdkFsRzY0MGlySFgtbg?oc=5",
-    "summary": "Tickets für Bochum ab Dienstag&nbsp;&nbsp;FC Magdeburg",
-    "published": "2026-11-20T11:04:58+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "7336fda366ae735c",
-    "title": "Abdichtungspartner Bochum: Warum eine reine Rissverpressung bei Beton häufig nicht dauerhaft ausreicht - Tagesspiegel",
-    "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPNDRNMFQzZm82MlVkWHZTc2IzQ3YwUlFCOUlnY2tVYmVNWUR2TlVBSG1jTzZUeUsxTWVGZ2ZyTHpNekV3YjRZRS1pdTItdWhFV2Z0eDBBZ3FwNDV2dWRHU2pMaE5jeDRyTVNNUlVINUVDS2pFXzh1YnJURU11TEpqNldkOXpUWXdNUW4xa0tkSUo1MmxoR1hBLWRKTEVfejhJbEFhTEgtbUU1aUdqUWJoTlRVT3FEd01tcE0weWlqUERXSy1rZjJEdlRzMi1YaHlrTEFuaHZ1RTd4MG84WFZlQUZXakcweG5QTjNxR0FhWDBPdw?oc=5",
-    "summary": "Abdichtungspartner Bochum: Warum eine reine Rissverpressung bei Beton häufig nicht dauerhaft ausreicht&nbsp;&nbsp;Tagesspiegel",
-    "published": "2026-11-20T10:41:06+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "99d7b55ebd31a30c",
-    "title": "Abdichtungspartner Bochum: Warum eine reine Rissverpressung bei Beton häufig nicht dauerhaft ausreicht - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96Xzdib2FyMnVSTGZYeWR6a0dQQjhNQm1XMDFhek9ZMUJ0RTNTTUI3WHlxeWNYSnlBN2h3SURVcm95MnNoN3ZjWEdZM080OHVTU3RkVVhhVUs?oc=5",
-    "summary": "Abdichtungspartner Bochum: Warum eine reine Rissverpressung bei Beton häufig nicht dauerhaft ausreicht&nbsp;&nbsp;Presseportal",
-    "published": "2026-11-20T10:40:53+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "150b17568d9bfdb6",
-    "title": "POL-BO: Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1waV9YSERmc01GNVpnbUl4WlZ1MWtDOEVJd2kyUXBabmFyQk1GOWlMbEZ5S1RxZUo5UXpOeFh3aVNRbTl1QmJYMDFySnRWOGIwMl9CVDJDSEp3WW9VME9MMnV4QTI?oc=5",
-    "summary": "POL-BO: Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise&nbsp;&nbsp;Presseportal",
-    "published": "2026-11-20T10:35:59+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "039fcc510a9dae72",
-    "title": "Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSzJ2V2Q4dDJaLUp0c3pfSWRGSmQ1dVpsTGUzRUR6eTdEMGE0MVhOaUJBeG9CVURjbmJwWG9aVkUzVzN0czg5X3Y1MlI1MnFDMmtDSnpYclJTLTdWSzVFRTZYRUNzMkVNdlN4amZZU0F2UnREZHNtSi1JYll6UExDc2VreTlwMGZPYXRLOTJZTVJtNGF6ZXk0QzBuZm53TzQ?oc=5",
-    "summary": "Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T10:35:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "41a625596df6f588",
-    "title": "Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise - Radio Herne",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUp1NjJOV3l4REdnVnlORWhzeG54amJmUmJXSGxHQVJQeDRUNm5kVWdid19ieEVyOURTZ0tZVFZJTEx2LVB6ek0tN1RiazFneTg0MkREWHlMSmhsZVNRRGJ5d0R4bVUxMmFqdTRFcWl4Y2ExazFBN0hNSTFMOHhDM1VQYlhVYVM5TDd1bmo4akctbVM0VHppR3BOS3UzZw?oc=5",
-    "summary": "Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise&nbsp;&nbsp;Radio Herne",
-    "published": "2026-11-20T10:35:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "7f74bf9eec5821f0",
-    "title": "Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeHk4QThMQk84WVRHbDVDRjBUb1FiV2hpNUpjOVpMS3ZsY0xacmJHU1UzcV93RVRpZVNjbFptQ3JaSXhydHJLc19NREVja1BaNi1OUURwSFN0Q2RaUWdkenhBc3RYcDZoR2U3ZGxhSmhpTlpHUjYzQTZnYXY1ZkQtbm4ycGVYM2hFTnQ4X21WQWxNOGg2ZkxBSmZ6ZG5ZdXRMM3FHN05aRmZqdFhobzA1UkJaVQ?oc=5",
-    "summary": "Einbruch in Einfamilienhaus in Bochum - Polizei bittet um Zeugenhinweise&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T10:35:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "058ff1131218dc97",
-    "title": "Bochum: Stadtwerke ändern Strom- und Gaspreise - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaGtlUDFIV0F6S2c0TmFjN1dvQ0lfbi11MEFRY21aa241Z0xuaWVhUXVwR0FyWmgtVnpvZno4OFZCdXdjT3hyMWhBSFFZQk1Kb1R2S1ZWWGMwUEo4cENpNlBOSVQyQzFXY0JHUmsyc1M3UnF5ekxfa1hTOWpxRmlNUG5vOFg0ek9sTVAwLUI0bUdkdw?oc=5",
-    "summary": "Bochum: Stadtwerke ändern Strom- und Gaspreise&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T10:30:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T20:46:06.245296+00:00"
-  },
-  {
-    "id": "4b499f52a89625f6",
-    "title": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche - Radio Ennepe Ruhr",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNLUl2S1QxczEzQTdTcEQ1Wnk3RENKMmtKb1R4ME85ZUxmUTc2bUdPa0I1c21QMUpyOXZrVjB2SXctMENicFdTX0dROEtSeW5hU0NjbWZ6TjIzTVpqeTI2eGJ6a1ktYzE4ZU9aZ1k1YmVmVXdZRzFVVjJKdXhrSFJBUzNkWnVJX0dFdUdVa25ZQnBEVW96X0tUSHBxaHpraWJVc0E?oc=5",
-    "summary": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche&nbsp;&nbsp;Radio Ennepe Ruhr",
-    "published": "2026-11-20T10:12:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "726b494bc3738926",
-    "title": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQURwb29GVnp6MnRTcmFfbjZlWDMxQzFQQU9uT2RwRjFuZUVHZ08wd3pCSFgxNmRRcjJrVS1yelowNC1CRUpiQThNOFd2amhveHpCaExNV2o4SHZQZEM2cWpqT2FjNC1jQS1HS1pOX2JHaVMwNzItRGNPajlxNnNOUWVBWW5VYnlOSkpRaUkteENUbjUzUFVrbGJzREw?oc=5",
-    "summary": "Wohnungs-Einbruchs-Radar - das Polizeipräsidium Bochum informiert wieder über die Verteilung der Wohnungseinbrüche&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T10:12:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "9529fe48c05a32ee",
-    "title": "Wer zeigt St. Pauli - Bochum (21.11.2026) im Free-TV/Stream? - fussball-wm.pro",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZzk0SWplV2ItZWxFVjdRRjBIWHpxZElGRHVYdnZOSkJQOGU3RDNEQTBVbWttOWE5eHpiT2R4VnZSVmZNa0h5Und5cGFiSjI0V0NaczBxa3pRdmZtcThnQmtqNm1GM1dCLVU2OUluLWdGZ3d4Z3VtZUxtMVJPeFBEb1pwcw?oc=5",
-    "summary": "Wer zeigt St. Pauli - Bochum (21.11.2026) im Free-TV/Stream?&nbsp;&nbsp;fussball-wm.pro",
-    "published": "2026-11-20T10:00:37+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "9de6b97617f765c3",
-    "title": "POL-BO: Einbrüche in zwei Kindergärten in Witten - die Polizei sucht Zeugen - Presseportal",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1GR3o5T3ZVb2lYNXVPR25NR1FSVURHX3hDWHRzZUJ0VmM5U1BGcDk0YmVocGRHSmVIVkNZT0UxS1cxU2xxc25XTnVOenBMODVqb2RwakUzUW02QkJ0U2ZEWmMtUjQ?oc=5",
-    "summary": "POL-BO: Einbrüche in zwei Kindergärten in Witten - die Polizei sucht Zeugen&nbsp;&nbsp;Presseportal",
-    "published": "2026-11-20T09:59:55+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "5949a82660477bfa",
-    "title": "Einbrüche in zwei Kindergärten in Witten - die Polizei sucht Zeugen - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOOUVfWTdRQWxyZFQ2T2N5ODZ5Mm1Zek5UZUpQUW0wZ0w4aVB4TC0xYUJZOE5EN1k2dWFPTVQ2eVdWSXpQUC12WDQ1X0ZrOTN5TlBadlFtdU9MSnlvektJQURLd2tPYjBxZ1B1UFJUVlFYR0Y2ZXpycUx1OXk3Z1Q5ZDUwM08yTWRMWnJoZHhmVHJHRFpmQmdxb1VwMm9CQQ?oc=5",
-    "summary": "Einbrüche in zwei Kindergärten in Witten - die Polizei sucht Zeugen&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T09:59:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "fe08ac77099408c0",
-    "title": "Einbrüche in zwei Kindergärten in Witten - die Polizei sucht Zeugen - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMGkzeDlyRG9QM25kRkFoX1Q1OXZvVjBYNjNqM2xBb3NyZU1jallNWFdXdzZURVhhVFoyc2wyN1ppdVZtOHdkMGdZbmV0THdTOHJITlhLYjdNcWRFTXE0dlQzLXpIeUY4cGJzbVpFbnJHLVJ2RDlrREwzQ0U0cjhNU0Z5RzVrQktHaDRvQkV0alJSY0NIVkt3WkdfNzNQREhEdUFBb3VRMUxCSmdyNlFJ?oc=5",
-    "summary": "Einbrüche in zwei Kindergärten in Witten - die Polizei sucht Zeugen&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T09:59:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T20:46:06.245296+00:00"
-  },
-  {
-    "id": "335bfe418616022f",
-    "title": "Joesfine Karsties · Mittelfeld - VfL Bochum",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XcHdhRG4tWmVOcXNrOUxBUnk2cndnRm11UU4zQVhvc2RHZURxaDFmaHQzbE93dEU5allVUTVYWVVYMDc1VUFTOHlHMEMtSGVpNWZERHZRNA?oc=5",
-    "summary": "Joesfine Karsties · Mittelfeld&nbsp;&nbsp;VfL Bochum",
-    "published": "2026-11-20T09:33:47+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "5c9e60e8152d4322",
-    "title": "FC St. Pauli gegen VfL Bochum: Übertragung im Free-TV, Liveticker, Tabelle – alle Infos - RND.de",
-    "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVEZmeC1mc2RoTGhCV0NQSGgxRXdqOU1hQ0FUZ2laV2JqT2Jta3Y2MzYybkVNS0c4RmhHeFVlM01SVkJlQ3g1M195ckNyT3ZQV1dvaTQ5Z1JkRVVrYlRrYWsyYU55SVpiUUZyQ21EVW91b3ZWWnQwWFRxSHVnLUVfcFZTUWkzN0FsbkdVZ0Q4MHdwMWdpMk03QnBFTTdnYi15M3p5VHBXeHM1MnZFRVhDS0xMTVRtQkQyVkFFUC16YTFOR1ZZYW1hWUprNVJZTDhCb0R6TUVR?oc=5",
-    "summary": "FC St. Pauli gegen VfL Bochum: Übertragung im Free-TV, Liveticker, Tabelle – alle Infos&nbsp;&nbsp;RND.de",
-    "published": "2026-11-20T09:20:01+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "c117af8c913b0728",
-    "title": "Nach zwei Niederlagen: FC St. Pauli will gegen den VfL Bochum die Wende am Millerntor schaffen - Hamburg 1",
-    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZEFUbi10a2RTVzhkUWlrM01WOWRhR2p0amd1aUNJTlhvWnNxenJVMXBXcVFtc3dqNC1WUFZ5Xy16WS14WHRjUldKMnk2bWRRaDhudDh2am1GLVdIR2J4a3RUeThJTzFMX0RhQjhUNWNOM19LQkNvNzF2M250ZnQ1bDFCTXkxM3BqS09FQzZUWkZkZ1ZRUHZwQkhLcWs3eWNzR3ZEQU1uaG9HWnZLb0JmTFpnckt0VERM?oc=5",
-    "summary": "Nach zwei Niederlagen: FC St. Pauli will gegen den VfL Bochum die Wende am Millerntor schaffen&nbsp;&nbsp;Hamburg 1",
-    "published": "2026-11-20T09:16:34+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "4a5b78ebf5cc5d00",
-    "title": "Goldene Bild der Frau 2026: Das war die Gala - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRzhjUS1EcHdJdEtOSkdJUDRrQkNtTFM4cktRWlVkdzByakszZVNaTVlLRjVvdVJkWlJXVXEtSW5jNlg5UzhMT2lrcHBub0JYaFcyRXllaXZvQTRwZHV1ZEd5d1pHdmwtNWtuMFYzLWdBSEF2Z1VpMnJlRzRkblJGQXE1QUM3dV9YYkN5WGJHQQ?oc=5",
-    "summary": "Goldene Bild der Frau 2026: Das war die Gala&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T09:13:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T22:06:23.214694+00:00"
-  },
-  {
-    "id": "6c92ab25a0ca0aaa",
-    "title": "PSK Lions wollen gegen Bochum nächsten Heimsieg einfahren - die neue welle",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdEgwdy1POHd3ZllGdFYzbUp4TXhqLS10OG53YjdMcVladFk3V1pfRDB5cUtuRTEzOGU2WmVOd3E0eXQxWGUtOURHT2MzZXktTVhGUDR5LXZMVUhoaTlmN043Y0RCSHcwVlNTUHBVeTlJWlFEa01QZVNFUkZlal9oSjZueEMtejJZYkZkdDFIYUFYU3Q4RXRqZUQwYThIUQ?oc=5",
-    "summary": "PSK Lions wollen gegen Bochum nächsten Heimsieg einfahren&nbsp;&nbsp;die neue welle",
-    "published": "2026-11-20T07:26:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "bbba3d0e56751647",
-    "title": "Bitterer Streit um Katzen nach Trennung: Bochumer landet auf der Anklagebank - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaWdMQjRILS1xclg1dzFaYUh2QmJXbEowcVV3b045Q2hZNWVJYVlBNnVDZlZYVHpuWk5ZNHhoc0FaYkZma3o1eFdJb2pfSUhkMGNFLS1kYzA1OFA4SW5tdHNqR0l0RXhwcVZHMWhRTHZVckNIY1FvSk94QTBSMkxnRlFfLUFYYVVacVBRV2pQUUhpMlB0OFNWTjZxcGpTT01oc3k0dWtGOTByRUUycC1ITVdQUTNnTUg0Tl85TllERFhNUFZnUWd5Tk1HVQ?oc=5",
-    "summary": "Bitterer Streit um Katzen nach Trennung: Bochumer landet auf der Anklagebank&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T07:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "76ddb39afa5f2764",
-    "title": "Matchday! St. Pauli will im Topspiel gegen Bochum endlich wieder siegen - StPauli24",
-    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd1dOQ2s0NWtaclpzOWFXSUxlbFRWMDd4UkpRYXpmcUhPc3BiVVpZTkE3cV9SLUliMzdGWktuR2RjaGNlN1U1Q3c2eFlvdVhxbEJLSElxWjV5eU9XZ0U5WFZObVpGeXJHMzlyb2ZkcHNmaVFFQzdkMHVlU00tdGpSVXJxUWJrNm1KZkNmSGNjZkJkTngxekkxYnVTQkkzRlJfcHN0SXl6cWE5cWt4cmJKcw?oc=5",
-    "summary": "Matchday! St. Pauli will im Topspiel gegen Bochum endlich wieder siegen&nbsp;&nbsp;StPauli24",
-    "published": "2026-11-20T06:57:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-21T13:14:17.720700+00:00"
-  },
-  {
-    "id": "202f51cc3ef6c796",
-    "title": "St. Pauli vs. Bochum Tipp, Prognose & Quoten 21.11.2026 - Bundesliga - Wettbasis",
-    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzIyaE51SXV0cXc2LUppSDFtaWMyb29oQWJjSFN0dzBXdGZwNUF6aS0yLVEtMHJIWm9GQjhCYmZWR0xQNzdfLVR0WVA5STBLQjlRcjVsSlk3LXBvSG1ldEEwS0hpRzN3bDhrdzMwTUt1NFI0SzEwQkhtb2lMVVhoODQ2RVZzckRDWFpJeWlRNTl5T1BlZWhHUkRPaVI1Zw?oc=5",
-    "summary": "St. Pauli vs. Bochum Tipp, Prognose & Quoten 21.11.2026 - Bundesliga&nbsp;&nbsp;Wettbasis",
-    "published": "2026-11-20T05:52:33+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "a146949544149bec",
-    "title": "Vorlesetag in Bochum - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE52anNBYjVKbTA3VmhfMTg1UWdvVHQ5X1JKYnRrbW5XTW5rY0NlLXNaTUdBZWNYR0JpWUY4am5USEVFd3U1blhvVXZ0dVdTWFhGSC1yckl2c2ZQYllRb2hiWC02ZS1MZHdhQkM5TFl4b0I?oc=5",
-    "summary": "Vorlesetag in Bochum&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T05:20:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "b07861f2e8c7c861",
-    "title": "Bernd Begemann live in Bochum - Ruhrbarone",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBFV2J0SWV4cFRJUXQwMUtJc3Vla0MyelNYZkdabm50ak1HVjc2NHZKNlpDZ09STm1IeDVtcTdfYWlDQjV4c0I3cW9zd2ptZ1NNZEF6TUQtc2dXYV92elpMSnNnME1BVERHbi1aWm9SR1owVW8?oc=5",
-    "summary": "Bernd Begemann live in Bochum&nbsp;&nbsp;Ruhrbarone",
-    "published": "2026-11-20T05:02:12+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "a8ed70b34e506542",
-    "title": "29 Reihenhäuser im Bochumer Norden: Jetzt tut sich was bei geplantem Neubaugebiet - WAZ | Westdeutsche Allgemeine Zeitung",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSTF6aWtxQzVrTTlyenpJSXB0YzVjM1lXMEJuMXNudFdmMUpIUXhST1pmal8xQ3hDYXpEemJlRDNIYUl6WDhudV9GckJNajVQYzRZOVJTcTdWYi0yMmdUNGdfYklCdjlKUnlCVFJMMk1XalZKQlpKNUg2X216dk9maW1ncG01VmM4S2w4SXZFUlZ1X3NnaWtvQTVKQ2l2RFNFSWNEWE1fUHVVR3BxeWZLd3NYbk9rdUp5cjJyZGxremhsYndaRmZvdEtjVVBncVFTZTZV?oc=5",
-    "summary": "29 Reihenhäuser im Bochumer Norden: Jetzt tut sich was bei geplantem Neubaugebiet&nbsp;&nbsp;WAZ | Westdeutsche Allgemeine Zeitung",
-    "published": "2026-11-20T05:02:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "edac8fc1dfad970a",
-    "title": "Wie viel Trauer erlaubt die Gesellschaft? - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3RmUlYwLTYtWnNYZ29ZdV9sWHppX0t1Tld6a3NQZ00wM18xLTg3T0NkTm85bzk1RG9oQjJUMHdnWXRPdUwtVDlvb3BERUdBd2ZCWFdoUmp0NXFkblNLUVV5U1d1ZWNHTG5WdWhhZWdXSnZqdnBmQ21hSGVyZVhqZTF5OUV5QQ?oc=5",
-    "summary": "Wie viel Trauer erlaubt die Gesellschaft?&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T05:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "701b5c583d6b2051",
-    "title": "Puzzle-Fieber: Wie eine Berlinerin zur Weltmeisterin wurde - Radio Bochum",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLWhDaDV0YzlrN21GMGRQNkN3RnU4NFpWTlB5NzFqTnJJVHUxRG90MkVaSVY4eHNfcjdNUW8tQ2JMMVBKTUF1OGpCTTFneUZBRlFhWnpIbFdPRGFiZnF3b3BEa3g4TXk4OXhpUTJ0RzZSOHhpTEVkelFMa3F1TDZKbFdQeXI5RDd3aFlxOUxUTTdqdWtjZFN4WGQ4N0w?oc=5",
-    "summary": "Puzzle-Fieber: Wie eine Berlinerin zur Weltmeisterin wurde&nbsp;&nbsp;Radio Bochum",
-    "published": "2026-11-20T05:00:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
-  },
-  {
-    "id": "ba89a6d89112f51e",
-    "title": "Bei St. Pauli gefeiert, in Bochum gescheitert: Lukas Daschner blickt vor Zweitliga-Topspiel zurück - TAG24",
-    "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPQi05UmlXamlLQXZBX21BZnVCZTlfYXdCMk9nVXEtYzVkdDhyMFBVMTBsdzhrR0lTRVZhU3ZQUVd6LWFEczQ5WHgwNDZPckpVYTFYOElNOUhYM25Eemd6M1ZQcjN5VDBpd3lIQWczd0x0NWZyZ2txazlkbG55ZWFzeGNnX0JOWmMxYnZ5NGJCYndVZEFlVGRGR1N6WW54Q3pRVWRHQzlEcGpQMGcxX3lVdlEwYXBBUWExU2s4NGdSZUF1X3I2dG14b005SEJFM3FpWWFYOG5qdnhHNV9nUlZQV19xd2xLUVhxbjR5VXdfLUE?oc=5",
-    "summary": "Bei St. Pauli gefeiert, in Bochum gescheitert: Lukas Daschner blickt vor Zweitliga-Topspiel zurück&nbsp;&nbsp;TAG24",
-    "published": "2026-11-20T04:56:00+00:00",
-    "source": "Google News: Bochum",
-    "kind": "suche",
-    "first_seen": "2026-11-20T13:48:47.252446+00:00"
   }
 ]
